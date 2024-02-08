@@ -1,0 +1,1 @@
+cdp-cookies-boton-cerrar,accept,fc-button fc-cta-consent fc-primary-button,btn btn-primary btn-sm,shareaholic-cookie-consent-button shareaholic-accept-button,mgbutton moove-gdpr-infobar-allow-all gdpr-fbo-0,cky-btn cky-btn-accept,CybotCookiebotDialogBodyButton
