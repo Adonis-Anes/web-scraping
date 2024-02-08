@@ -1,0 +1,1 @@
+Web scraping program in Python using selenium library and SerApi for searches. Specifically focuses in accepting the cookies button in the websites, dowloading the html and finding the most relevant words across the websites using tfidf. These words will be used then for making a new search using SerApi.
