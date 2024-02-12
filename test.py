@@ -1,7 +1,7 @@
 from selenium import webdriver
 import unittest
 
-from aceptar_cookies import *
+from functions import *
 
 class TestCookieMethods(unittest.TestCase):
 

@@ -1,8 +1,5 @@
-from aceptar_cookies import aceptar_cookies_y_guardar_htmls
-from busqueda_SerApi import consulta_a_links
-from procesar_textos import htmls_a_textos, crear_matriz_tfidf, top_n_palabras_rel_tdidf
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.feature_extraction.text import CountVectorizer
+from functions import aceptar_cookies_y_guardar_htmls, htmls_a_textos, crear_matriz_tfidf, top_n_palabras_rel_tdidf
+from SerApi_searches import consulta_a_links
 
 def consulta_a_palabras_relevantes(consulta:str):
     """Obtiene las palabras relevantes de la consulta realizada 

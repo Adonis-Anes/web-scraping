@@ -1,7 +1,7 @@
-from aceptar_cookies import *
-from consulta_palabras_relevantes import *
+from functions import *
+from main import *
 from selenium import webdriver
-from busqueda_SerApi import consulta_a_links
+from SerApi_searches import consulta_a_links
 
 
 #USO DE LA FUNCIÓN 'aceptar_cookies'
