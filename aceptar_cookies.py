@@ -24,11 +24,11 @@ def cargar_ficheros_botones_cookies(cookies_base_dir='cookies/'):
     """
     cookie_button_by_class_dir = cookies_base_dir + "cookie_button_by_class.txt"
     cookie_button_by_id_dir = cookies_base_dir + "cookie_button_by_id.txt"
-    button_class = txt_botones_cookies_a_lista(cookie_button_by_class_dir)
-    button_id = txt_botones_cookies_a_lista(cookie_button_by_id_dir)
+    button_class = txt_botones_cookies_a_lista(file_dir=cookie_button_by_class_dir)
+    button_id = txt_botones_cookies_a_lista(file_dir=cookie_button_by_id_dir)
     return button_id, button_class
 
-def aceptar_cookies(url, show_process=False, download_html=False):
+def aceptar_cookies(driver, url, download_html=False, show_process=False):
   """Pincha en el botón aceptar del cuadro de diálogo que informa sobre la recopilación de cookies
   Input: un enlace de una página web
   Output: nada o si se ha solicitado, el html de la página web
@@ -56,23 +56,27 @@ def aceptar_cookies(url, show_process=False, download_html=False):
     except TimeoutException or Exception as e:
       if show_process==True:
         print(f"Buscando botón de cookies con atributo: {atribute_type}={cookie} ({idx+1}/{len(cookies_button_list)})")
-      print("Cambiando el tipo de cookies a buscar...")
-      idx+= 1
-      if idx == len(cookies_button_list):
-        print('Búsqueda del botón de cookies finalizada sin éxito')
+        print("Cambiando el tipo de cookies a buscar...")
+      idx+= 1        
   if found_cookie:
     try:
       button.click()
-      print('Cookies aceptadas')
+      if show_process==True:
+        print(f'Cookies aceptadas (tipo {atribute_type}={cookie})')
     except Exception as e:
-      print('No se ha podido clicar el botón de cookies')
+      if show_process==True:
+        print('No se ha podido clicar el botón de cookies')
       print(e)      
+  else:
+    if show_process==True:
+        print('Búsqueda del botón de cookies finalizada sin éxito')
   if download_html==True:
     try:
       html = driver.page_source
-      print('html descargado')
+      if show_process==True:
+        print('html descargado')
       return html
     except Exception as e:
-      print(e)      
-
-driver = driver = webdriver.Chrome()
+      print(e) 
+  else:
+    return 1 #Para el test 

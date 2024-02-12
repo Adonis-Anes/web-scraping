@@ -19,19 +19,21 @@ import spacy
 from spacy.lang.en.stop_words import STOP_WORDS
 from pandas import DataFrame
 
-def aceptar_cookies_y_guardar_htmls(urls:list):
+def aceptar_cookies_y_guardar_htmls(urls:list, show_process=True):
     """Acepta las cookies de una lista de páginas web y guarda los htmls en una variable
     Input: lista de urls
     Output: lista de htmls
     """
     if len(urls)<=1:
-        return 'La lista debe contener más de una url, sino usar la función aceptar_cookies_y_guardar_html del fichero aceptar_cookies.py'
+        print('La lista debe contener más de una url, sino usar la función aceptar_cookies_y_guardar_html del fichero aceptar_cookies.py')
+        return None
     htmls=[]
     driver = webdriver.Chrome()
     for url in urls:
-        print("SCRAPEANDO PÁGINA", url)
+        if show_process == True:
+            print("SCRAPEANDO PÁGINA", url)
         try:
-            htmls.append(aceptar_cookies(url=url, download_html=True))
+            htmls.append(aceptar_cookies(driver=driver, url=url, download_html=True))
         except Exception as e:
             print(e)
     driver.quit()
@@ -41,7 +43,7 @@ def html_a_texto(html:str):
   """Extrae el html del texto
   Input: html
   Output: texto, objeto tipo string"""
-  soup = BeautifulSoup(html)
+  soup = BeautifulSoup(html, features="html.parser")
   return soup.get_text()
 
 def htmls_a_textos(htmls:list):
@@ -57,12 +59,10 @@ def cargar_stopwords():
     """Carga las stopwords que se van a necesitar para crear la matriz tfidf
     Input: nada
     Output: lista de palabras que son las stopwords"""
-    nltk.download('stopwords')
-    nltk_stopwords_es = stopwords.words('spanish')
     spacy.load("es_core_news_sm")
     spacy_stopwords_es = list(spacy.lang.es.stop_words.STOP_WORDS)
     spacy_stopwords_en = list(STOP_WORDS)
-    return list(spacy_stopwords_es)+['cookie','cookies']+spacy_stopwords_en+nltk_stopwords_es
+    return list(spacy_stopwords_es)+['cookie','cookies']+spacy_stopwords_en
 
 def crear_matriz_tfidf(text_files:list):
     """Generar matriz tfid a partir de un conjunto de textos, en este caso, htmls
@@ -93,26 +93,26 @@ def top_n_palabras_rel_tdidf(tfidf:DataFrame, n=10):
     top_n_words = tfidf.index[0:n]
     return ' '.join(top_n_words)
 
-def consulta_a_palabras_relevantes(query:str):
+def consulta_a_palabras_relevantes(consulta:str):
     """Obtiene las palabras relevantes de la consulta realizada 
     resultado de aplicar tfidf sobre los htmls de las páginas
     Input: consulta
     Output: palabras relevantes
     """
-    urls = consulta_a_links(query=query)
+    urls = consulta_a_links(consulta=consulta)
     htmls = aceptar_cookies_y_guardar_htmls(urls=urls)
     textos = htmls_a_textos(htmls=htmls)
     matriz = crear_matriz_tfidf(text_files=textos)
-    top_10_words = top_n_palabras_rel_tdidf(matriz_tfidf=matriz)
+    top_10_words = top_n_palabras_rel_tdidf(tfidf=matriz)
     print('10 palabras más relevantes en todas las consultas:\n',top_10_words)
     return top_10_words
     
-def consulta_a_nueva_consulta(query):
+def consulta_a_nueva_consulta(consulta):
     """Dada una consulta, vuelve a realizar otra consulta nueva con las palabras relevantes de la primera consulta. 
     Estas palabras releventes son obtenidas aplicando tfidf sobre los htmls de las páginas
     Input: consulta
     Output: urls
     """
-    new_query = consulta_a_palabras_relevantes(query)
+    new_query = consulta_a_palabras_relevantes(consulta=consulta)
     nuevos_urls = consulta_a_links(consulta=new_query)
     return nuevos_urls
