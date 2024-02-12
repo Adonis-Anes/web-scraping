@@ -28,7 +28,7 @@ def cargar_ficheros_botones_cookies(cookies_base_dir='cookies/'):
     button_id = txt_botones_cookies_a_lista(cookie_button_by_id_dir)
     return button_id, button_class
 
-def aceptar_cookies(url, download_html=False):
+def aceptar_cookies(url, show_process=False, download_html=False):
   """Pincha en el botón aceptar del cuadro de diálogo que informa sobre la recopilación de cookies
   Input: un enlace de una página web
   Output: nada o si se ha solicitado, el html de la página web
@@ -54,7 +54,8 @@ def aceptar_cookies(url, download_html=False):
         button = WebDriverWait(driver, 1).until(EC.element_to_be_clickable((By.CLASS_NAME, cookie)))
         found_cookie = True
     except TimeoutException or Exception as e:
-      print(f"Buscando botón de cookies con atributo: {atribute_type}={cookie} ({idx+1}/{len(cookies_button_list)})")
+      if show_process==True:
+        print(f"Buscando botón de cookies con atributo: {atribute_type}={cookie} ({idx+1}/{len(cookies_button_list)})")
       print("Cambiando el tipo de cookies a buscar...")
       idx+= 1
       if idx == len(cookies_button_list):
