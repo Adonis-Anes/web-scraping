@@ -80,3 +80,24 @@ def aceptar_cookies(driver, url, download_html=False, show_process=False):
       print(e) 
   else:
     return 1 #Para el test 
+  
+def aceptar_cookies_y_guardar_htmls(urls:list, show_process=True):
+    """Acepta las cookies de una lista de páginas web y guarda los htmls en una variable
+    Input: lista de urls
+    Output: lista de htmls
+    """
+    if len(urls)<=1:
+        print('La lista debe contener más de una url, sino usar la función aceptar_cookies_y_guardar_html del fichero aceptar_cookies.py')
+        return None
+    htmls=[]
+    driver = webdriver.Chrome()
+    for url in urls:
+        if show_process == True:
+            print("SCRAPEANDO PÁGINA", url)
+        try:
+            htmls.append(aceptar_cookies(driver=driver, url=url, download_html=True))
+        except Exception as e:
+            print(e)
+    driver.quit()
+    return htmls
+

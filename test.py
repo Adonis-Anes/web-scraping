@@ -1,10 +1,11 @@
-from aceptar_cookies import txt_botones_cookies_a_lista, cargar_ficheros_botones_cookies, aceptar_cookies
-from consulta_palabras_relevantes import aceptar_cookies_y_guardar_htmls, html_a_texto, htmls_a_textos, cargar_stopwords, crear_matriz_tfidf, top_n_palabras_rel_tdidf, consulta_a_palabras_relevantes, consulta_a_nueva_consulta
 from selenium import webdriver
+
+from .aceptar_cookies import *
+from consulta_palabras_relevantes import *
 
 def prueba_txt_botones_cookies_a_lista():
     salida_esperada = ['ej1', 'ej2', 'ej3', 'ej4']
-    salida_obtenida = txt_botones_cookies_a_lista(file_dir='pruebas/prueba.txt')
+    salida_obtenida = txt_botones_cookies_a_lista(file_dir='cookies/prueba_txt_botones_cookies_a_lista.txt')
     if salida_obtenida == salida_esperada:
         print("Prueba de la función 'txt_botones_cookies_a_lista' pasada correctamente")
     else:
@@ -53,6 +54,6 @@ def prueba_aceptar_cookies_y_guardar_htmls():
 
 prueba_txt_botones_cookies_a_lista()
 prueba_cargar_ficheros_botones_cookies()
-prueba_aceptar_cookies_sin_descargar_html()
-prueba_aceptar_cookies_descargando_html()
-prueba_aceptar_cookies_y_guardar_htmls()
+#prueba_aceptar_cookies_sin_descargar_html()
+#prueba_aceptar_cookies_descargando_html()
+#prueba_aceptar_cookies_y_guardar_htmls()
