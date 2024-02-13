@@ -17,21 +17,23 @@ from pandas import DataFrame
 """PARTE I: ACEPTAR COOKIES Y DESCARGAR HTML"""
 
 def txt_botones_cookies_a_lista(file_dir):
-  """Convertir el archivo txt que contiene los identificadores de las cookies a una lista
-  Input: directorio donde se encuentra el archivo txt que queremos leer
-  Formato del input: palabras separadas por comas sin espacios
-  Output: objeto tipo lista con el contenido del txt
+  """Convertir el archivo txt que contiene los identificadores de las cookies a una lista.
+  Input: 
+    - file_dir: directorio donde se encuentra el archivo txt que queremos leer.
+      Formato del input: palabras separadas por comas sin espacios.
+  Output: objeto tipo lista con el contenido del txt.
   """
   with open(file_dir) as f:
       line = csv.reader(f, delimiter=",")
       return list(line)[0]
 
 def cargar_ficheros_botones_cookies(cookies_base_dir='cookies/'):
-    """Carga el fichero que contiene el texto html que identifica a las cookies
-    Input: directorio base donde se encuentran los ficheros de texto que contienen 
-    los identificadores de los botones para aceptar las cookies
-    Por defecto es '/cookies'
-    Output: dos objetos tipo listas que contienen la anterior información
+    """Carga el fichero que contiene el texto html que identifica a las cookies.
+    Input: 
+      - cookies_base_dirdi: rectorio base donde se encuentran los ficheros de texto 
+        que contienen los identificadores de los botones para aceptar las cookies.
+        Por defecto es '/cookies'.
+    Output: dos objetos tipo listas que contienen la anterior información.
     """
     cookie_button_by_class_dir = cookies_base_dir + "cookie_button_by_class.txt"
     cookie_button_by_id_dir = cookies_base_dir + "cookie_button_by_id.txt"
@@ -39,9 +41,15 @@ def cargar_ficheros_botones_cookies(cookies_base_dir='cookies/'):
     button_id = txt_botones_cookies_a_lista(file_dir=cookie_button_by_id_dir)
     return button_id, button_class
 
-def aceptar_cookies(driver, url, download_html=False, show_process=False):
-  """Pincha en el botón aceptar del cuadro de diálogo que informa sobre la recopilación de cookies
-  Input: un enlace de una página web
+def aceptar_cookies(driver, url:str, download_html=False, show_process=False):
+  """Pincha en el botón aceptar del cuadro de diálogo que informa sobre la recopilación de cookies.
+  Input: 
+    - driver: un objeto COMPLETAR.
+    - url: un enlace de una página web.
+    - dowload_html: una variable de tipo booleano que nos permite indicar si. 
+      queremos descargar el html de la página o no.
+    - show_process: una variable de tipo booleano que nos permite indicar si 
+      queremos mostrar el proceso de ejecución de la función.
   Output: nada o si se ha solicitado, el html de la página web
   """
   cookies_button_id, cookies_button_class = cargar_ficheros_botones_cookies()
@@ -93,13 +101,13 @@ def aceptar_cookies(driver, url, download_html=False, show_process=False):
     return 1 #Para el test 
   
 def aceptar_cookies_y_guardar_htmls(urls:list, show_process=True):
-    """Acepta las cookies de una lista de páginas web y guarda los htmls en una variable
-    Input: lista de urls
-    Output: lista de htmls
+    """Acepta las cookies de una lista de páginas web y guarda los htmls en una variable.
+    Input: 
+      - urls: lista de urls.
+      - show_process: una variable de tipo booleano que nos permite indicar si 
+        queremos mostrar el proceso de ejecución de la función.
+    Output: lista de htmls.
     """
-    if len(urls)<=1:
-        print('La lista debe contener más de una url, sino usar la función aceptar_cookies_y_guardar_html del fichero aceptar_cookies.py')
-        return None
     htmls=[]
     driver = webdriver.Chrome()
     for url in urls:
@@ -115,34 +123,37 @@ def aceptar_cookies_y_guardar_htmls(urls:list, show_process=True):
 
 """PARTE II: EXTRAER Y PROCESAR EL TEXTO DE LAS PÁGINAS WEB PARA DETERMINAR LAS PALABRAS RELEVANTES"""
 def html_a_texto(html:str):
-  """Extrae el html del texto
-  Input: html
-  Output: texto, objeto tipo string"""
+  """Extrae el texto de un archivo escrito en lenguaje html. Pensado para páginas web.
+  Input: 
+    - html: un objeto de texto que esté escrito en lenguaje html.
+  Output: el texto limpio del html, objeto tipo string."""
   soup = BeautifulSoup(html, features="html.parser")
   return soup.get_text()
 
 def htmls_a_textos(htmls:list):
-    """Extrae el html del texto
-  Input: lista de htmls
-  Output: lista de textos"""
+    """Extrae el texto de un conjunto de htmls contenidos en una lista.
+  Input: 
+    - htmls: lista con los htmls.
+  Output: lista de textos."""
     texts=[]
     for html in htmls:
         texts.append(html_a_texto(html=html))
     return texts
 
 def cargar_stopwords():
-    """Carga las stopwords que se van a necesitar para crear la matriz tfidf
+    """Carga las stopwords que se van a necesitar para crear la matriz tfidf.
     Input: nada
-    Output: lista de palabras que son las stopwords"""
+    Output: una lista de palabras, que son las stopwords."""
     spacy.load("es_core_news_sm")
     spacy_stopwords_es = list(spacy.lang.es.stop_words.STOP_WORDS)
     spacy_stopwords_en = list(STOP_WORDS)
     return list(spacy_stopwords_es)+['cookie','cookies']+spacy_stopwords_en
 
 def crear_matriz_tfidf(text_files:list):
-    """Generar matriz tfid a partir de un conjunto de textos, en este caso, htmls
-    Input: lista de textos
-    Output: matriz en forma de Dataframe de la tfidf con las 20 palabras más 'relevantes'"""
+    """Genera una matriz tfid a partir de un conjunto de textos.
+    Input: 
+      - text_files: lista de textos.
+    Output: matriz en forma de Dataframe de la tfidf con las 20 palabras más relevantes."""
     text_titles = list(range(len(text_files)))
     # Cargar las stopwords
     stop_words = cargar_stopwords()
@@ -158,11 +169,11 @@ def crear_matriz_tfidf(text_files:list):
     return tfidf_df.T
 
 def top_n_palabras_rel_tdidf(tfidf:DataFrame, n=10):
-    """Obtener las n palabras más relevantes del DataFrame tfidf
+    """Obtiene las n palabras más relevantes del DataFrame tfidf.
     Input: 
-        tfidf: matriz tfidf en forma de Dataframe
-        n: número de palabras relevantes, por defecto 10
-    Output: cadena de texto con las palabras más relevantes"""
+        - tfidf: matriz tfidf en forma de Dataframe.
+        - n: número de palabras relevantes, por defecto 10.
+    Output: cadena de texto con las palabras más relevantes."""
     if n<0 or n>20:
         return f'Número n={n} incorrecto, debe estar entre 1 y 20'
     top_n_words = tfidf.index[0:n]
