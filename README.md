@@ -25,12 +25,13 @@ Veámoslo en el siguiente ejemplo.
       textos_cafeina = htmls_a_textos(htmls=htmls_cafeina)
       # 4.- Crear la matriz tfidf de dichos textos
       matriz_tfidf_cafeina = crear_matriz_tfidf(text_files=textos_cafeina)
-      print("--------Función 'top_n_palabras_rel_tdidf' en ejecución--------")
       # 5.- Mostrar en pantalla las n palabras relevantes extraídas por la matriz
       palabras_rel_consulta_cafeina = top_n_palabras_rel_tdidf(tfidf=matriz_tfidf_cafeina)
       print('Palabras relevantes de la consulta: ',palabras_rel_consulta_cafeina)
 
 Estas líneas de código son equivalentes a llamar directamente a la función `consulta_a_palabras_relevantes(consulta=consulta_cafeina)`
+
+También podemos guardar los resultados de la ejecución de cada función. Véase el fichero example.ipynb
 
 DESCRIPCIÓN DETALLADA
 La descripción detallada se puede consultar en el siguiente documento.

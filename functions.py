@@ -14,19 +14,110 @@ import spacy
 from spacy.lang.en.stop_words import STOP_WORDS
 from pandas import DataFrame
 
+"""PARTE 0: LEER Y GUARDAR ARCHIVOS"""
+
+def txt_a_string(dir_archivo):
+   """
+   Leer archivo txt y generar una variable tipo string donde se almacene el contenido del txt
+   Input:
+    - file_dir: dirección completa del archivo que queremos leer
+    Output: nada
+   """
+   with open(dir_archivo, 'r',  encoding="utf-8") as f:
+      return f.read()
+   
+def guardar_string_como_txt(string, dir_dest):
+    """ 
+    Guarda un objeto tipo string de Python en un fichero txt 
+    Input:
+      - text: objeto de Python tipo string que queremos guardar
+      - dir_dest: dirección de destino del archivo
+    Output: Nada
+    """
+    with open(dir_dest, 'w', encoding="utf-8") as f:
+        f.write(string)
+    f.close()
+
+def txt_a_lista(dir_archivo):
+    """
+    Leer archivo txt y generar una variable lista donde cada línea del archivo 
+    se convierte en un objeto de la lista.
+    Input: 
+      - dir_archivo: directorio donde se encuentra el archivo txt que queremos leer.
+    Output: objeto tipo lista con el contenido del txt. 
+    """
+    lista = []
+    with open(dir_archivo, 'r') as f:
+        lista = [linea.rstrip() for linea in f]
+    f.close()
+    return lista
+
+def guardar_lista_como_txt_por_lineas(lista, dir_dest):
+    """ 
+    Guarda un objeto tipo lista de Python en un fichero txt donde cada linea del txt 
+    es un objeto de la lista.
+    Input:
+      - lista: lista que quermos guardar
+      - dir_dest: dirección de destino del archivo
+    Output: Nada
+    """
+    with open(dir_dest, 'w') as f:
+        for line in lista:
+            f.write(f"{line}\n")
+    f.close()
+
+def archivos_de_carpeta_a_lista(dir_comun, num_archivos):
+    """
+    Lee un directorio y carga los archivos contenidos en el en una variable lista 
+    donde cada elemento de la lista es un archivo de la carpeta.
+    Los archivos dentro de la carpeta deben de tener un nombre común.
+    El formato de la parte variable debe ser {número}.txt
+    Input: 
+      - dir_comun: nombre común que identifica a los archivos contenidos en la carpeta.
+      - num_archivos: número de archivos dentro de la carpeta
+    Output: objeto tipo lista con el contenido del txt. 
+    """
+    lista = []
+    for i in range(0,num_archivos):
+        dir_completa = dir_comun + str(i)+ '.txt'
+        lista.append(txt_a_string(dir_archivo=dir_completa))
+    return lista
+
+def guardar_cada_elem_de_lista_como_txt_diferente(lista, dir_dest_comun, nombre_comun_archivos):
+    """ 
+    Guarda un objeto tipo string de Python que contiene un html en un fichero txt 
+    donde cada linea del txt es un objeto de la lista.
+    Input:
+      - dir_dest_comun: dirección de carpetas de destino de los archivos, 
+        sin contener el nombre del archivo
+      - nombre_comun_archivos: nombre base que compartirán los archivos, 
+        sin la extensión .txt ya que luego se se le añadirá un número que les identificará
+        según su posición en la lista
+    Output: Nada
+    """
+    for i in range(len(lista)):
+        dir_dest = dir_dest_comun + nombre_comun_archivos + str(i) + '.txt'
+        guardar_string_como_txt(string=lista[i], dir_dest=dir_dest)
+
+def csv_a_df(dir_archivo):
+    return pd.read_csv(dir_archivo)
+
+def guardar_df_como_csv(df, matrix_name):
+    """
+    Guardar un DataFrame como un csv. 
+    Se guardan en la carpeta results/matrices/
+    Solo es necesario proprocionar el nombre, el resto de la dirección se completa.
+    Input:
+      - df: El DataFrame que queremos guardar.
+      - matrix_name: el nombre con que queremos guardar la matriz
+    Output: Nada
+    """
+    df.to_csv(path_or_buf=f'results/matrices/{matrix_name}.csv', index_label="palabras")
+
+"""-------------------------------------------------------------------------------------------------------------"""
+
 """PARTE I: ACEPTAR COOKIES Y DESCARGAR HTML"""
-
-def txt_botones_cookies_a_lista(file_dir):
-  """Convertir el archivo txt que contiene los identificadores de las cookies a una lista.
-  Input: 
-    - file_dir: directorio donde se encuentra el archivo txt que queremos leer.
-      Formato del input: palabras separadas por comas sin espacios.
-  Output: objeto tipo lista con el contenido del txt.
-  """
-  with open(file_dir) as f:
-      line = csv.reader(f, delimiter=",")
-      return list(line)[0]
-
+  
 def cargar_ficheros_botones_cookies(cookies_base_dir='cookies/'):
     """Carga el fichero que contiene el texto html que identifica a las cookies.
     Input: 
@@ -37,11 +128,12 @@ def cargar_ficheros_botones_cookies(cookies_base_dir='cookies/'):
     """
     cookie_button_by_class_dir = cookies_base_dir + "cookie_button_by_class.txt"
     cookie_button_by_id_dir = cookies_base_dir + "cookie_button_by_id.txt"
-    button_class = txt_botones_cookies_a_lista(file_dir=cookie_button_by_class_dir)
-    button_id = txt_botones_cookies_a_lista(file_dir=cookie_button_by_id_dir)
+    button_class = txt_a_lista(dir_archivo=cookie_button_by_class_dir)
+    button_id = txt_a_lista(dir_archivo=cookie_button_by_id_dir)
+
     return button_id, button_class
 
-def aceptar_cookies(driver, url:str, download_html=False, show_process=False):
+def aceptar_cookies(driver, url:str, get_html=False, show_process=False):
   """Pincha en el botón aceptar del cuadro de diálogo que informa sobre la recopilación de cookies.
   Input: 
     - driver: un objeto COMPLETAR.
@@ -89,7 +181,7 @@ def aceptar_cookies(driver, url:str, download_html=False, show_process=False):
   else:
     if show_process==True:
         print('Búsqueda del botón de cookies finalizada sin éxito')
-  if download_html==True:
+  if get_html==True:
     try:
       html = driver.page_source
       if show_process==True:
@@ -114,11 +206,13 @@ def aceptar_cookies_y_guardar_htmls(urls:list, show_process=True):
         if show_process == True:
             print("SCRAPEANDO PÁGINA", url)
         try:
-            htmls.append(aceptar_cookies(driver=driver, url=url, download_html=True))
+            htmls.append(aceptar_cookies(driver=driver, url=url, get_html=True))
         except Exception as e:
             print(e)
     driver.quit()
     return htmls
+
+"""-------------------------------------------------------------------------------------------------------------"""
 
 
 """PARTE II: EXTRAER Y PROCESAR EL TEXTO DE LAS PÁGINAS WEB PARA DETERMINAR LAS PALABRAS RELEVANTES"""
@@ -147,7 +241,7 @@ def cargar_stopwords():
     spacy.load("es_core_news_sm")
     spacy_stopwords_es = list(spacy.lang.es.stop_words.STOP_WORDS)
     spacy_stopwords_en = list(STOP_WORDS)
-    return list(spacy_stopwords_es)+['cookie','cookies']+spacy_stopwords_en
+    return list(spacy_stopwords_es)+['cookie','cookies', 'configuración', 'datos']+spacy_stopwords_en
 
 def crear_matriz_tfidf(text_files:list):
     """Genera una matriz tfid a partir de un conjunto de textos.
@@ -158,15 +252,16 @@ def crear_matriz_tfidf(text_files:list):
     # Cargar las stopwords
     stop_words = cargar_stopwords()
     # Llamar al objeto TfidfVectorizer
-    tfidf_vectorizer = TfidfVectorizer(input='content', stop_words=stop_words, max_features=20)
+    tfidf_vectorizer = TfidfVectorizer(input='content', stop_words=stop_words, max_features=30, 
+                                       min_df=5, strip_accents='ascii', token_pattern="[a-zA-Z]{2,}")
     # Crear la matriz
     tfidf_vector = tfidf_vectorizer.fit_transform(text_files)
     # Convertir la matriz a un objeto tipo DataFrame
-    tfidf_df = pd.DataFrame(tfidf_vector.toarray(), index=text_titles, columns=tfidf_vectorizer.get_feature_names_out())
+    tfidf = pd.DataFrame(tfidf_vector.toarray(), index=text_titles, columns=tfidf_vectorizer.get_feature_names_out())
     # Añadir una coulumna que es el recuento de en cuantos documentos aparece esa palabra
-    tfidf_df.loc['00_Document Frequency'] = (tfidf_df > 0).sum()
+    tfidf.loc['total doc freq'] = (tfidf > 0).sum()
     # Transponer el Dataframe y devolverlo
-    return tfidf_df.T
+    return tfidf.T
 
 def top_n_palabras_rel_tdidf(tfidf:DataFrame, n=10):
     """Obtiene las n palabras más relevantes del DataFrame tfidf.

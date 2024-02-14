@@ -1,0 +1,693 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
+
+<title>Efectos de la cafeína en el Sistema Nervioso Central (SNC)  |  Blog Centro de Información Café y Salud.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="robots" content="index, nofollow">
+
+<link rel="stylesheet" type="text/css" href="https://www.cicas.es/wp-content/themes/continuum/style.css" media="screen">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://www.cicas.es/feed">
+<link rel="pingback" href="https://www.cicas.es/xmlrpc.php">
+      
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Blog Centro de Información Café y Salud. » Efectos de la cafeína en el Sistema Nervioso Central (SNC) RSS de los comentarios" href="https://www.cicas.es/noticias/efectos-de-la-cafeina-en-el-sistema-nervioso-central-snc/feed">
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.cicas.es\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.24"}};
+			!function(t,a,e){var r,i,n,o=a.createElement("canvas"),l=o.getContext&&o.getContext("2d");function c(t){var e=a.createElement("script");e.src=t,e.defer=e.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(e)}for(n=Array("flag","emoji4"),e.supports={everything:!0,everythingExceptFlag:!0},i=0;i<n.length;i++)e.supports[n[i]]=function(t){var e,a=String.fromCharCode;if(!l||!l.fillText)return!1;switch(l.clearRect(0,0,o.width,o.height),l.textBaseline="top",l.font="600 32px Arial",t){case"flag":return(l.fillText(a(55356,56826,55356,56819),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,56826,8203,55356,56819),0,0),e===o.toDataURL())?!1:(l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),e!==o.toDataURL());case"emoji4":return l.fillText(a(55358,56794,8205,9794,65039),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55358,56794,8203,9794,65039),0,0),e!==o.toDataURL()}return!1}(n[i]),e.supports.everything=e.supports.everything&&e.supports[n[i]],"flag"!==n[i]&&(e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&e.supports[n[i]]);e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&!e.supports.flag,e.DOMReady=!1,e.readyCallback=function(){e.DOMReady=!0},e.supports.everything||(r=function(){e.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",r,!1),t.addEventListener("load",r,!1)):(t.attachEvent("onload",r),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&e.readyCallback()})),(r=e.source||{}).concatemoji?c(r.concatemoji):r.wpemoji&&r.twemoji&&(c(r.twemoji),c(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.cicas.es/wp-includes/js/wp-emoji-release.min.js?ver=4.8.24" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="flick-css" href="https://www.cicas.es/wp-content/plugins/mailchimp//css/flick/flick.css?ver=4.8.24" type="text/css" media="all">
+<link rel="stylesheet" id="mailchimpSF_main_css-css" href="https://www.cicas.es/?mcsf_action=main_css&amp;ver=4.8.24" type="text/css" media="all">
+<!--[if IE]>
+<link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='https://www.cicas.es/wp-content/plugins/mailchimp/css/ie.css?ver=4.8.24' type='text/css' media='all' />
+<![endif]-->
+<link rel="stylesheet" id="contact-form-7-css" href="https://www.cicas.es/wp-content/plugins/contact-form-7/styles.css?ver=3.0.2.1" type="text/css" media="all">
+<script type="text/javascript" src="https://www.cicas.es/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://www.cicas.es/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://www.cicas.es/wp-content/plugins/mailchimp//js/scrollTo.js?ver=1.5.7"></script>
+<script type="text/javascript" src="https://www.cicas.es/wp-content/plugins/contact-form-7/jquery.form.js?ver=2.52"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mailchimpSF = {"ajax_url":"https:\/\/www.cicas.es\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.cicas.es/wp-content/plugins/mailchimp//js/mailchimp.js?ver=1.5.7"></script>
+<script type="text/javascript" src="https://www.cicas.es/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.cicas.es/wp-content/plugins/mailchimp//js/datepicker.js?ver=4.8.24"></script>
+<script type="text/javascript" src="https://www.cicas.es/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.cicas.es/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.cicas.es/wp-content/themes/continuum/functions/js/shortcodes.js?ver=1"></script>
+<script type="text/javascript" src="https://www.cicas.es/wp-content/themes/continuum/includes/js/superfish.js?ver=4.8.24"></script>
+<script type="text/javascript" src="https://www.cicas.es/wp-content/themes/continuum/includes/js/woo_tabs.js?ver=4.8.24"></script>
+<script type="text/javascript" src="https://www.cicas.es/wp-content/themes/continuum/includes/js/general.js?ver=4.8.24"></script>
+<script type="text/javascript" src="https://www.cicas.es/wp-content/themes/continuum/includes/js/loopedSlider.js?ver=4.8.24"></script>
+<link rel="https://api.w.org/" href="https://www.cicas.es/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.cicas.es/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.cicas.es/wp-includes/wlwmanifest.xml"> 
+<link rel="prev" title="Café: insuficiencia cardiaca y enfermedades cerebrovasculares" href="https://www.cicas.es/noticias/cafe-insuficiencia-cardiaca-y-enfermedades-cerebrovasculares">
+<link rel="next" title="Cuatro tazas de café diarias mejoran nuestro rendimiento cognitivo" href="https://www.cicas.es/noticias/cuatro-tazas-de-cafe-diarias-mejoran-nuestro-rendimiento-cognitivo-2">
+<meta name="generator" content="WordPress 4.8.24">
+<link rel="canonical" href="https://www.cicas.es/noticias/efectos-de-la-cafeina-en-el-sistema-nervioso-central-snc">
+<link rel="shortlink" href="https://www.cicas.es/?p=3096">
+<link rel="alternate" type="application/json+oembed" href="https://www.cicas.es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cicas.es%2Fnoticias%2Fefectos-de-la-cafeina-en-el-sistema-nervioso-central-snc">
+<link rel="alternate" type="text/xml+oembed" href="https://www.cicas.es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cicas.es%2Fnoticias%2Fefectos-de-la-cafeina-en-el-sistema-nervioso-central-snc&amp;format=xml">
+<script type="text/javascript">
+        jQuery(function($) {
+            $('.date-pick').each(function() {
+                var format = $(this).data('format') || 'mm/dd/yyyy';
+                format = format.replace(/yyyy/i, 'yy');
+                $(this).datepicker({
+                    autoFocusNextInput: true,
+                    constrainInput: false,
+                    changeMonth: true,
+                    changeYear: true,
+                    beforeShow: function(input, inst) { $('#ui-datepicker-div').addClass('show'); },
+                    dateFormat: format.toLowerCase(),
+                });
+            });
+            d = new Date();
+            $('.birthdate-pick').each(function() {
+                var format = $(this).data('format') || 'mm/dd';
+                format = format.replace(/yyyy/i, 'yy');
+                $(this).datepicker({
+                    autoFocusNextInput: true,
+                    constrainInput: false,
+                    changeMonth: true,
+                    changeYear: false,
+                    minDate: new Date(d.getFullYear(), 1-1, 1),
+                    maxDate: new Date(d.getFullYear(), 12-1, 31),
+                    beforeShow: function(input, inst) { $('#ui-datepicker-div').removeClass('show'); },
+                    dateFormat: format.toLowerCase(),
+                });
+
+            });
+
+        });
+    </script>
+
+<!-- Theme version -->
+<meta name="generator" content="Continuum 1.0.12">
+<meta name="generator" content="WooFramework 4.3.5">
+	
+<!--[if IE 6]>
+<script type="text/javascript" src="https://www.cicas.es/wp-content/themes/continuum/includes/js/pngfix.js"></script>
+<script type="text/javascript" src="https://www.cicas.es/wp-content/themes/continuum/includes/js/menu.js"></script>
+<link rel="stylesheet" type="text/css" media="all" href="https://www.cicas.es/wp-content/themes/continuum/css/ie6.css" />
+<![endif]-->	
+
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" media="all" href="https://www.cicas.es/wp-content/themes/continuum/css/ie7.css" />
+<![endif]-->
+
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" media="all" href="https://www.cicas.es/wp-content/themes/continuum/css/ie8.css" />
+<![endif]-->
+	<!-- Alt Stylesheet -->
+<link href="https://www.cicas.es/wp-content/themes/continuum/styles/green.css" rel="stylesheet" type="text/css">
+
+<!-- Woo Shortcodes CSS -->
+<link href="https://www.cicas.es/wp-content/themes/continuum/functions/css/shortcodes.css" rel="stylesheet" type="text/css">
+
+<!-- Custom Stylesheet -->
+<link href="https://www.cicas.es/wp-content/themes/continuum/custom.css" rel="stylesheet" type="text/css">
+
+<script charset="utf-8" src="https://platform.twitter.com/js/button.856debeac157d9669cf51e73a08fbc93.js"></script></head>
+
+<body data-rsssl="1" class="post-template-default single single-post postid-3096 single-format-standard chrome">
+
+<div id="wrapper">
+	<div id="strip">
+		<div class="col-full"></div>
+	</div> 
+  
+	<div id="header">
+		<div class="col-full">
+ 		       
+			<div id="logo">
+		       
+				            <a href="https://www.cicas.es" title="Evidencias científicas y efecto del consumo moderado del café en la Salud.">
+	                <img src="https://www.cicas.es/html/wp-content/uploads/2011/08/Logo-Nuevo1.jpg" alt="Blog Centro de Información Café y Salud.">
+	            </a>
+	         
+	        
+	        	            <span class="site-title"><a href="https://www.cicas.es">Blog Centro de Información Café y Salud.</a></span>
+	        	            <span class="site-description">Evidencias científicas y efecto del consumo moderado del café en la Salud.</span>
+		      	
+			</div><!-- /#logo -->
+	       
+			    
+			<div class="clear"></div>
+
+			<div id="navigation">
+				<ul id="main-nav" class="nav fl sf-js-enabled"><li id="menu-item-11" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11"><a href="https://www.cicas.es">Inicio</a></li>
+<li id="menu-item-764" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-764"><a href="https://www.cicas.es/?page_id=760" class="sf-with-ul">CICAS<span class="sf-sub-indicator"> »</span></a>
+<ul class="sub-menu" style="display: none; visibility: hidden;">
+	<li id="menu-item-792" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-792"><a href="https://www.cicas.es/cicas/quienes-somos">Quiénes somos</a></li>
+	<li id="menu-item-679" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-679"><a href="https://www.cicas.es/cicas/comite-cientifico">Comité Científico</a></li>
+	<li id="menu-item-776" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-776"><a href="https://www.cicas.es/cicas/congresos-y-eventos">Eventos</a></li>
+</ul>
+</li>
+<li id="menu-item-778" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-778"><a href="https://www.cicas.es/?page_id=742" class="sf-with-ul">El Café<span class="sf-sub-indicator"> »</span></a>
+<ul class="sub-menu" style="display: none; visibility: hidden;">
+	<li id="menu-item-793" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-793"><a href="https://www.cicas.es/?page_id=742" class="sf-with-ul">Origen e historia<span class="sf-sub-indicator"> »</span></a>
+	<ul class="sub-menu" style="display: none; visibility: hidden;">
+		<li id="menu-item-945" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-945"><a href="https://www.cicas.es/cafe/leyendas-3/leyendas">Leyendas</a></li>
+		<li id="menu-item-757" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-757"><a href="https://www.cicas.es/cafe/leyendas-3/origen-documentado">Origen documentado</a></li>
+	</ul>
+</li>
+	<li id="menu-item-786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-786"><a href="https://www.cicas.es/cafe/la-planta-del-cafe-2">La planta del café</a></li>
+	<li id="menu-item-805" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-805"><a href="https://www.cicas.es/procesado-del-grano-del-cafe">Procesado</a></li>
+	<li id="menu-item-817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-817"><a href="https://www.cicas.es/descafeinado-del-cafe">Descafeinado</a></li>
+	<li id="menu-item-986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-986"><a href="https://www.cicas.es/cafe/cafe-soluble">Café soluble</a></li>
+	<li id="menu-item-995" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-995"><a href="https://www.cicas.es/cafe/la-cata">La cata</a></li>
+	<li id="menu-item-1264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1264"><a href="https://www.cicas.es/cafe/curiosidades">Curiosidades</a></li>
+</ul>
+</li>
+<li id="menu-item-887" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-887"><a href="https://www.cicas.es/?page_id=878" class="sf-with-ul">Compuestos<span class="sf-sub-indicator"> »</span></a>
+<ul class="sub-menu" style="display: none; visibility: hidden;">
+	<li id="menu-item-1217" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1217"><a href="https://www.cicas.es/compuestos/cafeina" class="sf-with-ul">Cafeína<span class="sf-sub-indicator"> »</span></a>
+	<ul class="sub-menu" style="display: none; visibility: hidden;">
+		<li id="menu-item-1628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1628"><a href="https://www.cicas.es/preguntas-frecuentes/cafeina-y-adiccion">Cafeína y adicción</a></li>
+		<li id="menu-item-1632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1632"><a href="https://www.cicas.es/preguntas-frecuentes/cafeina-y-conduccion" class="sf-with-ul">Cafeína y conducción<span class="sf-sub-indicator"> »</span></a>
+		<ul class="sub-menu" style="display: none; visibility: hidden;">
+			<li id="menu-item-3827" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3827"><a href="https://www.cicas.es/tag/cafeina-y-conduccion">Estudios recientes</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item-1228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1228"><a href="https://www.cicas.es/compuestos/antioxidantes">Antioxidantes</a></li>
+	<li id="menu-item-1647" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1647"><a href="https://www.cicas.es/salud-estilodevida/antioxidantes-en-el-cafe">Antioxidantes</a></li>
+	<li id="menu-item-891" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-891"><a href="https://www.cicas.es/compuestos/vitaminas" class="sf-with-ul">Vitaminas<span class="sf-sub-indicator"> »</span></a>
+	<ul class="sub-menu" style="display: none; visibility: hidden;">
+		<li id="menu-item-1252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1252"><a href="https://www.cicas.es/compuestos/vitaminas/vitamina-b2">Vitamina B2</a></li>
+		<li id="menu-item-1251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1251"><a href="https://www.cicas.es/compuestos/vitaminas/vitamina-b3">Vitamina B3</a></li>
+		<li id="menu-item-1258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1258"><a href="https://www.cicas.es/compuestos/vitaminas/vitamina-b5">Vitamina B5</a></li>
+		<li id="menu-item-1240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1240"><a href="https://www.cicas.es/compuestos/vitaminas/acido-folico-o-vitamina-b9">Vitamina B9</a></li>
+		<li id="menu-item-1245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1245"><a href="https://www.cicas.es/compuestos/vitaminas/colina-o-vitamina-b11">Vitamina B11</a></li>
+		<li id="menu-item-1257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1257"><a href="https://www.cicas.es/compuestos/vitaminas/vitamina-k">Vitamina K</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1269"><a href="https://www.cicas.es/salud-estilodevida" class="sf-with-ul">Salud y Estilo de Vida<span class="sf-sub-indicator"> »</span></a>
+<ul class="sub-menu" style="display: none; visibility: hidden;">
+	<li id="menu-item-4992" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4992"><a href="https://www.cicas.es/salud-estilodevida/salud-cardiovascular-2" class="sf-with-ul">Salud cardiovascular<span class="sf-sub-indicator"> »</span></a>
+	<ul class="sub-menu" style="display: none; visibility: hidden;">
+		<li id="menu-item-4995" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4995"><a href="https://www.cicas.es/salud-estilodevida/consumo-y-enfermedades-coronarias">Café y enfermedades coronarias</a></li>
+		<li id="menu-item-4997" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4997"><a href="https://www.cicas.es/salud-estilodevida/cafe-ictus">Café e ictus</a></li>
+		<li id="menu-item-4998" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4998"><a href="https://www.cicas.es/salud-estilodevida/cafe-presion-arterial">Café y presión arterial</a></li>
+		<li id="menu-item-4993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4993"><a href="https://www.cicas.es/salud-estilodevida/cafe-colesterol">Café y colesterol</a></li>
+		<li id="menu-item-4994" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4994"><a href="https://www.cicas.es/salud-estilodevida/cafe-dilatacion">Café y dilatación mediada por flujo</a></li>
+		<li id="menu-item-4996" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4996"><a href="https://www.cicas.es/salud-estilodevida/cafe-homocisteina">Café y homocisteína en sangre</a></li>
+		<li id="menu-item-6867" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6867"><a href="https://www.cicas.es/salud-estilodevida/salud-cardiovascular-2/mecanismos">Mecanismos de acción</a></li>
+		<li id="menu-item-6872" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6872"><a href="https://www.cicas.es/salud-estilodevida/referencias-bibliograficas">Referencias bibliográficas</a></li>
+		<li id="menu-item-5007" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5007"><a href="https://www.cicas.es/tag/estudios-salud-cardiovascular">Estudios recientes</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1790" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1790"><a href="https://www.cicas.es/salud-estilodevida/cancer" class="sf-with-ul">Cáncer<span class="sf-sub-indicator"> »</span></a>
+	<ul class="sub-menu" style="display: none; visibility: hidden;">
+		<li id="menu-item-1881" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1881"><a href="https://www.cicas.es/salud-estilodevida/cancer/cancer-en-europa">El cáncer en Europa</a></li>
+		<li id="menu-item-1885" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1885"><a href="https://www.cicas.es/salud-estilodevida/cancer/cancer-del-tracto-digestivo">Cáncer del tracto digestivo</a></li>
+		<li id="menu-item-1889" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1889"><a href="https://www.cicas.es/salud-estilodevida/cancer/cancer-de-vejiga-rinon-y-prostata">Cánceres de vejiga, riñón y próstata</a></li>
+		<li id="menu-item-1894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1894"><a href="https://www.cicas.es/salud-estilodevida/cancer/cancer-de-pecho-ovarios-y-endometrio">Cánceres de pecho, ovarios y endometrio</a></li>
+		<li id="menu-item-1910" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1910"><a href="https://www.cicas.es/salud-estilodevida/cancer/cancer-en-otras-partes-del-cuerpo">Cáncer en otras partes del cuerpo</a></li>
+		<li id="menu-item-1903" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1903"><a href="https://www.cicas.es/salud-estilodevida/cancer/modo-de-preparacion-del-cafe">Influencia del modo de preparación del café</a></li>
+		<li id="menu-item-1907" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1907"><a href="https://www.cicas.es/salud-estilodevida/cancer/referencias-bibliograficas">Referencias bibliográficas</a></li>
+		<li id="menu-item-3818" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3818"><a href="https://www.cicas.es/tag/estudios-cancer">Estudios recientes</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1276"><a href="https://www.cicas.es/salud-estilodevida/equilibrio-hidrico" class="sf-with-ul">Equilibrio hídrico<span class="sf-sub-indicator"> »</span></a>
+	<ul class="sub-menu" style="display: none; visibility: hidden;">
+		<li id="menu-item-6888" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6888"><a href="https://www.cicas.es/salud-estilodevida/equilibrio-hidrico/cafe-e-hidratacion-en-la-poblacion-general">Café e hidratación en la población general</a></li>
+		<li id="menu-item-1452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1452"><a href="https://www.cicas.es/salud-estilodevida/equilibrio-hidrico/hidrico">Cafeína, hidratación y rendimiento físico</a></li>
+		<li id="menu-item-1451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1451"><a href="https://www.cicas.es/salud-estilodevida/equilibrio-hidrico/referencias-bibliograficas">Referencias bibliográficas</a></li>
+		<li id="menu-item-5640" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5640"><a href="https://www.cicas.es/tag/estudios-equilibrio-hidrico">Estudios recientes</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1280"><a href="https://www.cicas.es/salud-estilodevida/calculos-biliares" class="sf-with-ul">Cálculos biliares<span class="sf-sub-indicator"> »</span></a>
+	<ul class="sub-menu" style="display: none; visibility: hidden;">
+		<li id="menu-item-1436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1436"><a href="https://www.cicas.es/salud-estilodevida/calculos-biliares/enfermedades-de-la-vesicula-biliar">Café y la Enfermedad de la Vesícula Biliar</a></li>
+		<li id="menu-item-1435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1435"><a href="https://www.cicas.es/salud-estilodevida/calculos-biliares/consumo-y-enfermedades">Consumo y enfermedades</a></li>
+		<li id="menu-item-1434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1434"><a href="https://www.cicas.es/salud-estilodevida/calculos-biliares/mecanismos-de-accion">Mecanismos de acción</a></li>
+		<li id="menu-item-1433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1433"><a href="https://www.cicas.es/salud-estilodevida/calculos-biliares/referencias-bibliograficas">Referencias bibliográficas</a></li>
+		<li id="menu-item-7022" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7022"><a href="https://cicas.es/tag/calculos-biliares">Estudios recientes</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1289"><a href="https://www.cicas.es/salud-estilodevida/funcion-hepatica" class="sf-with-ul">Función hepática<span class="sf-sub-indicator"> »</span></a>
+	<ul class="sub-menu" style="display: none; visibility: hidden;">
+		<li id="menu-item-1461" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1461"><a href="https://www.cicas.es/salud-estilodevida/funcion-hepatica/cafe-funcion-hepatica">Café y función hepática</a></li>
+		<li id="menu-item-1465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1465"><a href="https://www.cicas.es/salud-estilodevida/funcion-hepatica/mecanismos-de-accion">Mecanismos de acción</a></li>
+		<li id="menu-item-1468" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1468"><a href="https://www.cicas.es/salud-estilodevida/funcion-hepatica/referencias-bibliografica">Referencias bibliográficas</a></li>
+		<li id="menu-item-3817" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3817"><a href="https://www.cicas.es/tag/estudios-funcion-hepatica">Estudios recientes</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1645" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1645"><a href="https://www.cicas.es/salud-estilodevida/enfermedades-neurodegenerativas" class="sf-with-ul">Enfermedades neurodegenerativas<span class="sf-sub-indicator"> »</span></a>
+	<ul class="sub-menu" style="display: none; visibility: hidden;">
+		<li id="menu-item-6900" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6900"><a href="https://www.cicas.es/salud-estilodevida/enfermedades-neurodegenerativas/cafe-y-deterioro-cognitivo">Café y deterioro cognitivo</a></li>
+		<li id="menu-item-1655" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1655"><a href="https://www.cicas.es/salud-estilodevida/enfermedades-neurodegenerativas/cafe-y-parkinson">Café y Enfermedad de Parkinson</a></li>
+		<li id="menu-item-1654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1654"><a href="https://www.cicas.es/salud-estilodevida/enfermedades-neurodegenerativas/cafe-y-alzheimer">Café y Enfermedad de Alzheimer</a></li>
+		<li id="menu-item-6909" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6909"><a href="https://www.cicas.es/salud-estilodevida/enfermedades-neurodegenerativas/cafe-e-ictus">Café e Ictus</a></li>
+		<li id="menu-item-6908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6908"><a href="https://www.cicas.es/salud-estilodevida/enfermedades-neurodegenerativas/referencias-bibliograficas">Referencias bibliográficas</a></li>
+		<li id="menu-item-3820" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3820"><a href="https://www.cicas.es/tag/estudios-enfermedades-neurodegenerativas">Estudios recientes</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1556" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1556"><a href="https://www.cicas.es/salud-estilodevida/diabetes-tipo-2-2" class="sf-with-ul">Diabetes Tipo 2<span class="sf-sub-indicator"> »</span></a>
+	<ul class="sub-menu" style="display: none; visibility: hidden;">
+		<li id="menu-item-1554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1554"><a href="https://www.cicas.es/salud-estilodevida/diabetes-tipo-2-2/consumo-cafe-diabetes-tipo-2">Café y Diabetes Tipo 2</a></li>
+		<li id="menu-item-1553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1553"><a href="https://www.cicas.es/salud-estilodevida/diabetes-tipo-2-2/mecanismos-de-accion">Mecanismos de acción</a></li>
+		<li id="menu-item-1552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1552"><a href="https://www.cicas.es/salud-estilodevida/diabetes-tipo-2-2/referencias-bibliograficas">Referencias bibliográficas</a></li>
+		<li id="menu-item-3819" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3819"><a href="https://www.cicas.es/tag/estudios-diabetes-tipo-2">Estudios recientes</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1646" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1646"><a href="https://www.cicas.es/salud-estilodevida/cafe-y-funcion-gastrointestinal" class="sf-with-ul">Función gastrointestinal<span class="sf-sub-indicator"> »</span></a>
+	<ul class="sub-menu" style="display: none; visibility: hidden;">
+		<li id="menu-item-6930" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6930"><a href="https://www.cicas.es/salud-estilodevida/cafe-y-funcion-gastrointestinal/cafe-y-trastornos-estomacales">Café y trastornos estomacales</a></li>
+		<li id="menu-item-6929" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6929"><a href="https://www.cicas.es/salud-estilodevida/cafe-y-funcion-gastrointestinal/cafe-y-enfermedades-del-intestino-delgado">Café y enfermedades del intestino delgado</a></li>
+		<li id="menu-item-6928" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6928"><a href="https://www.cicas.es/salud-estilodevida/cafe-y-funcion-gastrointestinal/cafe-y-enfermedades-del-intestino-grueso">Café y enfermedades del intestino grueso</a></li>
+		<li id="menu-item-6927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6927"><a href="https://www.cicas.es/salud-estilodevida/cafe-y-funcion-gastrointestinal/cafe-y-trastornos-en-otros-organos-intestinales">Café y trastornos en otros órganos intestinales</a></li>
+		<li id="menu-item-6934" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6934"><a href="https://www.cicas.es/salud-estilodevida/cafe-y-funcion-gastrointestinal/referencias-bibliograficas">Referencias bibliográficas</a></li>
+		<li id="menu-item-5584" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5584"><a href="https://www.cicas.es/tag/estudios-gastrointestinal">Estudios recientes</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1629" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1629"><a href="https://www.cicas.es/preguntas-frecuentes/1614-2" class="sf-with-ul">Rendimiento cognitivo<span class="sf-sub-indicator"> »</span></a>
+	<ul class="sub-menu" style="display: none; visibility: hidden;">
+		<li id="menu-item-4319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4319"><a href="https://www.cicas.es/preguntas-frecuentes/1614-2/cafeina-y-alerta-mental-1%c2%aa-parte">Cafeína y nivel de alerta mental</a></li>
+		<li id="menu-item-4328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4328"><a href="https://www.cicas.es/preguntas-frecuentes/1614-2/cafeina-y-alerta-mental-2%c2%aa-parte">Emociones y estado de ánimo</a></li>
+		<li id="menu-item-4335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4335"><a href="https://www.cicas.es/preguntas-frecuentes/1614-2/cafeina-y-sueno">Cafeína y sueño</a></li>
+		<li id="menu-item-4327" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4327"><a href="https://www.cicas.es/preguntas-frecuentes/1614-2/cafeina-y-dependencia">Cafeína y dependencia</a></li>
+		<li id="menu-item-3824" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3824"><a href="https://www.cicas.es/tag/estudios-rendimiento-cognitivo">Estudios recientes</a></li>
+		<li id="menu-item-6946" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6946"><a href="https://www.cicas.es/preguntas-frecuentes/1614-2/referencias-bibliograficas">Referencias bibliográficas</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1496"><a href="https://www.cicas.es/salud-estilodevida/embarazo" class="sf-with-ul">Embarazo<span class="sf-sub-indicator"> »</span></a>
+	<ul class="sub-menu" style="display: none; visibility: hidden;">
+		<li id="menu-item-1497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1497"><a href="https://www.cicas.es/salud-estilodevida/embarazo/consumo-y-fertilidad">Café y fertilidad</a></li>
+		<li id="menu-item-6966" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6966"><a href="https://www.cicas.es/salud-estilodevida/embarazo/cafe-y-gestacion">Café y gestación</a></li>
+		<li id="menu-item-1512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1512"><a href="https://www.cicas.es/salud-estilodevida/embarazo/consumo-y-salud-fetal">Cafeína y salud del feto</a></li>
+		<li id="menu-item-1494" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1494"><a href="https://www.cicas.es/salud-estilodevida/embarazo/recomendaciones-durante-el-embarazo">Recomendaciones durante el embarazo</a></li>
+		<li id="menu-item-1511" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1511"><a href="https://www.cicas.es/salud-estilodevida/embarazo/referencias-bibliograficas">Referencias bibliográficas</a></li>
+		<li id="menu-item-3822" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3822"><a href="https://www.cicas.es/tag/estudios-embarazo">Estudios recientes</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1670" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1670"><a href="https://www.cicas.es/cafe-y-estilo-de-vida-saludable/cafe-y-salud-osea" class="sf-with-ul">Salud ósea<span class="sf-sub-indicator"> »</span></a>
+	<ul class="sub-menu" style="display: none; visibility: hidden;">
+		<li id="menu-item-6956" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6956"><a href="https://www.cicas.es/cafe-y-estilo-de-vida-saludable/cafe-y-salud-osea/cafe-y-salud-osea">Café y salud ósea</a></li>
+		<li id="menu-item-6955" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6955"><a href="https://www.cicas.es/cafe-y-estilo-de-vida-saludable/cafe-y-salud-osea/cafeina-y-salud-osea">Cafeína y salud ósea</a></li>
+		<li id="menu-item-6959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6959"><a href="https://www.cicas.es/cafe-y-estilo-de-vida-saludable/cafe-y-salud-osea/referencias-bibliograficas">Referencias bibliográficas</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1528" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1528"><a href="https://www.cicas.es/salud-estilodevida/rendimiento-fisico-y-deportivo-2" class="sf-with-ul">Rendimiento físico y deportivo<span class="sf-sub-indicator"> »</span></a>
+	<ul class="sub-menu" style="display: none; visibility: hidden;">
+		<li id="menu-item-1526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1526"><a href="https://www.cicas.es/salud-estilodevida/rendimiento-fisico-y-deportivo/ejercicios-cortos-de-alta-intensidad-anaerobicos">Ejercicio físico anaeróbico</a></li>
+		<li id="menu-item-1527" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1527"><a href="https://www.cicas.es/salud-estilodevida/rendimiento-fisico-y-deportivo/ejercicios-de-resistencia-aerobicos">Ejercicio físico de resistencia (aeróbico)</a></li>
+		<li id="menu-item-1525" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1525"><a href="https://www.cicas.es/salud-estilodevida/rendimiento-fisico-y-deportivo/mecanismos-de-accion">Mecanismos de acción</a></li>
+		<li id="menu-item-6991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6991"><a href="https://www.cicas.es/salud-estilodevida/rendimiento-fisico-y-deportivo-2/referencias-bibliograficas">Referencias bibliográficas</a></li>
+		<li id="menu-item-3828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3828"><a href="https://www.cicas.es/tag/rendimiento-fisico-y-deportivo">Estudios recientes</a></li>
+	</ul>
+</li>
+	<li id="menu-item-3821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3821"><a href="https://www.cicas.es/tag/otros">Estudios recientes</a></li>
+</ul>
+</li>
+<li id="menu-item-1793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1793"><a href="https://www.cicas.es/contacto">Contacto</a></li>
+<li id="menu-item-5982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5982"><a href="https://www.cicas.es/infografias" class="sf-with-ul">Infografías<span class="sf-sub-indicator"> »</span></a>
+<ul class="sub-menu" style="display: none; visibility: hidden;">
+	<li id="menu-item-1560" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1560"><a href="https://www.cicas.es/cafe/glosario">Glosario</a></li>
+</ul>
+</li>
+<li id="menu-item-7170" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7170"><a href="https://www.cicas.es/?p=7157">Noticias</a></li>
+<li id="menu-item-9106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9106"><a href="https://www.cicas.es/best-research-paper-services">Best Research Paper Services</a></li>
+<li id="menu-item-9113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9113"><a href="https://www.cicas.es/how-to-compose-an-essay-next-day">How to Compose an essay Next Day</a></li>
+<li id="menu-item-9120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9120"><a href="https://www.cicas.es/9119-2">#9119 (sin título)</a></li>
+</ul>		        
+				
+		
+			</div><!-- /#navigation -->
+
+		</div><!-- /.col-full -->
+	</div><!-- /#header -->              
+    <div id="content" class="col-full">
+		<div id="main" class="col-left">
+		           
+			
+                                    
+				<div class="post-3096 post type-post status-publish format-standard hentry category-noticias tag-beneficios-del-cafe tag-cafe tag-cafeina tag-salud tag-sistema-nervioso" id="striped">
+
+	                <h3 class="cat-title"><a href="https://www.cicas.es/category/noticias" rel="category tag">Noticias</a>					<span class="post-nav fr">
+						<span class="prev"><a href="https://www.cicas.es/noticias/cafe-insuficiencia-cardiaca-y-enfermedades-cerebrovasculares" rel="prev">Previous</a></span>
+						<span class="next"><a href="https://www.cicas.es/noticias/cuatro-tazas-de-cafe-diarias-mejoran-nuestro-rendimiento-cognitivo-2" rel="next">Next</a></span>
+			       	</span>
+					</h3>
+	                                        
+	                <div class="entry" id="plate">
+	
+						<h1 class="title">Efectos de la cafeína en el Sistema Nervioso Central (SNC)</h1>
+	
+													
+	                	<p style="text-align: justify;"><a href="https://www.cicas.es/html/wp-content/uploads/2012/03/6068551_AAA1.jpg"><img class="alignright size-medium wp-image-3097" title="SNC" src="https://www.cicas.es/html/wp-content/uploads/2012/03/6068551_AAA1-300x200.jpg" alt="" width="300" height="200"></a></p>
+<p style="text-align: justify;">La cafeína produce beneficios en el rendimiento cognitivo porque es una sustancia psicoactiva. Esto es, tiene la capacidad de actuar en el SNC, donde se hallan las estructuras y conexiones responsables del procesamiento de todas las habilidades cognitivas. ¿Qué mecanismo/s de acción activa el SNC que nos expliquen sus acciones?</p>
+<p style="text-align: justify;">El mecanismo de acción de la cafeína consiste en el bloqueo de los receptores de la adenosina tipo A1 y A2A (Fredholm et al., 1999). La adenosina es una sustancia transmisora del SNC que cuando actúa transmite mensajes de disminuir la actividad allí donde establezca comunicaciones. Los receptores de la adenosina están ampliamente distribuidos por el encéfalo, con una gran cantidad en estructuras cruciales para la ejecución de las habilidades cognitivas como son el hipocampo, la corteza cerebral, la corteza del cerebelo y el tálamo. El bloqueo de los receptores de la adenosina, por tanto, impide que ésta se una a los receptores y actúe en el SNC. Ello revierte en incrementos moderados de la transmisión o actividad de los sistemas de neurotransmisión que disponen de receptores adenosínicos. Éstos son el noradrenérgico, colinérgico, dopaminérgico y serotoninérgico. En concreto, el bloqueo o antagonismo químico sobre los receptores A1, que se hallan situados en las neuronas presinápticas o emisoras, se traduce en una mayor liberación de estos neurotransmisores cuando se produce una comunicación. El bloqueo o antagonismo químico sobre los receptores A2A, situados en neuronas postsinápticas o receptoras, potencia que los receptores tipo 2 de la dopamina incrementen su actividad (ver Figura 3) y procesen más información.</p>
+<p style="text-align: justify;">La estimulación de los sistemas noradrenérgico y colinérgico se relaciona con incrementos en la alerta, la atención y la capacidad de procesar información nueva (aprendizaje), siendo ello especialmente manifiesto en situaciones deficitarias como por ejemplo en estados de privación de sueño. La acción sobre la actividad dopaminérgica se piensa está en la base del efecto preventivo neuroprotector de desarrollar la enfermedad de Parkinson, tanto en varones como en mujeres siempre que éstas no se hayan sometido a tratamiento hormonal con estrógenos (Ferré, 2009).</p>
+<p style="text-align: justify;">La potenciación de la actividad dopaminérgica es el mecanismo de acción asociado a la posibilidad de que las sustancias psicoactivas actúen sobre las estructuras cerebrales responsables del refuerzo y la adicción, pudiendo producir así dependencia y abuso. Sin embargo, para ello el cambio en la actividad dopaminérgica debe ser de una magnitud muy superior al que produce la cafeína, incluso administrada a dosis elevadas. A veces en términos coloquiales hablamos de adicción al café o a la cafeína, pero aún con consumos elevados o excesivos las personas no muestran la pérdida de control o comportamiento compulsivo, que es el aspecto determinante de la adicción. A diferencia de lo que sucede con muchas otras sustancias psicoactivas (alcohol, nicotina, cannabis, etc.), del consumo de cafeína no se derivan consecuencias negativas físicas, psicológicas o sociales las cuales se hallan en la base de los diagnósticos clínicos de adicción. Así, los manuales diagnósticos que en la actualidad utilizan los profesionales de la salud -DSM-IV-R y CIE 10- no contemplan el diagnóstico ni de dependencia ni de síndrome de abstinencia a la cafeína y tampoco la OMS (Organización Mundial de la Salud) considera la cafeína dentro de la categoría de las adicciones. Ello significa que en la práctica clínica no se observan problemas de adicción relacionados con la ingesta de cafeína, por elevada que ésta sea. Como han sugerido diversos expertos en el tema, el consumo moderado de cafeína debe considerarse un buen hábito y no una adicción.</p>
+							
+						<p class="tags">Tags: <a href="https://www.cicas.es/tag/beneficios-del-cafe" rel="tag">beneficios del cafe</a>, <a href="https://www.cicas.es/tag/cafe" rel="tag">Café</a>, <a href="https://www.cicas.es/tag/cafeina" rel="tag">Cafeína</a>, <a href="https://www.cicas.es/tag/salud" rel="tag">salud</a>, <a href="https://www.cicas.es/tag/sistema-nervioso" rel="tag">sistema nervioso</a></p>						
+							
+					</div>
+                    
+	            </div><!-- /.post -->
+                
+                                                                
+			  
+        
+		</div><!-- /#main -->
+				
+        <div id="sidebar" class="col-right">
+
+		
+	<div class="postmeta">
+		<h3>Acerca de este articulo</h3>		
+		<ul>
+			<li class="post-date">Publicado el  2 abril, 2012</li>
+			<li class="post-category">Archivado en <a href="https://www.cicas.es/category/noticias" rel="category tag">Noticias</a></li>
+			<li class="post-comment"> <a href="https://www.cicas.es/noticias/efectos-de-la-cafeina-en-el-sistema-nervioso-central-snc#respond">0 responses</a>.</li>
+		    		 </ul>
+	</div>
+	
+	
+	    <div class="primary">
+		<div id="text-10" class="widget widget_text">			<div class="textwidget"><a href="http://www.coffeeandhealth.org/" target="_blank"><img src="https://www.cicas.es/html/wp-content/uploads/2013/04/Coffee-and-Health.jpg" alt="" title="" border="0"></a></div>
+		</div><div id="text-9" class="widget widget_text">			<div class="textwidget"><strong>Salud Cardiovascular</strong>
+<ul>
+	<li><a href="https://www.cicas.es/cafe-y-salud/salud-cardiovascular/salud-cardiovascular" target="_blank">Salud cardiovascular</a></li>
+	<li><a href="https://www.cicas.es/cafe-y-salud/salud-cardiovascular/consumo-y-enfermedades-coronarias" target="_blank">Consumo y enfermedades coronarias</a></li>
+	<li><a href="https://www.cicas.es/cafe-y-salud/salud-cardiovascular/consumo-y-riesgo-de-ataque-cerebral" target="_blank">Consumo y riesgo de ataque cerebral</a></li>
+	<li><a href="https://www.cicas.es/cafe-y-salud/salud-cardiovascular/consumo-y-tension-arterial" target="_blank">Consumo y tensión arterial</a></li>
+	<li><a href="https://www.cicas.es/cafe-y-salud/salud-cardiovascular/consumo-y-colesterol" target="_blank">Consumo y colesterol</a></li>
+	<li><a href="https://www.cicas.es/cafe-y-salud/salud-cardiovascular/consumo-y-dilatacion" target="_blank">Consumo y dilatación</a></li>
+	<li><a href="https://www.cicas.es/cafe-y-salud/salud-cardiovascular/consumo-y-homocisteina-en-sangre" target="_blank">Consumo y homocisteína en sangre</a></li>
+	<li><a href="https://www.cicas.es/cafe-y-salud/salud-cardiovascular/estudios-en-pacientes" target="_blank">Estudios en pacientes</a></li>
+	<li><a href="https://www.cicas.es/cafe-y-salud/salud-cardiovascular/mecanismos-de-accion" target="_blank">Mecanismos de acción</a></li>
+	<li><a href="https://www.cicas.es/cafe-y-salud/salud-cardiovascular/conclusiones" target="_blank">Conclusiones</a></li>
+	<li>R<a href="https://www.cicas.es/cafe-y-salud/salud-cardiovascular/referencias-bibliograficas" target="_blank">eferencia bibliográficas</a></li>
+	<li><a href="https://www.cicas.es/cafe-y-salud/salud-cardiovascular/estudios-recientes" target="_blank">Estudios recientes</a></li>
+</ul>
+<br>
+<img src="https://www.cicas.es/html/wp-content/uploads/2013/08/Salud-cardiovascular.jpg" alt="" title="" border="0"></div>
+		</div><div id="text-12" class="widget widget_text"><h3>Síguenos en Twitter</h3>			<div class="textwidget"><iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="twitter-follow-button twitter-follow-button-rendered" style="position: static; visibility: visible; width: 186px; height: 28px;" title="Twitter Follow Button" src="https://platform.twitter.com/widgets/follow_button.2f70fb173b9000da126c79afe2098f02.es.html#dnt=false&amp;id=twitter-widget-0&amp;lang=es&amp;screen_name=esCafeSalud&amp;show_count=false&amp;show_screen_name=true&amp;size=l&amp;time=1707936865601" data-screen-name="esCafeSalud"></iframe>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div>
+		</div><div id="text-5" class="widget widget_text"><h3>Recibe nuestras publicaciones</h3>			<div class="textwidget">
+<!-- Begin MailChimp Signup Form -->
+<link href="https://cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:10px Helvetica,Arial,sans-serif; }
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://cicas.us5.list-manage.com/subscribe/post?u=149d3f03e7efbfc86328a2fb0&amp;id=43286a6200" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+	<label for="mce-EMAIL">Introduce aquí tu correo electrónico si quieres recibir nuestras últimas novedades</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="correo electrónico" required="">
+	<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</form>
+</div>
+
+<!--End mc_embed_signup--></div>
+		</div><div id="nav_menu-2" class="widget widget_nav_menu"><h3>Material descargable</h3><div class="menu-lateral-container"><ul id="menu-lateral" class="menu"><li id="menu-item-1139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1139"><a href="https://www.cicas.es/cafe-y-estilo-de-vida-saludable">Café y estilo de vida saludable</a></li>
+<li id="menu-item-2187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2187"><a href="https://www.cicas.es/cafeina-y-rendimiento-cognitivo">Cafeína y rendimiento cognitivo</a></li>
+<li id="menu-item-1042" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1042"><a href="https://www.cicas.es/boletines">Boletín: Café, ciencia y salud.</a></li>
+<li id="menu-item-1055" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1055"><a href="https://www.cicas.es/cicas-informa">CICAS Informa</a></li>
+<li id="menu-item-1054" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1054"><a href="https://www.cicas.es/cicas-tripticos">Triptico y Calendarios</a></li>
+<li id="menu-item-1787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1787"><a href="https://www.cicas.es/dudas-del-paciente">Dudas del paciente</a></li>
+<li id="menu-item-3174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3174"><a href="https://www.cicas.es/efectos-del-cafe-en-el-cerebro">Efectos del café en el cerebro</a></li>
+<li id="menu-item-3188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3188"><a href="https://www.cicas.es/efectos-del-cafe-en-el-sistema-cardiovascular">Efectos del café en el sistema cardiovascular</a></li>
+<li id="menu-item-3196" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3196"><a href="https://www.cicas.es/efectos-del-cafe-en-el-estomago-intestino-e-higado">Efectos del café en el estómago, intestino e hígado</a></li>
+<li id="menu-item-3991" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3991"><a href="https://www.cicas.es/noticias/mitos-y-realidades-sobre-el-cafe-%C2%BFrealidad-o-ficcion-2">Mitos y realidades sobre el café: ¿Realidad o ficción?</a></li>
+</ul></div></div><div id="text-7" class="widget widget_text"><h3>Estudios Recientes</h3>			<div class="textwidget"><ul class="sub-menu">
+	<li><a href="https://www.cicas.es/tag/salud-cardiovascular"><strong>Salud cardiovascular</strong></a></li>
+<li><a href="https://www.cicas.es/tag/funcion-hepatica"><strong>Función hepática</strong></a></li>
+<li><a href="https://www.cicas.es/tag/estudios-cancer"><strong>Cáncer</strong></a></li>
+<li><a href="https://www.cicas.es/tag/diabetes-de-tipo-2"><strong>Diabetes de tipo 2</strong></a></li>
+<li><a href="https://www.cicas.es/tag/enfermedades-neurodegenerativas"><strong>Enfermedades neurodegenerativas</strong></a></li>
+<li><a href="https://www.cicas.es/tag/estudios-embarazo"><strong>Embarazo</strong></a></li>
+<li><a href="https://www.cicas.es/tag/estudios-tercera-edad"><strong>Tercera edad</strong></a></li>
+<li><a href="https://www.cicas.es/tag/cafeina-y-conduccion"><strong>Cafeína y conducción</strong></a></li>
+<li><a href="https://www.cicas.es/tag/estado-de-alerta-y-rendimiento-intelectual"><strong>Estado de alerta y rendimiento intelectual</strong></a></li>
+<li><a href="https://www.cicas.es/tag/rendimiento-fisico-y-deportivo"><strong>Rendimiento físico y deportivo</strong></a></li>
+<li><a href="https://www.cicas.es/tag/otros"><strong>Otros</strong></a></li></ul></div>
+		</div>		           
+	</div>        
+	
+</div><!-- /#sidebar -->		
+    </div><!-- /#content -->
+		
+
+		<div id="footer-widgets"><div class="col-full">
+
+		<div class="block">
+        			<div id="woo_search-2" class="widget widget_woo_search">        <h3>Buscar</h3>        <div class="search_main">
+    <form method="get" class="searchform" action="https://www.cicas.es">
+        <input type="text" class="field s" name="s" value="Enter search keywords" onfocus="if (this.value == 'Enter search keywords') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Enter search keywords';}">
+        <input type="image" src="https://www.cicas.es/wp-content/themes/continuum/images/search-btn.png" class="submit" name="submit">
+    </form>    
+<div class="clear"></div></div>		</div>   
+       
+		</div>
+		<div class="block">
+        	<div id="archives-3" class="widget widget_archive"><h3>Artículos publicados en:</h3>		<label class="screen-reader-text" for="archives-dropdown-3">Artículos publicados en:</label>
+		<select id="archives-dropdown-3" name="archive-dropdown" onchange="document.location.href=this.options[this.selectedIndex].value;">
+			
+			<option value="">Elegir mes</option>
+				<option value="https://www.cicas.es/2024/01"> enero 2024 &nbsp;(6)</option>
+	<option value="https://www.cicas.es/2023/12"> diciembre 2023 &nbsp;(7)</option>
+	<option value="https://www.cicas.es/2023/11"> noviembre 2023 &nbsp;(7)</option>
+	<option value="https://www.cicas.es/2023/10"> octubre 2023 &nbsp;(6)</option>
+	<option value="https://www.cicas.es/2023/09"> septiembre 2023 &nbsp;(5)</option>
+	<option value="https://www.cicas.es/2023/08"> agosto 2023 &nbsp;(19)</option>
+	<option value="https://www.cicas.es/2023/07"> julio 2023 &nbsp;(5)</option>
+	<option value="https://www.cicas.es/2023/06"> junio 2023 &nbsp;(6)</option>
+	<option value="https://www.cicas.es/2023/05"> mayo 2023 &nbsp;(7)</option>
+	<option value="https://www.cicas.es/2023/04"> abril 2023 &nbsp;(8)</option>
+	<option value="https://www.cicas.es/2023/03"> marzo 2023 &nbsp;(22)</option>
+	<option value="https://www.cicas.es/2023/01"> enero 2023 &nbsp;(7)</option>
+	<option value="https://www.cicas.es/2022/12"> diciembre 2022 &nbsp;(11)</option>
+	<option value="https://www.cicas.es/2022/11"> noviembre 2022 &nbsp;(14)</option>
+	<option value="https://www.cicas.es/2022/10"> octubre 2022 &nbsp;(7)</option>
+	<option value="https://www.cicas.es/2022/09"> septiembre 2022 &nbsp;(7)</option>
+	<option value="https://www.cicas.es/2022/08"> agosto 2022 &nbsp;(7)</option>
+	<option value="https://www.cicas.es/2022/07"> julio 2022 &nbsp;(11)</option>
+	<option value="https://www.cicas.es/2022/06"> junio 2022 &nbsp;(11)</option>
+	<option value="https://www.cicas.es/2022/05"> mayo 2022 &nbsp;(11)</option>
+	<option value="https://www.cicas.es/2022/04"> abril 2022 &nbsp;(13)</option>
+	<option value="https://www.cicas.es/2022/03"> marzo 2022 &nbsp;(4)</option>
+	<option value="https://www.cicas.es/2022/02"> febrero 2022 &nbsp;(15)</option>
+	<option value="https://www.cicas.es/2022/01"> enero 2022 &nbsp;(7)</option>
+	<option value="https://www.cicas.es/2021/12"> diciembre 2021 &nbsp;(9)</option>
+	<option value="https://www.cicas.es/2021/11"> noviembre 2021 &nbsp;(12)</option>
+	<option value="https://www.cicas.es/2021/10"> octubre 2021 &nbsp;(13)</option>
+	<option value="https://www.cicas.es/2021/09"> septiembre 2021 &nbsp;(7)</option>
+	<option value="https://www.cicas.es/2021/08"> agosto 2021 &nbsp;(10)</option>
+	<option value="https://www.cicas.es/2021/07"> julio 2021 &nbsp;(27)</option>
+	<option value="https://www.cicas.es/2021/05"> mayo 2021 &nbsp;(9)</option>
+	<option value="https://www.cicas.es/2021/04"> abril 2021 &nbsp;(8)</option>
+	<option value="https://www.cicas.es/2021/03"> marzo 2021 &nbsp;(14)</option>
+	<option value="https://www.cicas.es/2021/02"> febrero 2021 &nbsp;(11)</option>
+	<option value="https://www.cicas.es/2021/01"> enero 2021 &nbsp;(7)</option>
+	<option value="https://www.cicas.es/2020/12"> diciembre 2020 &nbsp;(17)</option>
+	<option value="https://www.cicas.es/2020/10"> octubre 2020 &nbsp;(16)</option>
+	<option value="https://www.cicas.es/2020/09"> septiembre 2020 &nbsp;(8)</option>
+	<option value="https://www.cicas.es/2020/08"> agosto 2020 &nbsp;(16)</option>
+	<option value="https://www.cicas.es/2020/07"> julio 2020 &nbsp;(12)</option>
+	<option value="https://www.cicas.es/2020/06"> junio 2020 &nbsp;(8)</option>
+	<option value="https://www.cicas.es/2020/05"> mayo 2020 &nbsp;(8)</option>
+	<option value="https://www.cicas.es/2020/04"> abril 2020 &nbsp;(7)</option>
+	<option value="https://www.cicas.es/2020/03"> marzo 2020 &nbsp;(13)</option>
+	<option value="https://www.cicas.es/2020/01"> enero 2020 &nbsp;(17)</option>
+	<option value="https://www.cicas.es/2019/12"> diciembre 2019 &nbsp;(6)</option>
+	<option value="https://www.cicas.es/2019/10"> octubre 2019 &nbsp;(7)</option>
+	<option value="https://www.cicas.es/2019/09"> septiembre 2019 &nbsp;(13)</option>
+	<option value="https://www.cicas.es/2019/08"> agosto 2019 &nbsp;(7)</option>
+	<option value="https://www.cicas.es/2019/07"> julio 2019 &nbsp;(8)</option>
+	<option value="https://www.cicas.es/2019/05"> mayo 2019 &nbsp;(12)</option>
+	<option value="https://www.cicas.es/2019/04"> abril 2019 &nbsp;(10)</option>
+	<option value="https://www.cicas.es/2019/03"> marzo 2019 &nbsp;(4)</option>
+	<option value="https://www.cicas.es/2019/02"> febrero 2019 &nbsp;(6)</option>
+	<option value="https://www.cicas.es/2019/01"> enero 2019 &nbsp;(8)</option>
+	<option value="https://www.cicas.es/2018/11"> noviembre 2018 &nbsp;(12)</option>
+	<option value="https://www.cicas.es/2018/10"> octubre 2018 &nbsp;(7)</option>
+	<option value="https://www.cicas.es/2018/09"> septiembre 2018 &nbsp;(17)</option>
+	<option value="https://www.cicas.es/2018/07"> julio 2018 &nbsp;(5)</option>
+	<option value="https://www.cicas.es/2018/06"> junio 2018 &nbsp;(9)</option>
+	<option value="https://www.cicas.es/2018/05"> mayo 2018 &nbsp;(6)</option>
+	<option value="https://www.cicas.es/2018/04"> abril 2018 &nbsp;(8)</option>
+	<option value="https://www.cicas.es/2018/03"> marzo 2018 &nbsp;(6)</option>
+	<option value="https://www.cicas.es/2018/02"> febrero 2018 &nbsp;(9)</option>
+	<option value="https://www.cicas.es/2018/01"> enero 2018 &nbsp;(6)</option>
+	<option value="https://www.cicas.es/2017/12"> diciembre 2017 &nbsp;(8)</option>
+	<option value="https://www.cicas.es/2017/11"> noviembre 2017 &nbsp;(6)</option>
+	<option value="https://www.cicas.es/2017/09"> septiembre 2017 &nbsp;(9)</option>
+	<option value="https://www.cicas.es/2017/08"> agosto 2017 &nbsp;(4)</option>
+	<option value="https://www.cicas.es/2017/07"> julio 2017 &nbsp;(8)</option>
+	<option value="https://www.cicas.es/2017/06"> junio 2017 &nbsp;(6)</option>
+	<option value="https://www.cicas.es/2017/05"> mayo 2017 &nbsp;(6)</option>
+	<option value="https://www.cicas.es/2017/04"> abril 2017 &nbsp;(6)</option>
+	<option value="https://www.cicas.es/2017/03"> marzo 2017 &nbsp;(6)</option>
+	<option value="https://www.cicas.es/2017/02"> febrero 2017 &nbsp;(2)</option>
+	<option value="https://www.cicas.es/2017/01"> enero 2017 &nbsp;(7)</option>
+	<option value="https://www.cicas.es/2016/09"> septiembre 2016 &nbsp;(4)</option>
+	<option value="https://www.cicas.es/2016/05"> mayo 2016 &nbsp;(8)</option>
+	<option value="https://www.cicas.es/2016/04"> abril 2016 &nbsp;(7)</option>
+	<option value="https://www.cicas.es/2016/03"> marzo 2016 &nbsp;(10)</option>
+	<option value="https://www.cicas.es/2016/02"> febrero 2016 &nbsp;(8)</option>
+	<option value="https://www.cicas.es/2016/01"> enero 2016 &nbsp;(5)</option>
+	<option value="https://www.cicas.es/2015/12"> diciembre 2015 &nbsp;(5)</option>
+	<option value="https://www.cicas.es/2015/11"> noviembre 2015 &nbsp;(12)</option>
+	<option value="https://www.cicas.es/2015/10"> octubre 2015 &nbsp;(1)</option>
+	<option value="https://www.cicas.es/2015/09"> septiembre 2015 &nbsp;(6)</option>
+	<option value="https://www.cicas.es/2015/08"> agosto 2015 &nbsp;(7)</option>
+	<option value="https://www.cicas.es/2015/07"> julio 2015 &nbsp;(15)</option>
+	<option value="https://www.cicas.es/2015/06"> junio 2015 &nbsp;(7)</option>
+	<option value="https://www.cicas.es/2015/04"> abril 2015 &nbsp;(1)</option>
+	<option value="https://www.cicas.es/2015/03"> marzo 2015 &nbsp;(1)</option>
+	<option value="https://www.cicas.es/2015/02"> febrero 2015 &nbsp;(1)</option>
+	<option value="https://www.cicas.es/2014/10"> octubre 2014 &nbsp;(1)</option>
+	<option value="https://www.cicas.es/2014/08"> agosto 2014 &nbsp;(1)</option>
+	<option value="https://www.cicas.es/2014/07"> julio 2014 &nbsp;(1)</option>
+	<option value="https://www.cicas.es/2014/06"> junio 2014 &nbsp;(1)</option>
+	<option value="https://www.cicas.es/2014/05"> mayo 2014 &nbsp;(2)</option>
+	<option value="https://www.cicas.es/2014/04"> abril 2014 &nbsp;(8)</option>
+	<option value="https://www.cicas.es/2014/03"> marzo 2014 &nbsp;(3)</option>
+	<option value="https://www.cicas.es/2014/02"> febrero 2014 &nbsp;(1)</option>
+	<option value="https://www.cicas.es/2014/01"> enero 2014 &nbsp;(8)</option>
+	<option value="https://www.cicas.es/2013/12"> diciembre 2013 &nbsp;(4)</option>
+	<option value="https://www.cicas.es/2013/11"> noviembre 2013 &nbsp;(5)</option>
+	<option value="https://www.cicas.es/2013/10"> octubre 2013 &nbsp;(7)</option>
+	<option value="https://www.cicas.es/2013/09"> septiembre 2013 &nbsp;(5)</option>
+	<option value="https://www.cicas.es/2013/08"> agosto 2013 &nbsp;(9)</option>
+	<option value="https://www.cicas.es/2013/07"> julio 2013 &nbsp;(6)</option>
+	<option value="https://www.cicas.es/2013/06"> junio 2013 &nbsp;(3)</option>
+	<option value="https://www.cicas.es/2013/05"> mayo 2013 &nbsp;(6)</option>
+	<option value="https://www.cicas.es/2013/04"> abril 2013 &nbsp;(7)</option>
+	<option value="https://www.cicas.es/2013/03"> marzo 2013 &nbsp;(9)</option>
+	<option value="https://www.cicas.es/2013/02"> febrero 2013 &nbsp;(4)</option>
+	<option value="https://www.cicas.es/2013/01"> enero 2013 &nbsp;(4)</option>
+	<option value="https://www.cicas.es/2012/12"> diciembre 2012 &nbsp;(4)</option>
+	<option value="https://www.cicas.es/2012/11"> noviembre 2012 &nbsp;(7)</option>
+	<option value="https://www.cicas.es/2012/10"> octubre 2012 &nbsp;(1)</option>
+	<option value="https://www.cicas.es/2012/09"> septiembre 2012 &nbsp;(3)</option>
+	<option value="https://www.cicas.es/2012/08"> agosto 2012 &nbsp;(4)</option>
+	<option value="https://www.cicas.es/2012/07"> julio 2012 &nbsp;(4)</option>
+	<option value="https://www.cicas.es/2012/06"> junio 2012 &nbsp;(5)</option>
+	<option value="https://www.cicas.es/2012/05"> mayo 2012 &nbsp;(4)</option>
+	<option value="https://www.cicas.es/2012/04"> abril 2012 &nbsp;(16)</option>
+	<option value="https://www.cicas.es/2012/03"> marzo 2012 &nbsp;(28)</option>
+	<option value="https://www.cicas.es/2012/02"> febrero 2012 &nbsp;(13)</option>
+	<option value="https://www.cicas.es/2012/01"> enero 2012 &nbsp;(16)</option>
+	<option value="https://www.cicas.es/2011/12"> diciembre 2011 &nbsp;(16)</option>
+	<option value="https://www.cicas.es/2011/11"> noviembre 2011 &nbsp;(19)</option>
+	<option value="https://www.cicas.es/2011/10"> octubre 2011 &nbsp;(25)</option>
+	<option value="https://www.cicas.es/2011/09"> septiembre 2011 &nbsp;(51)</option>
+	<option value="https://www.cicas.es/2011/08"> agosto 2011 &nbsp;(25)</option>
+	<option value="https://www.cicas.es/2011/07"> julio 2011 &nbsp;(7)</option>
+	<option value="https://www.cicas.es/2011/06"> junio 2011 &nbsp;(3)</option>
+	<option value="https://www.cicas.es/2011/05"> mayo 2011 &nbsp;(2)</option>
+	<option value="https://www.cicas.es/2011/02"> febrero 2011 &nbsp;(1)</option>
+	<option value="https://www.cicas.es/2011/01"> enero 2011 &nbsp;(1)</option>
+	<option value="https://www.cicas.es/2010/12"> diciembre 2010 &nbsp;(2)</option>
+	<option value="https://www.cicas.es/2010/10"> octubre 2010 &nbsp;(1)</option>
+	<option value="https://www.cicas.es/2010/09"> septiembre 2010 &nbsp;(1)</option>
+	<option value="https://www.cicas.es/2010/08"> agosto 2010 &nbsp;(2)</option>
+	<option value="https://www.cicas.es/2010/06"> junio 2010 &nbsp;(2)</option>
+	<option value="https://www.cicas.es/2010/05"> mayo 2010 &nbsp;(3)</option>
+	<option value="https://www.cicas.es/2010/04"> abril 2010 &nbsp;(2)</option>
+	<option value="https://www.cicas.es/2010/02"> febrero 2010 &nbsp;(3)</option>
+	<option value="https://www.cicas.es/2010/01"> enero 2010 &nbsp;(1)</option>
+	<option value="https://www.cicas.es/2009/08"> agosto 2009 &nbsp;(1)</option>
+	<option value="https://www.cicas.es/2009/05"> mayo 2009 &nbsp;(1)</option>
+	<option value="https://www.cicas.es/2009/03"> marzo 2009 &nbsp;(1)</option>
+
+		</select>
+		</div><div id="categories-3" class="widget widget_categories"><h3>Categorías</h3><label class="screen-reader-text" for="cat">Categorías</label><select name="cat" id="cat" class="postform">
+	<option value="-1">Elegir categoría</option>
+	<option class="level-0" value="190">Al Volante Gente Despierta&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="171">Boletín Café Ciencia y Salud&nbsp;&nbsp;(14)</option>
+	<option class="level-0" value="32">Boletín Informativo&nbsp;&nbsp;(12)</option>
+	<option class="level-0" value="196">CICAS en los medios&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="12">Cifras&nbsp;&nbsp;(14)</option>
+	<option class="level-0" value="141">Estudios recientes&nbsp;&nbsp;(907)</option>
+	<option class="level-0" value="241">Mito o realidad&nbsp;&nbsp;(6)</option>
+	<option class="level-0" value="192">Notas de Prensa&nbsp;&nbsp;(17)</option>
+	<option class="level-0" value="5">Noticias&nbsp;&nbsp;(1.079)</option>
+	<option class="level-0" value="1">Otras&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="78">Salud y Estilo de Vida&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="161">Vodcast&nbsp;&nbsp;(1)</option>
+</select>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			location.href = "https://www.cicas.es/?cat=" + dropdown.options[ dropdown.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+</div>    
+		</div>
+		<div class="block">
+        	<div id="text-3" class="widget widget_text"><h3>Carácter información médica</h3>			<div class="textwidget"><div>
+<h5>"La información médica ofrecida es solamente con carácter formativo y educativo, y no pretende sustituir las opiniones, consejos y recomendaciones de un profesional sanitario. Las decisiones relativas a la salud deben ser tomadas por un profesional sanitario, considerando las características únicas del paciente".</h5>
+</div></div>
+		</div>    
+		</div>
+		<div class="fix"></div>
+
+	</div></div><!-- /#footer-widgets  -->
+        
+	<div id="footer">
+		<div class="col-full">
+	
+		<div id="copyright" class="col-left">
+					<p>© 2024 Blog Centro de Información Café y Salud.. All Rights Reserved.</p>
+				</div>
+		
+		<div id="credit" class="col-right">
+        			<p>Powered by <a href="http://www.wordpress.org">WordPress</a>. Designed by <a href="http://www.woothemes.com"><img src="https://www.cicas.es/wp-content/themes/continuum/images/woothemes.png" width="74" height="19" alt="Woo Themes"></a></p>
+				</div>
+		
+	</div></div><!-- /#footer  -->
+
+</div><!-- /#wrapper -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-25209850-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript" src="https://www.cicas.es/wp-includes/js/comment-reply.min.js?ver=4.8.24"></script>
+<script type="text/javascript" src="https://www.cicas.es/wp-content/plugins/contact-form-7/scripts.js?ver=3.0.2.1"></script>
+<script type="text/javascript" src="https://www.cicas.es/wp-includes/js/wp-embed.min.js?ver=4.8.24"></script>
+
+<iframe scrolling="no" frameborder="0" allowtransparency="true" src="https://platform.twitter.com/widgets/widget_iframe.2f70fb173b9000da126c79afe2098f02.html?origin=https%3A%2F%2Fwww.cicas.es" title="Twitter settings iframe" style="display: none;"></iframe><iframe id="rufous-sandbox" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: none;" title="Twitter analytics iframe"></iframe></body></html>
