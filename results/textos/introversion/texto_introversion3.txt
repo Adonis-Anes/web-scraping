@@ -1,0 +1,1399 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head><script type="text/javascript" id="www-widgetapi-script" src="https://www.youtube.com/s/player/5683fc5e/www-widgetapi.vflset/www-widgetapi.js" async=""></script><script src="https://www.youtube.com/iframe_api"></script><script src="https://www.uv.es/recursos/fatwirepub/js/froogaloop2.min.js"></script><script type="text/javascript">
+	
+			if (false){ //Si hay //redireccionar
+				var url = window.location.href;
+				var esCorta = false;
+				if (url != null)
+				{
+					if (url.indexOf("/ca") < 0 && url.indexOf("/es") < 0 && url.indexOf("/en") < 0)
+					{
+						esCorta = true;
+					}
+				}
+
+				if (!esCorta)
+				{
+					window.location.replace("");
+				}
+			}
+	
+	</script>
+        
+    <link rel="alternate" hreflang="ca" href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/ca/blog/eres-introvertido-extrovertido-1285957292035/GasetaRecerca.html?id=1285966163073"><link rel="alternate" hreflang="en" href="https://www.uv.es/master-general-health-psychology-pgs/en/blog/eres-introvertido-o-extrovertido-1285957292035/GasetaRecerca.html?id=1285966163073">
+	               
+	           
+				        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="keywords" content="">
+			
+			
+		
+	
+	
+	
+	
+	
+	<meta property="fb:app_id" content="1012170145561457"><meta property="og:title" content="¿Eres introvertido o extrovertido?"><meta property="og:type" content="article"> <meta property="og:url" content="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog/eres-introvertido-extrovertido-1285957292035/GasetaRecerca.html?id=1285966163073&amp;plantilla=MU_Psicologia_General_Sanitaria/Page/TPGDetaill"><meta property="og:image" content="http://www.uv.es/recursos/fatwirepub/ccurl/180/410/post extrovertido pgs.jpg"><meta property="og:image:width" content="450"><meta property="og:image:height" content="298"><meta property="og:description" content="Fueron muchos los psicólogos que, a lo largo del pasado siglo, intentaron calibrar los rasgos de nuestra personalidad. En el año 1921, el psicólogo suizo Carl Gustav Jung..."><link rel="canonical" href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog/eres-introvertido-extrovertido-1285957292035/GasetaRecerca.html?id=1285966163073"><meta name="robots" content="all"><title>¿Eres introvertido o extrovertido?</title><meta content="width=device-width, initial-scale=1.0" name="viewport"><!-- non-retina iPhone pre iOS 7 -->
+		<link rel="apple-touch-icon" href="/recursos/fatwirepub/img/logoapp_57.png" sizes="57x57">
+		<!-- non-retina iPad pre iOS 7 -->
+		<link rel="apple-touch-icon" href="/recursos/fatwirepub/img/logoapp_72.png" sizes="72x72">
+		<!-- non-retina iPad iOS 7 -->
+		<link rel="apple-touch-icon" href="/recursos/fatwirepub/img/logoapp_76.png" sizes="76x76">
+		<!-- retina iPhone pre iOS 7 -->
+		<link rel="apple-touch-icon" href="/recursos/fatwirepub/img/logoapp_114.png" sizes="114x114">
+		<!-- retina iPhone iOS 7 -->
+		<link rel="apple-touch-icon" href="/recursos/fatwirepub/img/logoapp_120.png" sizes="120x120">
+		<!-- retina iPad pre iOS 7 -->
+		<link rel="apple-touch-icon" href="/recursos/fatwirepub/img/logoapp_144.png" sizes="144x144">
+		<!-- retina iPad iOS 7 -->
+		<link rel="apple-touch-icon" href="/recursos/fatwirepub/img/logoapp_152.png" sizes="152x152">
+	
+		<link rel="stylesheet" type="text/css" href="/recursos/fatwirepub/css/estilo.css">
+		<link rel="stylesheet" type="text/css" href="/recursos/fatwirepub/css/estilo-arena.css"><link rel="stylesheet" type="text/css" href="/recursos/fatwirepub/css/uv.css">
+		<link rel="stylesheet" type="text/css" href="/recursos/fatwirepub/css/humanity/jquery-ui-1.8.16.custom.css">
+		<link rel="stylesheet" type="text/css" href="/recursos/fatwirepub/font-awesome/css/font-awesome.min.css">
+		<script type="text/javascript" src="/recursos/fatwirepub/js/paracepas.js"></script> 
+		<script type="text/javascript" src="/recursos/fatwirepub/js/jquery-1.7.2.min.js"></script>
+
+	<script type="text/javascript" src="/recursos/fatwirepub/js/html5lightbox.js"></script>
+		<script type="text/javascript" src="/recursos/fatwirepub/js/jquery-ui-1.8.16.custom.min.js"></script>
+		<script type="text/javascript" src="/recursos/fatwirepub/js/jquery.tinycarousel.js"></script>
+		<script type="text/javascript" src="/recursos/fatwirepub/js/slider.js"></script>
+		<script type="text/javascript" src="/recursos/fatwirepub/js/jquery.ui.datepicker-ca.js"></script> 
+		<script type="text/javascript" src="/recursos/fatwirepub/js/jquery.ui.datepicker-es.js"></script> 
+		<script type="text/javascript" src="/recursos/fatwirepub/js/jquery-ui-timepicker-addon.js"></script> 
+		<script type="text/javascript" src="/recursos/fatwirepub/js/jquery.imgCrossfade.min.js"></script> 
+		<script type="text/javascript" src="/recursos/fatwirepub/js/jquery.ihavecookies.js"></script>
+		<script type="text/javascript" src="/recursos/fatwirepub/js/website.js"></script>
+		<script type="text/javascript" src="/recursos/fatwirepub/js/flexcroll.js"></script><style type="text/css">.flexcroll-hide-default {overflow: hidden !important;}</style>
+		<script type="text/javascript" src="/recursos/fatwirepub/js/tab.js"></script>
+		<script type="text/javascript" src="/recursos/fatwirepub/js/dropdown.js"></script>
+		<script type="text/javascript" src="/recursos/fatwirepub/js/collapse.js"></script>
+		
+		<script type="text/javascript" src="/recursos/fatwirepub/js/FileSaver.js"></script>
+		<script type="text/javascript" src="/recursos/fatwirepub/js/Blob.js"></script>
+		<script type="text/javascript" src="/recursos/fatwirepub/js/ics.js"></script>
+	
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.css">
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.bundle.min.js"></script>
+		<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/emn178/chartjs-plugin-labels/src/chartjs-plugin-labels.js"></script>
+		
+		
+	<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-46329282-40"></script>
+	<script type="text/javascript">
+	
+	function CookiesOk(){
+		
+			if($.fn.ihavecookies.preference("analytics") === true){
+			
+				
+				  window.dataLayer = window.dataLayer || [];
+				  function gtag(){dataLayer.push(arguments);}
+				  gtag('js', new Date());
+				
+				  gtag('config', 'UA-46329282-40');	
+				  
+				
+				gtag('config', 'G-6V1YCPFMFM');
+				
+				         (function() {
+				            var cx = '011592280532160877737:coaccikotj0';
+				            var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+				            gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+				                '//www.google.es/cse/cse.js?cx=' + cx;
+				            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+				          })();
+				        
+				
+			}
+		
+		
+
+		if($.fn.ihavecookies.preference("preferences") === true){
+		
+				if (false)
+					document.cookie =  "c_locale=es_ES;expires=" + myDate + ";Secure;domain=uv.es;path=/";
+					
+				if (true){//Sino hay
+					var myDate = new Date();
+					myDate.setMonth(myDate.getMonth() + 12);
+					console.log(myDate);
+					document.cookie = "c_locale=es_ES;expires=" + myDate + ";Secure;domain=uv.es;path=/";
+				}
+		
+		}
+
+	}
+	
+	CookiesOk();
+	
+	</script><link rel="stylesheet" href="https://www.uv.es/recursos/fatwirepub/js/icons/css/fontello.css" type="text/css"></head><body><div id="wrap"><div id="containerCab">
+
+
+<div id="pre-cabecera">	
+	
+	
+		
+		
+			
+			
+			
+		
+
+				
+				
+			<div class="menu-servicios-nou">
+			<ul><li class="idiomes-nou"><a lang="ca" xml:lang="ca" href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/ca/blog/eres-introvertido-extrovertido-1285957292035/GasetaRecerca.html?id=1285966163073" title="Enllaç a la pàgina d'inici de la UV, versió Valencià">Valencià</a></li><li class="idiomes-nou"><a lang="en" xml:lang="en" href="https://www.uv.es/master-general-health-psychology-pgs/en/blog/eres-introvertido-o-extrovertido-1285957292035/GasetaRecerca.html?id=1285966163073" title="Link to UV's home page, English version">English</a></li>
+
+
+<li class="directori-nou  enlace-cab-51"><a href="javascript:mostrarLista(51);" style="padding: 0;"><span>Directorio</span></a><ul class="lista-perfiles-nou-seg enlace-icono"><li><a href="https://www.uv.es/uvweb/universidad/es/directorio/facultades-escuelas-1285846794920.html" title="Facultades y Escuelas">Facultades y Escuelas</a></li><li><a href="https://www.uv.es/uvweb/universidad/es/directorio/departamentos-1285846794927.html" title="Departamentos">Departamentos</a></li><li><a href="https://www.uv.es/uvweb/universidad/es/directorio/servicios-1285846794934.html" title="Enllace a Servicios">Servicios</a></li><li><a href="https://www.uv.es/uvweb/universidad/es/directorio/institutos-investigacion-eri-1285846795127.html" title="Enllace a Institutos">Institutos Investigación y ERI</a></li><li><a href="https://www.uv.es/uvweb/universidad/es/directorio/grupos-investigacion-1285956741406.html" title="Enlace a Grupos de Investigación">Grupos de Investigación</a></li><li><a href="https://www.uv.es/uvweb/universidad/es/directorio/otras-entidades/centros-singulares-1285847103169.html" title="Enlace a Otras entidades">Otras entidades</a></li><li><a href="https://www.uv.es/uvweb/universidad/es/directorio/consejo-direccion/consejo-direccion-1286041453118.html" title="Enlace a Consejo de Dirección">Consejo de Dirección</a></li><li><a href="https://www.uv.es/uvweb/universidad/es/directorio/otros-organos-universidad/otros-organos-universidad-1285854394935.html" title="Enlace a Otros órganos de la Universidad">Otros órganos de la Universidad</a></li><li><a href="https://www.uv.es/uvweb/universidad/es/directorio/fundaciones-entidades-asociadas/fundacion-general-uv-1285847103191.html" title="Enllaç a Fundaciones y entidades asociadas">Fundaciones y entidades asociadas</a></li><li><a href="https://www.uv.es/uvweb/universidad/es/directorio/catedras-institucionales-1285846794956.html" title="Enlace a Cátedras institucionales">Cátedras institucionales</a></li><li><a href="https://www.uv.es/uvweb/universidad/es/directorio/buscador-personas-1285866527763.html" title="Enlace a Buscador de personas">Buscador de personas</a></li><li><a href="https://www.uv.es/uvweb/universidad/es/directorio/planos-1285973759558.html" title="Enlace a Planos">Planos</a></li><li><a href="https://www.uv.es/uvweb/universidad/es/directorio/directorio-telefonico/buscador-telefonos-1285924545938.html" title="Enlace a Directorio telefónico">Directorio telefónico</a></li><li><a href="https://www.uv.es/uvweb/universidad/es/directorio/emergencias-seguridad/emergencias-dentro-del-horario-laboral-1285949714693.html" title="Enlace a Emergencias y Seguridad">Emergencias y Seguridad</a></li></ul></li><li class="directori-nou enlace-icono enlace-cab-52">
+									<a href="javascript:mostrarLista(52);" style="padding: 0;"><span><span class="fa fa-user"><span class="sr-only">User</span></span></span></a><ul class="lista-perfiles-nou-seg"><li><a href="http://correo.uv.es/" title="Enllaç entorno">Entorno de usuario UV</a></li><li><a href="https://www.uv.es/sede-electronica/es/sede-electronica-uv.html" title="Enlace a Sede Electrónica UV">Sede Electrónica UV</a></li><li><a href="https://www.uv.es/uvweb/registro-general/es/registro-general-1285868559166.html" title="Enlace a Registro General">Registro General</a></li><li><a href="http://tauler.uv.es/" title="Enllaç tablon oficial">Tauler Oficial d'anuncis UV</a></li><li><a href="https://aulavirtual.uv.es/" title="Enllaç aula virtual">Aula Virtual</a></li><li><a href="https://contrataciondelestado.es/wps/portal/!ut/p/b1/jY5LDoIwFEXX4gLIewUKOKwKCBEVqlU6IQ1-UiNo1Bhl9aJz0Tu7ybkfkJDbpkss6nkU1iBrddd7ddOnWh0hByndggk_ZVHfwjCb-2gOMtexg1lrEUSlHrrSzXYDC1ijXfCDd05KfkkPTfqcNkuSjFYEkz4RQeqzeH8jxrX33pHO1140WyBvAfwihv_lqTW0RSzmDo9CxGgcjCZLQjE0nV_5FcgP0tXwAboudo8gTMenagu8VFBJbchsxyOD9V494Sfi/dl4/d5/L0lHSkovd0RNQURrQUVnQSEhLzRKVUUvZXM!/" title="Enlace perfil contratante">Perfil de contratante</a></li></ul></li><li class="directori-nou enlace-icono enlace-cab-53"><a href="javascript:mostrarLista(53);" style="padding: 0;"><span><span class="fa fa-share-alt"></span></span></a><ul class="lista-perfiles-nou-seg"><li>
+					
+					
+					
+				<a href="https://www.facebook.com/PGSUV/" title="Se abrirá una nueva ventana. Enllaç a Facebook" target="_blank"><span style="font-size:1.5em" class="fa fa-facebook fa-2x" aria-hidden="true">&nbsp;</span><span class="sr-only">Facebook</span></a></li><li>
+					
+					
+					
+				<a href="https://twitter.com/pgs_uv" title="Se abrirá una nueva ventana. Enllaç a Twitter" target="_blank"><span style="font-size:1.5em" class="fa fa-twitter fa-2x" aria-hidden="true">&nbsp;</span><span class="sr-only">Twitter</span></a></li></ul></li><li class="directori-nou enlace-icono"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/presentacion/ubicacion-contacto/datos-contacto.html" title="Contacto"><i class="fa fa-envelope"></i></a></li><script type="text/javascript">				
+						function mostrarLista (n) {
+							var visibility = $('.enlace-cab-'+n+' ul').css( "visibility" ); 
+
+							if(visibility != 'visible') {
+								$('.enlace-cab-'+n+' ul').css( "opacity","1" ); 
+								$('.enlace-cab-'+n+' ul').css( "visibility","visible" ); 
+							 	for(var i=1;i<4;i++){
+									 if(i!=n){
+										 $('.enlace-cab-'+i+' ul').css( "opacity","" ); 
+										 $('.enlace-cab-'+i+' ul').css( "visibility","" );	
+									 }
+							 	}
+							}
+							if(visibility == 'visible') {
+								 $('.enlace-cab-'+n+' ul').css( "opacity","" ); 
+								 $('.enlace-cab-'+n+' ul').css( "visibility","hidden" );
+							}
+						}
+					
+					</script>
+					
+					<li class="buscador-nou">
+						<form action="https://www.uv.es:443/sites/Satellite" method="get" name="formBuscador">
+							<input type="hidden" name="pagename" value="MU_Psicologia_General_Sanitaria/Page/TPGListat">
+							<input type="hidden" name="cid" value="1285957292922">
+							<input type="hidden" name="site" value="MU_Psicologia_General_Sanitaria">
+							<input type="hidden" name="locale" value="es_ES">
+							<input type="hidden" name="p1" value="Cercador">
+						    <!-- label for="p3"  style="display:none">< %=litBuscador %></label--><input title="Buscador" value="Buscar" name="g3" id="g3" class="form-text" type="text" size="20" onfocus="javascript:this.value='';" onblur="javascript:if(this.value==''){this.value='';}" accesskey="i">
+							<input type="submit" class="form-submit" value="&nbsp;">
+						</form>				
+					</li>
+									
+			</ul>
+		</div>
+		</div>
+		<div id="cabecera"><h1 id="logo"><map name="mapa1" id="mapa1">	
+					<area shape="rect" title="Enlace a página principal de la Universidad de Valencia" alt="Logo de la Universdad de Valencia" coords="0,0,210,134" href="//www.uv.es">
+							<area shape="rect" title="Enlace Máster en Psicología General Sanitaria" alt="Logo Máster en Psicología General Sanitaria" coords="210,0,800,134" href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/master-psicologia-general-sanitaria.html"></map>
+					<img src="/recursos/fatwirepub/ccurl/580/513/cabecera_master_piscologia_general_sanitaria_es.png" alt="Logo del portal" usemap="#mapa1"> 
+					</h1>	
+					</div><script type="text/javascript">				
+		function mostrarLista (n) {
+			var visibility = $('.enlace-cab-'+n+' ul').css( "visibility" ); 
+			console.log('primero: ');
+			console.log();
+			if(visibility != 'visible') {
+
+				console.log('tercero: ');
+				console.log();
+				$('.enlace-cab-'+n+' ul').css( "opacity","1" ); 
+				$('.enlace-cab-'+n+' ul').css( "visibility","visible" ); 
+			 	for(var i=1;i<4;i++){
+					 if(i!=n){
+						 $('.enlace-cab-'+i+' ul').css( "opacity","" ); 
+						 $('.enlace-cab-'+i+' ul').css( "visibility","" );	
+					 }
+			 	}
+			}
+			if(visibility == 'visible') {
+				 $('.enlace-cab-'+n+' ul').css( "opacity","" ); 
+				 $('.enlace-cab-'+n+' ul').css( "visibility","hidden" );
+			}
+		}
+	
+	</script>
+	
+
+
+
+
+        
+		
+		
+		
+    
+
+
+<!-- CSEMenuPrincipal para que se cachee aunque sea vacio -->
+
+		
+		
+		
+		
+		
+		
+	
+
+
+<div id="slider-segons-largo"></div>
+
+
+
+
+		
+		
+		
+	
+			<div class="grid_16" id="menu-navegacion">
+				<span class="miga-pan">
+				
+					
+					
+					
+					
+					
+				
+				
+					
+					
+					
+				
+					<a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/master-psicologia-general-sanitaria.html" title="Inicio">Inicio</a>  &gt; ¿Eres introvertido o extrovertido?
+				
+				</span>
+			</div>
+		
+
+
+		
+		
+		
+	
+
+
+
+		
+		
+		
+	
+	<div id="content">
+	
+	
+	
+ 
+
+		
+		
+		
+	
+			
+			
+			
+		
+			
+			
+		
+			
+			
+		
+			
+			
+		
+		
+		
+		
+		
+			
+		
+
+			
+			
+			
+		<div> 
+                <h2 class="titulo-segundos-nuevo">¿Eres introvertido o extrovertido?</h2> 
+            </div>
+            <div class="entry-content vista-completa"><div class="imagenGaseta">
+					
+					
+				<img src="/recursos/fatwirepub/ccurl/180/410/post extrovertido pgs.jpg"></div><div><strong><p>La vida está pensada para beneficiar a los extrovertidos, se aprecia en el día a día, en la esfera pública, en los estereotipos que la publicidad o el cine perpetúan: la extroversión se asocia con el éxito social. Pero toca derribar los tópicos...</p>
+</strong></div><div><p>4 de mayo de 2016</p></div><div><p>Fueron muchos los psicólogos que, a lo largo del pasado siglo, intentaron calibrar los rasgos de nuestra personalidad. En el año 1921, el psicólogo suizo <a href="https://es.wikipedia.org/wiki/Carl_Gustav_Jung"><strong>Carl Gustav Jung</strong></a> dividía por primera vez a los seres humanos en dos grandes bloques atendiendo a su patrón de personalidad: introvertidos y extrovertidos. Lo hizo en un ensayo que publicó ese mismo año: <a href="https://es.wikipedia.org/wiki/Tipos_psicol%C3%B3gicos"><em>Tipos psicológicos</em></a>, en el que afirmaba que para los introvertidos lo importante era el ‘yo’, mientras que para los extrovertidos primaba el ‘yo’ sobre los demás. Es decir, mientras que para los extrovertidos cargan su energía mediante las interacciones sociales, los introvertidos necesitan situaciones que supongan un menor nivel de estímulo para sentirse más enérgicos. Sin embargo, en la actualidad, es recomendable no categotizar a los seres humanos en términos absolutos. El psicólogo <a href="http://www.albertosoler.es/"><strong>Alberto Soler</strong></a> explica que al hablar de introversión o extroversión no se habla de dos “categorías estancas” sino de dos extremos de un continuo, y la mayoría de la gente se sitúa en puntos intermedios.</p>
+
+<p>Aun así, los neurólogos coinciden en que los procesos cerebrales de una persona introvertida y otra extrovertida son diferentes y que, por lo tanto, nuestra personalidad vendrá determinada por el predominio de la actividad que muestren unas regiones cerebrales sobre otras.</p>
+
+<p>La vida está pensada para beneficiar a los extrovertidos, se aprecia en el día a día, en la esfera pública, en los estereotipos que la publicidad o el cine perpetúan: la extroversión se asocia con el éxito social. Pero toca derribar los tópicos. Personas como <strong>Albert Einstein</strong>, <strong>Bill Gates</strong>, <strong>Steve Jobs</strong> o <strong>Mark Zuckerberg</strong> han conseguido un gran éxito teniendo un patrón de personalidad mucho más cercano a la introversión.</p>
+
+<p>Las personas introvertidas no son antisociales. Disfrutan de las relaciones de un modo diferente. En vez de salir a una discoteca o estar entre multitudes, prefieren ir a tomar algo tranquilamente o quedar con pocos amigos, procesan de una manera diferente sus vivencias y normalmente actúan de una manera menos superficial. Son analíticos y tienen más claro cuáles son sus necesidades psicológicas. Sin embargo, los extrovertidos son menos conscientes de sus problemas.</p>
+
+<p>Alberto Soler añade que "al igual que a un extrovertido le genera mucha ansiedad no tener un plan el fin de semana, a ellos les genera una especie de cansancio el hecho de enfrentarse a ciertas situaciones sociales. Para los introvertidos es importante que después del 'esfuerzo' que les ha supuesto una determinada situación social, puedan contar con un tiempo para 'cargar pilas' de nuevo, estando solos o haciendo actividades que les resulten placenteras: lectura, escuchar música, o incluso algo de silencio durante unas horas". El introvertido tiende a cultivar con más intensidad su mundo interior, y es habitual relacional su estado con la creatividad y la empatía. <strong>Javier Tirapu Ustárroz</strong>, neuropsicólogo clínico y miembro del <strong>Grupo de Estudio de Neuropsicología de la <a href="http://www.sen.es/">Sociedad Española de Neurología (SEN)</a></strong> expone que los introvertidos "tienen una gran capacidad para escuchar y son más prudentes y reflexivos. Además, su vida interior es más rica, lo que les lleva a necesitar menos estimulación exterior para lograr su bienestar".</p>
+
+<p>Fuente:&nbsp;<a href="http://elpais.com/">elpais.com</a></p>
+</div><div class="caja-contacta"><span>Etiquetas</span>
+						
+						
+						
+						
+						
+						
+					<a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=psicologia">psicologia</a>
+						
+						
+						
+						
+						
+						
+					, <a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=salud y bienestar">salud y bienestar</a>
+						
+						
+						
+						
+						
+						
+					, <a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=personalidad">personalidad</a><br><span>Publicado por:</span>
+						
+						
+						
+					
+							
+							
+							
+						<a target="_blank" href="https://www.uv.es/uvweb/universidad/es/ficha-persona-1285950309813/Persona.html?id=1285959416605">Sara Fernández Collado</a></div><div class="entry-content" style="margin-left:-12px;">	
+			  	
+			  	
+			  		
+			  	
+			  	
+			
+
+	<div class="comparte" style="width:156px; position:relative; right:-1em; float:none; height: 24px">
+		<div class="links" style="position:absolute; right:12px; width:145px"><a href="https://www.facebook.com/share.php?u=https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog/eres-introvertido-extrovertido-1285957292035/GasetaRecerca.html?id=1285966163073&amp;t=¿Eres%20introvertido%20o%20extrovertido?" target="_blank" title="Compartir_en_Facebook"><img alt="Compartir_en_Facebook" src="https://www.uv.es/uwm/xarxes_socials/facebook_activo.png" style="margin:2px;"></a><a href="https://twitter.com/intent/tweet?text=¿Eres%20introvertido%20o%20extrovertido?&amp;url=https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog/eres-introvertido-extrovertido-1285957292035/GasetaRecerca.html?id=1285966163073" target="_blank" title="Compartir_en_Twitter"><img alt="Compartir_en_Twitter" src="https://www.uv.es/uwm/xarxes_socials/twitter_activo.png" style="margin:2px;"></a><a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.uv.es%2Fmaster-psicologia-general-sanitaria-pgs%2Fes%2Fblog%2Feres-introvertido-extrovertido-1285957292035%2FGasetaRecerca.html%3Fid%3D1285966163073" target="_blank" title="Compartir_en_LinkedIn"><img alt="Compartir_en_LinkedIn" src="https://www.uv.es/uwm/xarxes_socials/linkedin_activo.png" style="margin:2px;"></a><a href="https://wa.me/?text=https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog/eres-introvertido-extrovertido-1285957292035/GasetaRecerca.html?id=1285966163073" target="_blank" title="Compartir_en_Whatsapp"><img alt="Compartir_en_Whatsapp" src="https://www.uv.es/uwm/xarxes_socials/Nuevos/whatsapp_20x20.png" style="max-width:100%; margin:2px;" width="20px;"></a><a href="https://t.me/share/url?url=https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog/eres-introvertido-extrovertido-1285957292035/GasetaRecerca.html?id=1285966163073&amp;text=¿Eres%20introvertido%20o%20extrovertido?" target="_blank" title="Compartir_en_Telegram"><img alt="Compartir_en_Telegram" src="https://www.uv.es/uwm/xarxes_socials/Nuevos/telegram_20x20.png" style="max-width:100%; margin:2px;" width="20px;"></a>
+		</div>
+		<div class="blocRedes" style="display: none;">
+		<a href="https://tumblr.com/widgets/share/tool?canonicalUrl=https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog/eres-introvertido-extrovertido-1285957292035/GasetaRecerca.html?id=1285966163073&amp;caption=¿Eres%20introvertido%20o%20extrovertido?" target="_blank" title="Compartir_en_Tumblr"><img alt="Compartir_en_Tumblr" src="https://www.uv.es/uwm/xarxes_socials/Nuevos/tumblr_20x20.png" style="max-width:100%; margin:2px;" width="20px;"></a><a href="https://www.reddit.com/submit?url=https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog/eres-introvertido-extrovertido-1285957292035/GasetaRecerca.html?id=1285966163073&amp;title=¿Eres%20introvertido%20o%20extrovertido?" target="_blank" title="Compartir_en_Reddit"><img alt="Compartir_en_Reddit" src="https://www.uv.es/uwm/xarxes_socials/Nuevos/reddit_20x20.png" style="max-width:100%; margin:2px;" width="20px;"></a><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=&amp;su=¿Eres%20introvertido%20o%20extrovertido?&amp;body=https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog/eres-introvertido-extrovertido-1285957292035/GasetaRecerca.html?id=1285966163073&amp;ui=2&amp;tf=1&amp;pli=1" target="_blank" title="Compartir_en_Gmail"><img alt="Compartir_en_Gmail" src="https://www.uv.es/uwm/xarxes_socials/Nuevos/gmail_20x20.png" style="max-width:100%; margin:2px;" width="20px;"></a><a href="mailto:?subject=¿Eres%20introvertido%20o%20extrovertido?&amp;body=https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog/eres-introvertido-extrovertido-1285957292035/GasetaRecerca.html?id=1285966163073" target="_blank" title="Compartir_en_Email"><img alt="Compartir_en_Email" src="https://www.uv.es/uwm/xarxes_socials/Nuevos/email_gris_20x20.png" style="max-width:100%; margin:2px;" width="20px;"></a></div>
+		<span class="iconPlus">
+			<span id="iconPlus" class="fa fa-plus" aria-hidden="true" style="position:absolute; top:0.4em; cursor:pointer; right:0.5px">
+			</span>
+		</span>
+	</div><script type="text/javascript">    
+	    //Variable necesarias para eliminar el error en las URL por culpa de los espacios en blanco en textos, titulos, alt, etc. 
+	    var patron = / /g;
+		var nuevoValorTexto = "%20";
+		var nuevoValor = "_";
+		
+		//Texto que acompaÃ±a a la URL de la pÃ¡gina actual para todas las redes sociales sin espacios
+		var texto = '¿Eres introvertido o extrovertido?';
+	    var textoSin = texto.replace(patron, nuevoValorTexto);
+			
+	    //Titulo de las distintas redes sociales sin espacios
+	    var titleFace = 'Compartir en Facebook';																																										//FACEBOOK
+	    var titleFaceSin = titleFace.replace(patron, nuevoValor);																																								//FACEBOOK
+	    var titleTwitter = 'Compartir en Twitter';																																											//TWITTER
+	    var titleTwitterSin = titleTwitter.replace(patron, nuevoValor);																																									//TWITTER
+	    var titleLinkedin = 'Compartir en LinkedIn';																																													//LINKEDIN
+	    var titleLinkedinSin = titleLinkedin.replace(patron, nuevoValor);																																										//LINKEDIN
+	    var titlePinterest = 'Compartir en Pinterest';																																														//PINTEREST
+	    var titlePinterestSin = titlePinterest.replace(patron, nuevoValor);																																												//PINTEREST
+	    var titleWhatsapp = 'Compartir en Whatsapp';																																																	//WHATSAPP
+	    var titleWhatsappSin = titleWhatsapp.replace(patron, nuevoValor);																																														//WHATSAPP
+	    var titleTelegram = 'Compartir en Telegram';																																																			//TELEGRAM
+	    var titleTelegramSin = titleTelegram.replace(patron, nuevoValor);																																																//TELEGRAM
+	    var titleTumblr = 'Compartir en Tumblr';																																																						//TUMBLR
+	    var titleTumblrSin = titleTumblr.replace(patron, nuevoValor);																																																			//TUMBLR
+	    var titleReddit = 'Compartir en Reddit';																																																								//REDDIT
+	    var titleRedditSin = titleReddit.replace(patron, nuevoValor);																																																					//REDDIT																																																									//VK
+	   	var titleGmail = 'Compartir en Gmail';																																																										//GMAIL
+	    var titleGmailSin = titleGmail.replace(patron, nuevoValor);																																																								//GMAIL
+	    var titleEmail = 'Compartir en Email';																																																												//EMAIL
+	    var titleEmailSin = titleEmail.replace(patron, nuevoValor);																																																										//EMAIL
+	    
+	    
+	    //Texto alternativo de las distintas redes sociales sin espacios
+	    var altFace = titleFaceSin;																																																//FACEBOOK
+	    var altTwitter = titleTwitterSin;																																																//TWITTER
+	    var altLinkedin = titleLinkedinSin;																																																		//LINKEDIN
+	    var altPinterest = titlePinterestSin;																																																			//PINTEREST
+	    var altWhatsapp = titleWhatsappSin;																																																						//WHATSAPP
+	    var altTelegram = titleTelegramSin;																																																								//TELEGRAM
+	    var altTumblr = titleTumblrSin;																																																											//TUMBLR
+	    var altReddit = titleRedditSin;																																																													//REDDIT
+	    var altGmail = titleGmailSin;																																																															//GMAIL
+	    var altEmail = titleEmailSin;																																																																	//EMAIL
+	    
+
+	    //Fuente imagenes de iconos de las distintas redes sociales
+	    var srcFace = "https://www.uv.es/uwm/xarxes_socials/facebook_activo.png";																																				//FACEBOOK
+	    var srcTwitter = "https://www.uv.es/uwm/xarxes_socials/twitter_activo.png";																																						//TWITTER
+	    var srcLinkedin = "https://www.uv.es/uwm/xarxes_socials/linkedin_activo.png";																																							//LINKEDIN
+	    var srcPinterest = "https://www.uv.es/uwm/xarxes_socials/Nuevos/pinterest_color.png";																																							//PINTEREST	    
+	    var srcWhatsapp = "https://www.uv.es/uwm/xarxes_socials/Nuevos/whatsapp_20x20.png";																																										//WHATSAPP
+	    var srcTelegram = "https://www.uv.es/uwm/xarxes_socials/Nuevos/telegram_20x20.png";																																												//TELEGRAM
+	    var srcTumblr = "https://www.uv.es/uwm/xarxes_socials/Nuevos/tumblr_20x20.png";																																															//TUMBLR
+	    var srcReddit = "https://www.uv.es/uwm/xarxes_socials/Nuevos/reddit_20x20.png";																																																	//REDDIT
+	    var srcGmail = "https://www.uv.es/uwm/xarxes_socials/Nuevos/gmail_20x20.png";																																																			//GMAIL
+	    var srcEmail = "https://www.uv.es/uwm/xarxes_socials/Nuevos/email_gris_20x20.png";																																																					//EMAIL
+	    
+	    //URL de referencia de las redes sociales mÃ¡s la URL de la pÃ¡gina actual
+	    	
+	    	//FILTRO PARA ELIMINAR LOS ELEMENTOS HTML(div, p, span) DEL TITULO DE LA URL LOCAL
+	    	var urlLocal = location.href;
+	    	urlLocal = urlLocal.replace("-div-","-").replace("-/div-","-");
+	    	urlLocal = urlLocal.replace("-p-","-").replace("-/p-","-");
+	    	urlLocal = urlLocal.replace("-span-","-").replace("-/span-","-");
+	    	urlLocal = urlLocal.replace("&", "%26");
+	    	
+// 	    	textoSin = textoSin.replace("<i>","").replace("</i>","");
+// 	    	textoSin = textoSin.replace("<strong>","").replace("</strong>","");
+// 	    	textoSin = textoSin.replace("<b>","").replace("</b>","");
+// 	    	textoSin = textoSin.replace("<div>","").replace("</div>","");
+// 	    	textoSin = textoSin.replace("<br/>","").replace("</br>","");
+// 	    	textoSin = textoSin.replace("<em>","").replace("</em>","");
+			textoSin = textoSin.replace(/<.*?>/g, "");
+			
+	    
+		var hrefFace ="https://www.facebook.com/share.php?u="+urlLocal+"&amp;t=";																																				//FACEBOOK
+		//var hrefTwitter ="https://twitter.com/share?url="+urlLocal+"&amp;text=";																																						//TWITTER		
+		var hrefTwitter ="https://twitter.com/intent/tweet?text="+textoSin+"&url="+urlLocal;
+		var hrefLinkedin ="https://www.linkedin.com/shareArticle?mini=true&url="+urlLocal+"&summary=";																																			//LINKEDIN
+		var hrefPinterest ="https://www.pinterest.com/pin/create/button/?url="+urlLocal+"&description=";																																				//PINTEREST
+		var hrefWhatsapp ="https://wa.me/?text="+urlLocal;																																																		//WHATSAPP
+		var hrefTelegram ="https://t.me/share/url?url="+urlLocal+"&text=";																																																//TELEGRAM
+		var hrefTumblr ="https://tumblr.com/widgets/share/tool?canonicalUrl="+urlLocal+"&caption=";																																												//TUMBLR
+		var hrefReddit ="https://www.reddit.com/submit?url="+urlLocal+"&title=";																																																		//REDDIT
+		var hrefGmail ="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su="+textoSin+"&body="+urlLocal+"&ui=2&tf=1&pli=1";																																									//GMAIL
+		var hrefEmail ="mailto:?subject="+textoSin+"&amp;body="+urlLocal;																																																								//EMAIL
+		
+		// 2022
+		var urlLinkedin = "https://www.linkedin.com/sharing/share-offsite/?url="+encodeURIComponent(urlLocal);
+		
+		
+		//JQuery para aÃ±adir al cÃ³digo html de enlaces de las redes sociales
+		var cid = '';
+		
+		$('.links'+cid).prepend("<a href="+hrefTelegram+textoSin+" target='_blank' title="+titleTelegramSin+"><img alt="+altTelegram+" src="+srcTelegram+" style='max-width:100%; margin:2px;' width='20px;'/></a>");													//TELEGRAM
+		$('.links'+cid).prepend("<a href="+hrefWhatsapp+" target='_blank' title="+titleWhatsappSin+"><img alt="+altWhatsapp+" src="+srcWhatsapp+" style='max-width:100%; margin:2px;' width='20px;'/></a>");														//WHATSAPP
+		//$('.links'+cid).prepend("<a data-pin-do='buttonBookmark' href="+hrefPinterest+textoSin+" data-pin-custom='true' title="+titlePinterestSin+"><img alt="+altPinterest+" src="+srcPinterest+" style='margin:2px; cursor:pointer;'/></a>");			//PINTEREST
+		//$('.links'+cid).prepend("<a href="+hrefLinkedin+textoSin+" target='_blank' title="+titleLinkedinSin+"><img alt="+altLinkedin+" src="+srcLinkedin+" style='margin:2px;'/></a>");															//LINKEDIN
+		$('.links'+cid).prepend("<a href="+urlLinkedin+" target='_blank' title="+titleLinkedinSin+"><img alt="+altLinkedin+" src="+srcLinkedin+" style='margin:2px;'/></a>");															//LINKEDIN
+		$('.links'+cid).prepend("<a href="+hrefTwitter+" target='_blank' title="+titleTwitterSin+"><img alt="+altTwitter+" src="+srcTwitter+" style='margin:2px;'/></a>");														//TWITTER
+		$('.links'+cid).prepend("<a href="+hrefFace+textoSin+" target='_blank' title="+titleFaceSin+"><img alt="+altFace+" src="+srcFace+" style='margin:2px;'/></a>");															//FACEBOOK
+	
+		$('.blocRedes'+cid).append("<a href="+hrefTumblr+textoSin+" target='_blank' title="+titleTumblrSin+"><img alt="+altTumblr+" src="+srcTumblr+" style='max-width:100%; margin:2px;' width='20px;'/></a>");																	//TUMBLR
+		$('.blocRedes'+cid).append("<a href="+hrefReddit+textoSin+" target='_blank' title="+titleRedditSin+"><img alt="+altReddit+" src="+srcReddit+" style='max-width:100%; margin:2px;' width='20px;'/></a>");																			//REDDIT
+		$('.blocRedes'+cid).append("<a href="+hrefGmail+" target='_blank' title="+titleGmailSin+"><img alt="+altGmail+" src="+srcGmail+" style='max-width:100%; margin:2px;' width='20px;'/></a>");																								//GMAIL
+		$('.blocRedes'+cid).append("<a href="+hrefEmail+" target='_blank' title="+titleEmailSin+"><img alt="+altEmail+" src="+srcEmail+" style='max-width:100%; margin:2px;' width='20px;'/></a>");																										//EMAIL
+		
+	</script>
+	
+	<script>
+	$(function () {  
+		
+		var cid = '';
+		var control = 'null'; 
+		
+	    $('.iconPlus'+cid).on('click', function () {
+	  	
+	        $('.blocRedes'+cid).slideToggle(100);
+	        var hasClase = $('.iconPlus'+cid).find($(".fa")).hasClass('fa-minus');
+	        if(hasClase){
+	        	$('.iconPlus'+cid).find($(".fa")).removeClass('fa-minus').addClass('fa-plus');
+	        	if(control != "true"){
+	        		//APLICAR ESTILOS AL CONTRAER LOS ELEMENTOS
+		        	$('.links'+cid).css({'right':'12px'});
+		        	$('.comparte'+cid).css({'width':'156px'});
+	        	}else{
+	        		
+		        }
+	        	
+	        }
+	        else{
+	        	$('.iconPlus'+cid).find($(".fa")).removeClass('fa-plus').addClass('fa-minus');
+	        	if(control != "true"){
+	        		//APLICAR ESTILOS AL EXPANDIR LOS ELEMENTOS
+		        	$('.links'+cid).css({'right':'106px'});
+		       		$('.blocRedes'+cid).css({'position':'absolute','width':'9em','right':'0em'});
+		       		$('.comparte'+cid).css({'width':'250px'});
+	        	}else{
+	        		$('.blocRedes'+cid).css({'display':'flex','position':'relative','bottom':'102px','left':'118px','background-color':'white','flex-direction':'column'});
+	        		$('.blocRedes'+cid).css({'padding-left':'2px','padding-right':'2px','box-shadow':'rgba(0, 0, 0, 0.35) 0px 1px 5px','width':'24px','border-radius':'3px'});
+	        	}
+	        }
+		});
+	});
+	</script>
+	</div><div class="gaseta-relacionada"><h2>Relacionadas</h2><div class="m1"></div>
+
+
+
+		
+	
+			
+			
+			
+			
+		
+			
+			
+		<div class="gasetas-recerca">
+				
+					
+					
+					
+				
+				
+						
+						
+						
+								
+								
+								
+								
+								
+							<div class="gaseta-recerca n1" style="font-size:0.95em"><div class="gaseta-recerca-img"><img src="/recursos/fatwirepub/ccurl/770/200/escuelas-de-la-psicologia.jpg"></div><div class="gaseta-recerca-titulo"><h3><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog/3-nuevas-acreditaciones-profesionales-psicologos-1285957292035/GasetaRecerca.html?id=1286012663681" title="">3 nuevas acreditaciones profesionales para psicólogos</a></h3></div></div>
+				
+					
+					
+					
+				
+				
+						
+						
+						
+								
+								
+								
+								
+								
+							<div class="gaseta-recerca n2" style="font-size:0.95em"><div class="gaseta-recerca-img"><img src="/recursos/fatwirepub/ccurl/766/852/brain-1845962_1280.jpg" alt="Neurocirugía de mapeo cerebral con paciente despierto: aportaciones desde la neuropsicología"></div><div class="gaseta-recerca-titulo"><h3><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog/neurocirugia-mapeo-cerebral-paciente-despierto-aportaciones-neuropsicologia-1285957292035/GasetaRecerca.html?id=1285996037850" title="">Neurocirugía de mapeo cerebral con paciente despierto: aportaciones desde la neuropsicología</a></h3></div></div>
+				
+					
+					
+					
+				
+				
+						
+						
+						
+								
+								
+								
+								
+								
+							<div class="gaseta-recerca n3" style="font-size:0.95em"><div class="gaseta-recerca-img"><img src="/recursos/fatwirepub/ccurl/778/329/images.jpg" alt="¿Existe riesgo de reincidencia respecto a la violencia machista ejercida en las relaciones de pareja?"></div><div class="gaseta-recerca-titulo"><h3><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog/existe-riesgo-reincidencia-respecto-violencia-machista-ejercida-relaciones-pareja-1285957292035/GasetaRecerca.html?id=1285992686161" title="">¿Existe riesgo de reincidencia respecto a la violencia machista ejercida en las relaciones de pareja?</a></h3></div></div></div></div>
+			
+			
+		</div>
+	
+	</div>
+	
+			<div id="sidebar">
+			
+	
+	
+				
+				
+				
+			<div class="titol-columna"><div class="video-llistaRepro"><div class="titol-bloc">Blog</div></div></div><script>
+			var auxComp = ["1285957294033","1285957294128","1285957294083"];
+		</script>  
+	
+		
+		
+		
+		
+		
+	
+
+
+
+		
+		
+	
+	
+		
+	
+	
+	
+		
+		
+		
+		
+	
+
+	
+	
+	
+	
+					<script type="text/javascript">
+						$(function(){
+							$.datepicker.setDefaults($.datepicker.regional['es']); 
+							$( "#p4" ).datepicker({
+								dateFormat: "dd/mm/yy",
+								showOn: "button",
+								buttonImage: '/recursos/fatwirepub/css/calendari.jpg',
+								buttonText: 'Abrir calendario',
+								onSelect: function(dateText, inst) {
+									document.getElementsByName('p4')[0].value = dateText;
+								}
+							});
+							$( "#p5" ).datepicker({
+								dateFormat: "dd/mm/yy",
+								showOn: "button",
+								buttonImage: '/recursos/fatwirepub/css/calendari.jpg',
+								buttonText: 'Abrir calendario',
+								onSelect: function(dateText, inst) {
+									document.getElementsByName('p5')[0].value = dateText;
+								}
+							});
+						})
+						function checkAll(field)
+						{
+						for (i = 0; i < field.length; i++)
+							field[i].checked = true ;
+						}
+						
+						function uncheckAll(field)
+						{
+						for (i = 0; i < field.length; i++)
+							field[i].checked = false ;
+						}
+					</script>	
+<div class="cercador">
+	<h2 class="titol-bloc">Buscador</h2>
+	<form name="activitat" class="select-option" action="/sites/Satellite" method="get">
+		<input type="hidden" name="pagename" value="MU_Psicologia_General_Sanitaria/Page/TPGListat">
+		<input type="hidden" name="cid" value="1285957292035">
+		<input type="hidden" name="locale" value="es_ES">
+		<input type="hidden" name="site" value="MU_Psicologia_General_Sanitaria">
+
+		<input type="hidden" name="p0" value="true">
+		<input type="hidden" name="p1" value="GasetaRecerca">
+		<input type="hidden" name="p2" value="0">
+			
+		<fieldset class="form-galeria">
+			<input type="text" id="p3" name="p3" value="" class="form-data">
+
+			
+					
+		</fieldset><fieldset class="form-activitat">
+			<legend>Por fecha (formato: dd/mm/aaaa)</legend>
+			<label for="p4">Desde</label>
+			<input type="text" id="p4" name="p4" value="" class="form-fecha hasDatepicker"><button type="button" class="ui-datepicker-trigger"><img src="/recursos/fatwirepub/css/calendari.jpg" alt="Abrir calendario" title="Abrir calendario"></button> 
+			<div class="clear">&nbsp;</div>
+			<label for="p5">hasta</label>
+			<input type="text" id="p5" name="p5" value="" class="form-fecha hasDatepicker"><button type="button" class="ui-datepicker-trigger"><img src="/recursos/fatwirepub/css/calendari.jpg" alt="Abrir calendario" title="Abrir calendario"></button> 
+			<div class="clear">&nbsp;</div>
+			<p>Se deben rellenar los dos campos</p>
+		</fieldset>
+					<input type="submit" value="Buscar" class="form-submit">
+		
+	</form><div class="clear"></div>
+</div>
+
+
+	
+
+
+
+	
+	<div class="cercador"><div class="dest-gasetas-recerca2"><h2>RECIENTES</h2>
+
+
+
+		
+	
+			
+			
+			
+			
+		
+			
+			
+		
+				
+					
+					
+					
+				
+				
+								
+								
+								
+								
+								
+							<div class="dest-gaseta-recerca2"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog/3-nuevas-acreditaciones-profesionales-psicologos-1285957292035/GasetaRecerca.html?id=1286012663681" title="">3 nuevas acreditaciones profesionales para psicólogos</a><br>5 de julio de 2017</div>
+				
+					
+					
+					
+				
+				
+								
+								
+								
+								
+								
+							<div class="dest-gaseta-recerca2"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog/neurocirugia-mapeo-cerebral-paciente-despierto-aportaciones-neuropsicologia-1285957292035/GasetaRecerca.html?id=1285996037850" title="">Neurocirugía de mapeo cerebral con paciente despierto: aportaciones desde la neuropsicología</a><br>16 de febrero de 2017</div>
+				
+					
+					
+					
+				
+				
+								
+								
+								
+								
+								
+							<div class="dest-gaseta-recerca2"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog/existe-riesgo-reincidencia-respecto-violencia-machista-ejercida-relaciones-pareja-1285957292035/GasetaRecerca.html?id=1285992686161" title="">¿Existe riesgo de reincidencia respecto a la violencia machista ejercida en las relaciones de pareja?</a><br>25 de enero de 2017</div></div></div>
+
+
+	
+	<div class="cercador"><div class="dest-gasetas-recerca2"><h2></h2>
+
+
+
+
+		
+	
+	<h2>TAGS</h2>
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=salud y bienestar">salud y bienestar</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=psicología">psicología</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=psicologia">psicologia</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=Psicólogo general sanitario">Psicólogo general sanitario</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=Psicólogo General Sanitario">Psicólogo General Sanitario</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=PAPA">PAPA</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=maltratadores">maltratadores</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=PGS">PGS</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=Programa Empowering Coaching">Programa Empowering Coaching</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=cuidadores dependencia">cuidadores dependencia</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=envejecimiento saludable">envejecimiento saludable</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=counselling">counselling</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=UV">UV</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=OMS">OMS</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=Psicología General Sanitaria">Psicología General Sanitaria</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=Psicología de la música">Psicología de la música</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=ansiedad">ansiedad</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=Duelo">Duelo</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=cuidados paliativos">cuidados paliativos</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=duelo">duelo</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=Preinscripción">Preinscripción</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=protocolo SARA">protocolo SARA</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=Máster">Máster</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=Psicólogo Interno Residente">Psicólogo Interno Residente</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=Infertilidad">Infertilidad</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=mindfulness">mindfulness</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=drogodependencia">drogodependencia</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=acreditaciones profesionales, psicología, COP, Psicólogo experto en Neuropsicología Clínica, Psicólogo experto en Psicología Aeronáutica, Psicólogo experto en Psicología de Emergencias y Catástrofes">acreditaciones profesionales, psicología, COP, Psicólogo experto en Neuropsicología Clínica, Psicólogo experto en Psicología Aeronáutica, Psicólogo experto en Psicología de Emergencias y Catástrofes</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=TARGET">TARGET</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=Prácticas">Prácticas</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=PIR ">PIR </a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=TEA">TEA</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=raul espert">raul espert</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=TCA">TCA</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=neurociencia">neurociencia</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=personalidad">personalidad</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=tumor cerebral">tumor cerebral</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=tumor">tumor</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=educación">educación</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=neuropsychology">neuropsychology</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=psicologia juvenil">psicologia juvenil</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=universitat valencia">universitat valencia</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=neuropsicología">neuropsicología</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=Psicología juvenil">Psicología juvenil</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=apoyo social">apoyo social</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=Psicologia en la infancia">Psicologia en la infancia</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=Psicología del Deporte y del Ejercicio Físico">Psicología del Deporte y del Ejercicio Físico</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=Acoso escolar">Acoso escolar</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=psicologia infantil">psicologia infantil</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=mapeo cerebral">mapeo cerebral</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=brain tumour">brain tumour</a></span>
+						
+							
+								
+								
+								
+								
+								
+								
+							<span class="etiqueta"><a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog-1285957292035/GasetaRecerca.html?p0=true&amp;p7=COP">COP</a></span>
+						
+						<div class="clear"></div>
+						</div></div>
+			</div>
+			
+			
+	 	<div class="clear">&nbsp; </div>
+		</div>
+	
+
+
+	
+	
+	
+	<div id="footer">
+	
+		<div class="pie-pagina">
+		 <div class="logo-pie"><img src="/recursos/fatwirepub/css/logoPeu.png" alt="Logo del portal"><span>Máster en Psicología General Sanitaria</span><div class="iconos-pie  mt25  ">
+							
+							
+							
+						
+									
+									
+									
+								<script type="text/javascript">
+										$(document).ready(function() { 
+											$( "img.Facebook" ).hover(
+													function() {
+													$( this ).attr("src","//www.uv.es/uwm/xarxes_socials/facebook_activo.png" );
+													}, function() {
+													$( this ).attr("src","//www.uv.es/uwm/xarxes_socials/facebook_inactivo.png");
+													}
+											);
+										});
+										</script><a title="Facebook" href="https://www.facebook.com/PGSUV/" target="_blank"><img class="Facebook" alt="Facebook" src="//www.uv.es/uwm/xarxes_socials/facebook_inactivo.png"></a>
+							
+							
+							
+						
+									
+									
+									
+								<script type="text/javascript">
+										$(document).ready(function() { 
+											$( "img.Twitter" ).hover(
+													function() {
+													$( this ).attr("src","//www.uv.es/uwm/xarxes_socials/twitter_activo.png" );
+													}, function() {
+													$( this ).attr("src","//www.uv.es/uwm/xarxes_socials/twitter_inactivo.png");
+													}
+											);
+										});
+										</script><a title="Twitter" href="https://twitter.com/@pgs_uv" target="_blank"><img class="Twitter" alt="Twitter" src="//www.uv.es/uwm/xarxes_socials/twitter_inactivo.png"></a>
+							
+							
+							
+						
+									
+									
+									
+								<script type="text/javascript">
+										$(document).ready(function() { 
+											$( "img.RSS" ).hover(
+													function() {
+													$( this ).attr("src","//www.uv.es/uwm/xarxes_socials/rss_activo.png" );
+													}, function() {
+													$( this ).attr("src","//www.uv.es/uwm/xarxes_socials/rss_inactivo.png");
+													}
+											);
+										});
+										</script><a title="RSS" href="http://www.uv.es/fatwirepub/Satellite?pagename=UV/Page/TPGNovedadesSindicadas&amp;c=Page&amp;cs.contenttype=application/xml;charset=UTF-8&amp;pageId=1285905338844&amp;site=MU_Psicologia_General_Sanitaria&amp;locale=es_ES&amp;tipo=D"><img class="RSS" alt="RSS" src="//www.uv.es/uwm/xarxes_socials/rss_inactivo.png"></a>
+							
+							
+							
+						
+									
+									
+									
+								<script type="text/javascript">
+										$(document).ready(function() { 
+											$( "img.android" ).hover(
+													function() {
+													$( this ).attr("src","//www.uv.es/uwm/xarxes_socials/android_activo.png" );
+													}, function() {
+													$( this ).attr("src","//www.uv.es/uwm/xarxes_socials/android_inactivo.png");
+													}
+											);
+										});
+										</script><a title="Aplicación de la Universidad de Valencia para dispositivos android" href="https://play.google.com/store/apps/details?id=net.universia.uv" target="_blank"><img class="android" alt="Aplicación de la Universidad de Valencia para dispositivos android" src="//www.uv.es/uwm/xarxes_socials/android_inactivo.png"></a>
+							
+							
+							
+						
+									
+									
+									
+								<script type="text/javascript">
+										$(document).ready(function() { 
+											$( "img.iphone" ).hover(
+													function() {
+													$( this ).attr("src","//www.uv.es/uwm/xarxes_socials/apple_activo.png" );
+													}, function() {
+													$( this ).attr("src","//www.uv.es/uwm/xarxes_socials/apple_inactivo.png");
+													}
+											);
+										});
+										</script><a title="Aplicación de la Universidad de Valencia para dispositivos Iphone" href="https://apps.apple.com/us/app/universitat-de-val%C3%A8ncia/id1601173273" target="_blank"><img class="iphone" alt="Aplicación de la Universidad de Valencia para dispositivos Iphone" src="//www.uv.es/uwm/xarxes_socials/apple_inactivo.png"></a></div><div class="clear"></div>
+		</div></div>
+			<div class="clear m2"></div><div class="servicios-pie2"></div><div class="pie-pagina">	
+		 <div class="pie-dire">© 2023 UV. - Av. Blasco Ibáñez, 21 - 46010 Valencia. Teléfono: 96 386 44 72</div>
+		<div class="pie-enlace"><a href="https://www.uv.es/uvweb/universidad/es/aviso-legal/aviso-legal-1285919088090.html" title="Enlace a Aviso legal">Aviso legal</a>	 | <a href="https://www.uv.es/uvweb/universidad/es/-es-accesibilidad-/-es-accesibilidad-1285917448966.html" title="Enlace a Accesibilidad">Accesibilidad</a>	 | <a href="https://www.uv.es/uvweb/universidad/es/politica-privacidad/responsable-delegado-proteccion-datos-1285919116693.html" title="Enlace a Política de privacidad">Política privacidad</a>	 | <a href="https://www.uv.es/uvweb/universidad/es/politica-privacidad/politica-cookies/son-cookies--1285919089226.html" title="Enlace a Política de cookies">Cookies</a>	 | <a href="http://www.uv.es/uvweb/transparencia-uv/es/portal-transparencia-1285924287697.html" title="Enlace al portal de transparencia">Transparencia</a>	 | <a href="https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/buzon-contacto/contacta.html" title="Buzón de contacto">Buzón de contacto</a>
+		
+		
+
+
+
+		</div><div class="clear"></div>
+		</div>
+			
+	</div>	
+	
+		</div>
+				
+				
+				
+			<script type="text/javascript">
+			$('body').ihavecookies({
+				
+				onAccept:function(){
+					CookiesOk()
+				},
+				
+				title:"Cookies y política de privacidad",
+
+				message:"Tu privacidad es importante para nosotros. Por ello te informamos que utilizamos cookies propias y de terceros para realizar análisis de uso y medición de nuestra página web con el fin de personalizar contenidos,así como proporcionar funcionalidades a las redes sociales o analizar nuestro tráfico. Para continuar acepta o modifica la configuración de nuestras cookies. Para ampliar información",
+				link:"https://www.uv.es/uvweb/universidad/es/politica-privacidad/politica-cookies/son-cookies--1285919089226.html",
+				moreInfoLabel: "Más información",
+				acceptBtnLabel: "Aceptar todo",
+				advancedBtnLabel: "Configurar cookies",
+				cookieTypesTitle: "Seleccione las cookies para aceptar",
+				acceptBtnLabel2: "Confirmar ajustes",
+
+				
+		
+				cookieTypes: [
+
+			        {
+			            type: 'Analítica web',
+			            value: 'analytics',
+			            description: "Estas cookies nos permiten analizar el tráfico en el sitio web ( visitas, tiempo promedio, navegador, etc.) con el fin de aumentar el rendimiento y mejorar el funcionamiento. Al aceptar estas cookies nos ayudas a mejorar nuestro sitio web."
+			        },
+	                {
+	                    type: 'Preferencias del sitio',
+	                    value: 'preferences',
+	                    description: "Esta cookie es utilizada para guardar el idioma que se ha elegido en el menú superior de la página, si no se ha elegido ninguno se guarda el idioma de la primera visita. Esto evita tener que cambiar de idioma cada vez que se visita el sitio web."
+	                }
+
+			    ],
+			});
+		</script>
+
+	
+
+<div id="ui-datepicker-div" class="ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all"></div><div id="gdpr-cookie-message" style="display: block;"><p class="title-cookies">Cookies y política de privacidad</p><p>Tu privacidad es importante para nosotros. Por ello te informamos que utilizamos cookies propias y de terceros para realizar análisis de uso y medición de nuestra página web con el fin de personalizar contenidos,así como proporcionar funcionalidades a las redes sociales o analizar nuestro tráfico. Para continuar acepta o modifica la configuración de nuestras cookies. Para ampliar información <a href="https://www.uv.es/uvweb/universidad/es/politica-privacidad/politica-cookies/son-cookies--1285919089226.html">Más información</a></p><p id="buttonsCookie"><button id="gdpr-cookie-accept" type="button">Aceptar todo</button><button id="gdpr-cookie-advanced" type="button">Configurar cookies</button></p><div id="gdpr-cookie-types" style="display:none;"><p class="subtitle-cookies">Seleccione las cookies para aceptar</p><ul><li><input type="checkbox" id="gdpr-cookietype-analytics" name="gdpr[]" value="analytics" data-auto="on"> <span class="slider round"></span> <label for="gdpr-cookietype-analytics" title="Estas cookies nos permiten analizar el tráfico en el sitio web ( visitas, tiempo promedio, navegador, etc.) con el fin de aumentar el rendimiento y mejorar el funcionamiento. Al aceptar estas cookies nos ayudas a mejorar nuestro sitio web.">Analítica web</label><div class="alineaContenido"><p>Estas cookies nos permiten analizar el tráfico en el sitio web ( visitas, tiempo promedio, navegador, etc.) con el fin de aumentar el rendimiento y mejorar el funcionamiento. Al aceptar estas cookies nos ayudas a mejorar nuestro sitio web.</p></div></li><li><input type="checkbox" id="gdpr-cookietype-preferences" name="gdpr[]" value="preferences" data-auto="on"> <span class="slider round"></span> <label for="gdpr-cookietype-preferences" title="Esta cookie es utilizada para guardar el idioma que se ha elegido en el menú superior de la página, si no se ha elegido ninguno se guarda el idioma de la primera visita. Esto evita tener que cambiar de idioma cada vez que se visita el sitio web.">Preferencias del sitio</label><div class="alineaContenido"><p>Esta cookie es utilizada para guardar el idioma que se ha elegido en el menú superior de la página, si no se ha elegido ninguno se guarda el idioma de la primera visita. Esto evita tener que cambiar de idioma cada vez que se visita el sitio web.</p></div></li></ul></div></div></body></html>

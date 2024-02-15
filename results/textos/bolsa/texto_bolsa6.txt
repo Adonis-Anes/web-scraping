@@ -1,0 +1,286 @@
+
+
+
+
+
+Cómo interpretar un gráfico de Bolsa • esBolsa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Buscar:
+
+
+
+ 
+
+
+
+
+
+
+Curso de bolsa
+Servicios
+
+Formación
+Herramientas de trading
+Informes
+
+
+Acceso
+
+Comunidad
+esBolsa plus
+Curso
+
+
+Precio
+
+Suscripción
+
+
+ 
+Main Menu
+Curso de bolsa
+Servicios
+
+Formación
+Herramientas de trading
+Informes
+
+
+Acceso
+
+Comunidad
+esBolsa plus
+Curso
+
+
+Precio
+
+Suscripción
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cómo interpretar un gráfico de Bolsa
+
+12/02/202412/02/2024María Déjà vu 
+
+
+ 
+
+En esBolsa siempre decimos que todo lo que necesitas saber sobre una empresa cotizada está en el gráfico. Pero no todo el mundo sabe cómo interpretar un gráfico y se lía, así que te voy a explicar de forma sencilla cómo interpretarlo. ¿De forma sencilla? Sí, porque si mantienes un gráfico simple ganarás tiempo en leer lo que el mercado te está diciendo y no tendrás dudas, piensa que el precio lo descuenta todo y ese es el mejor indicador que puedes tener, es la prueba del algodón, no lo olvides.
+La falta de objetividad y de realismo que rodea a los mercados financieros produce un enfoque distorsionado de lo que en realidad funciona herunterladen. Malgastamos nuestro tiempo y nuestro dinero probando y comprando diferentes sistemas y estrategias. Como siempre os digo: los mercados tienen su propio lenguaje. Llegar a interpretarlos, a comprenderlos, nos permitirá adelantarnos a los movimientos.
+Empezamos a interpretar un gráfico…
+Tipos de gráfico
+Para aprender a interpretar un gráfico de valores debes saber que te puedes encontrar con dos tipos:
+Velas japonesas o candlestick
+Ya te expliqué en el artículo “Velas japonesas: su historia y significado” que interpretar un gráfico de este tipo es divertido y entretenido. Como puedes ver en la siguiente imagen, con las herramientas de esbolsa te facilitamos el trabajo.
+
+Observa que los valores abren a un precio, oscilan durante toda la jornada, bajan hasta un mínimo, suben hasta un máximo y cierran a otro precio download kun per office for free. Precisamente eso es lo que queremos saber cuando vemos un gráfico tipo candlestick. Pero las tecnologías avanzan y ya no tenemos que sacar lápiz y papel para ir anotando esos datos. Al pasar el cursor por encima de la vela que quieras ver tendrás esos datos y mucho más.
+Línea
+Este tipo de gráficos son muy útiles para establecer los puntos de entrada y situar bien los stops.
+
+Al pasar el cursor por la línea puedes ver el precio de cierre del día que te interese y así podrás situar tu estrategia de entrada o salida del valor.
+Indicadores del gráfico
+Evidentemente existen muchos indicadores y a los gráficos se les puede agregar infinidad de accesorios, pero voy a enseñarte los tres que son la clave en nuestro método Download posterxxl photobook. Usa indicadores que te aporten una ventaja estadística; no por tener más indicadores se realizan mejores análisis, es más, te pueden liar mucho y no sabrás interpretar un gráfico.
+Sacar rentabilidad a nuestros ahorros en el mundillo de los mercados financieros es muy complicado ¿por qué lo vas a complicar más? Los indicadores se basan en datos históricos que te van a transmitir lo que ya ha hecho el precio. Ningún indicador te puede decir qué hará la siguiente vela. Entonces, ¿para qué quieres tanto indicador ultramoderno? Los indicadores están para confirmar lo que dice el precio y que no que te líen, deben ser sencillos de interpretar.
+Piensa que cuando añades un indicador a tu sistema va a influir en tu toma de decisiones, por lo tanto, tiene que pasar por un backtest y, ese backtest, será quien te diga si ese indicador mejora o no tu sistema download the invitation for the child's birthday free of charge.
+Media Móvil
+Una media móvil es la representación del precio medio de una cotización. Es móvil puesto que cambia y se va desplazando con los datos que se añaden de cada jornada bursátil. Las medias móviles se representan siempre sobre el gráfico de precios. La media es ponderada, es decir, da más importancia a los últimos cierres que a los primeros.
+
+La media móvil de 30 semanas es la usamos en el método de esBolsa y sirve para determinar de un simple vistazo cuál es la tendencia. De esta forma reducimos el “ruido” que hace cada vela; solo nos interesa saber qué hace el precio: o sube o baja.
+Como puedes ver en el gráfico de arriba, si la media móvil tiene una tendencia alcista verás la línea de color verde y si esta línea es roja, la tendencia es bajista amazon prime video auf pc herunterladen. De esta manera vemos con perspectiva qué está haciendo el precio del valor. La media móvil tiene la curiosa costumbre de actuar como soporte sobre el precio si la tendencia es alcista o de soporte sobre el precio si la tendencia es bajista.
+Recuerda que los stops los debes situar por debajo de la media móvil de 30 semanas, porque si se pierde la MM30 existe el riesgo de que cambie la tendencia.
+RSC Mansfield
+Este indicador permite comparar el comportamiento de un activo determinado respecto a su índice. Si el valor XX se recupera en un 10% mientras que el índice YY lo hace en un 20%, (ambos activos están subiendo), la fortaleza relativa del valor es negativa, porque está subiendo menos que su índice de referencia. Nosotros no solo queremos valores que suban, queremos valores que suban a un ritmo superior que el promedio.
+Si el valor XX cae un 10% mientras que el índice YY desciende un 20% (ambos activos están bajistas), la fuerza relativa es positiva, aunque haya descendido el valor, ya que lo ha hecho en menor medida que el índice usado como referencia amazon prime video auf windows herunterladen.
+
+Una lectura por encima de cero nos indica que los valores experimentan claramente un mejor comportamiento relativo que el índice de referencia (el índice S&P 500 es la referencia del RSC Mansfield). Una fortaleza relativa negativa (indicador RSC Mansfield en negativo), nos indica que el comportamiento de ese mercado es mucho peor que el del promedio su índice.
+El indicador RSC Mansfield viene configurado por defecto dentro de la herramienta gráficos de esBolsa.com. Color verde para la fortaleza positiva y color rojo para la fortaleza negativa. Con este indicador junto con la media móvil ya puedes interpretar un gráfico rápidamente:
+
+
+MM30 alcista y RSC Mansfield alcista significa que sube a un ritmo superior que la media pdf adobe reader gratis downloaden.
+MM30 alcista y RSC Mansfield negativo significa que sube menos que la media.
+MM30 bajista y RSC Mansfield positivo significa que cae menos que la media.
+MM30 bajista y RSC Mansfield bajista significa que cae más que la media.
+
+Aunque con estos dos indicadores ya estás preparado para interpretar un gráfico, nosotros hemos añadido otro indicador a nuestros gráficos, ya que mejora nuestra estrategia:
+Atlas
+El indicador Blai5 Atlas calcula e identifica estrechamientos matemáticamente significativos en las Bandas de Bollinguer, ya que este suceso es preludio de un movimiento violento al alza o a la baja. Este indicador no está diseñado para informar sobre la dirección que va a tomar la cotización en las próximas semanas, solo avisa de que un movimiento fuerte se avecina en la cotización y serán el resto de indicadores técnicos (MM30 y RSC Mansfield) los que indiquen hacia dónde es más probable ese movimiento.
+
+Si un valor es alcista (MM30 alcista), con una fortaleza positiva (RSC Mansfield positivo) y se enciende el Atlas, lo más probable es que ese movimiento se produzca al alza decision request. ¿Por qué? porque es la dirección en la que se está moviendo la tendencia. Y, al contrario, si un valor es bajista (MM30 bajista), con una fortaleza negativa (RSC Mansfield negativo) y se enciende el Atlas, lo más probable es que ese movimiento se produzca a la baja. ¡Es solo una cuestión de probabilidades!
+
+Muchas veces vemos gráficos que parecen monitores de simulación de vuelos de la NASA. Son muy bonitos, pero realmente no te aportan nada. Buscas una rentabilidad constante de tus ahorros y para ello debes ser muy disciplinado con tu método. Hacer que tus gráficos te enseñen solo lo que necesitas es muy sencillo: quita todo aquello que, aunque “queda bonito”, no te sirve y, lo que es peor, te lía y/o no entiendes Download tax return elster.
+Nosotros te lo hemos simplificado hasta el punto de que no necesitas hacer nada. Ahora mismo ya eres capaz de interpretar un gráfico con un simple golpe de vista. Puedes ver si el valor te interesa o no para tenerlo en tu cartera. Esa es la misión que perseguimos en esbolsa: que seas capaz de ser un inversor independiente, sin que nadie te tenga que aconsejar sobre qué valores comprar. Nuestras herramientas lo hacen todo herunterladen. Ya están preconfiguradas para que tú decidas qué comprar y qué no. Te ayudan a distanciarte emocionalmente de tus inversiones y a permanecer en los mercados financieros rentabilizando tus ahorros.
+Si quieres aprender más sobre todos los detalles de nuestra metodología de inversión tienes dos opciones: matricularte en nuestro curso online de inversores o con nuestro libro El Código de Wall Street, donde  aprenderás a sacar la máxima rentabilidad a tu cartera.
+Recuerda que para cualquier duda o consulta sobre las herramientas de esBolsa.com o sobre nuestro programa de formación estamos a tu disposición tanto por e-mail como desde la comunidad esBolsa.com.
+Si te ha gustado este artículo, por favor enlázalo, no lo copies. También puedes premiar el esfuerzo que ponemos en cada uno de ellos pinchando en todos los botones de Twitter, Facebook, Google y Menéame para ayudarnos a difundirlo y  seguir creciendo.Si quieres ser el primero en leer todos nuestros próximos artículos, puedes suscribirte de manera gratuita y sencilla a nuestro canal RSS. 
+
+Posted UnderAnálisis técnico Formación Últimos artículosTaggedanálisis gráfico Gráficos interpretar un gráfico
+
+
+
+Post navigation
+
+Curso de Bolsa online de Ricardo González 
+
+
+
+
+
+
+Cita del día
+Los tiempos y las condiciones cambian y debemos aprender a cambiar con ellos. La naturaleza humana no cambia, y esa es la razón por la que la historia se repite y las acciones se comportan de forma similar, año tras año en diferentes ciclos temporales.William D. Gann @esbolsa
+Tweets by @esbolsa
+El código de WallStreet
+
+
+
+
+
+
+
+
+﻿		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						esBolsa es una marca registrada. Todos los derechos reservados © 2024 esBolsa Comunidad de Trading S.L.					
+
+
+							Proudly powered by WordPress.							 | 
+							Theme: Awaken by ThemezHut.						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -4,7 +4,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
-import csv
+import os
+import errno
 
 # Librerías parte II
 from bs4 import BeautifulSoup
@@ -15,6 +16,12 @@ from spacy.lang.en.stop_words import STOP_WORDS
 from pandas import DataFrame
 
 """PARTE 0: LEER Y GUARDAR ARCHIVOS"""
+def crear_carpeta(dir_carpeta):
+  try:
+      os.mkdir(dir_carpeta)
+  except OSError as e:
+      if e.errno != errno.EEXIST:
+          raise
 
 def txt_a_string(dir_archivo):
    """
@@ -83,20 +90,18 @@ def archivos_de_carpeta_a_lista(dir_comun, num_archivos):
         lista.append(txt_a_string(dir_archivo=dir_completa))
     return lista
 
-def guardar_cada_elem_de_lista_como_txt_diferente(lista, dir_dest_comun, nombre_comun_archivos):
+def guardar_cada_elem_de_lista_como_txt_diferente(lista, dir_dest_comun):
     """ 
     Guarda un objeto tipo string de Python que contiene un html en un fichero txt 
     donde cada linea del txt es un objeto de la lista.
     Input:
-      - dir_dest_comun: dirección de carpetas de destino de los archivos, 
-        sin contener el nombre del archivo
-      - nombre_comun_archivos: nombre base que compartirán los archivos, 
-        sin la extensión .txt ya que luego se se le añadirá un número que les identificará
-        según su posición en la lista
+      - dir_dest_comun: dirección de carpetas de destino de los archivos y nombre base 
+        que compartirán los archivos, sin la extensión .txt ya que luego se se le añadirá 
+        un número que les identificará según su posición en la lista
     Output: Nada
     """
     for i in range(len(lista)):
-        dir_dest = dir_dest_comun + nombre_comun_archivos + str(i) + '.txt'
+        dir_dest = dir_dest_comun + str(i) + '.txt'
         guardar_string_como_txt(string=lista[i], dir_dest=dir_dest)
 
 def csv_a_df(dir_archivo):

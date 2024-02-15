@@ -1,0 +1,1059 @@
+
+
+
+
+
+Gráficos de Trading: Aprende a leerlos POR PRIMERA VEZ - Novatos Trading Club
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gestionar el Consentimiento de las Cookies
+
+
+
+
+
+
+Utilizamos cookies para optimizar nuestro sitio web y nuestro servicio.
+
+
+
+
+Funcional
+
+
+
+Funcional
+
+Siempre activo 
+
+
+
+
+
+
+El almacenamiento o acceso técnico es estrictamente necesario para el propósito legítimo de permitir el uso de un servicio específico explícitamente solicitado por el abonado o usuario, o con el único propósito de llevar a cabo la transmisión de una comunicación a través de una red de comunicaciones electrónicas.
+
+
+
+
+
+Preferencias
+
+
+Preferencias
+
+
+
+
+
+
+
+El almacenamiento o acceso técnico es necesario para la finalidad legítima de almacenar preferencias no solicitadas por el abonado o usuario.
+
+
+
+
+
+Estadísticas
+
+
+Estadísticas
+
+
+
+
+
+
+
+El almacenamiento o acceso técnico que es utilizado exclusivamente con fines estadísticos.
+El almacenamiento o acceso técnico que es utilizado exclusivamente con fines estadísticos anónimos. Sin una requerimiento, el cumplimiento voluntario por parte de su proveedor de servicios de Internet, o los registros adicionales de un tercero, la información almacenada o recuperada sólo para este propósito no se puede utilizar para identificarlo.
+
+
+
+
+
+Marketing
+
+
+Marketing
+
+
+
+
+
+
+
+El almacenamiento o acceso técnico es necesario para crear perfiles de usuario para enviar publicidad, o para rastrear al usuario en un sitio web o en varios sitios web con fines de marketing similares.
+
+
+
+
+
+Administrar opciones
+Gestionar los servicios
+Gestionar {vendor_count} proveedores
+Leer más sobre estos propósitos
+
+
+
+Acepto
+Descartar
+Preferencias
+Guardar preferencias
+Preferencias
+
+
+Política de cookies 
+Declaración de privacidad
+Impressum
+
+
+
+
+
+
+
+
+
+
+
+
+Preguntas frecuentes
+Contacto
+
+
+
+
+
+
+Preguntas frecuentes
+Contacto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ver los brokers destacados
+Curso de trading
+Brokers
+Exchanges
+La Escuela
+Blog
+
+
+
+
+
+Ver los brokers destacados
+Curso de trading
+Brokers
+Exchanges
+La Escuela
+Blog
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+← Volver al blog
+
+Como leer un gráfico de trading por primera vez
+
+Análisis técnico » Como leer un gráfico de trading por primera vez
+
+
+
+
+
+
+ 
+Este artículo es para todos aquellos que no están acostumbrados a ver y entender gráficos en Trading, una parte muy importante del análisis técnico.
+Si a ti un gráfico, más que ayudarte, te lía, entonces este es tu artículo.
+En cinco minutos entenderás para siempre cómo funciona esto. Verás que es muy sencillo.
+ 
+
+
+Índice de contenidos
+Toggle
+¿Cómo analizar un gráfico de trading por primera vez?¿Para que sirve una media móvil en un gráfico de trading?¿Es buena idea poner un canal envolvente en un gráfico?La representación del volumen de una acciónIndicadores que añadir a un gráfico de trading para analizarlo completamente
+¿Cómo analizar un gráfico de trading por primera vez?
+ 
+En la siguiente imagen, arriba a la izquierda, podemos ver que en este ejemplo tenemos el gráfico de Apple, la famosa compañía del iPod y los ordenadores Mac.
+Además, marcado con un círculo rojo (arriba en el centro), vemos que se trata de un gráfico diario de trading. Esto es lo que se llama un gráfico de velas japonesas, así que cada vela representa un día. Hay gráficos de trading en los que las velas representan semanas o minutos, pero este es diario.
+El mercado cada día, abre por la mañana, oscila durante toda la jornada, bajando hasta un mínimo, subiendo hasta un máximo y cierra por la tarde.
+Así que, el punto más alto de cada vela es el precio máximo que alcanzó Apple ese día, el punto más bajo es el precio mínimo del día y el cuerpo de la vela (en rojo o en verde, aunque podrían ser otros colores) marca el espacio entre la apertura y el cierre del mercado. Si es verde, el precio ha subido entre que el mercado abrió y cerró. Si es roja, es que el precio bajó:
+ 
+
+ 
+¿Está todo claro por el momento? Si tienes alguna duda, pregunta.
+En muchas ocasiones, a los gráficos de precios se les añaden líneas y más gráficos para ver rápidamente la situación del mercado. Parece complicado pero es extremadamente sencillo.
+ 
+¿Para que sirve una media móvil en un gráfico de trading?
+ 
+Lo primero que se le suele hacer es agregar una media móvil (en azul) para determinar de un golpe de vista cuál es la tendencia. Vemos, por ejemplo, que en estos últimos días la tendencia es bajista. Aunque mirando sólo a las últimas velas no lo tengamos muy claro, la media móvil lo revela fácilmente:
+ 
+
+
+¿Es buena idea poner un canal envolvente en un gráfico?
+ 
+La respuesta es sí, pero no es esencial.
+Lo siguiente que se suele hacer es marcar un canal envolvente (en blanco), por el que se está moviendo últimamente el precio de Apple. Si vamos a comprar o a vender esto es muy útil, porque te avisa del margen que es probable del que no se salga el precio en los próximos días.
+ 
+
+
+La representación del volumen de una acción
+En mucha ocasiones, al gráfico del precio se le acompaña de un gráfico de volumen (prácticamente siempre en forma de barras), que desvela el interés va teniendo la gente en Apple, pues cuenta la cantidad de compraventas que se han hecho durante la jornada:
+ 
+
+
+Indicadores que añadir a un gráfico de trading para analizarlo completamente
+ 
+A partir de aquí, al gráfico se le pueden añadir algunos «extras», que son los indicadores técnicos. Hay cientos, pero vamos a mostrar dos de los más comunes, que son tremendamente útiles.
+Este que vemos en la próxima imagen, el de las barras verdes o rojas, se llama MACD y revela la fuerza que traen los alcistas o los bajistas. Cuando las barras están verdes quiere decir que los alcistas son más fuertes y que el precio tiende a subir, sobre todo cuando las barras cada vez son más largas. Cuando van perdiendo fuerza, y las barras verdes se acortan, MACD nos avisa de que el precio va a bajar.
+Si las barras están rojas, los bajistas son más fuertes y el precio baja, especialmente si las barras se están alargando cada vez más. Cuando empiezan a acortarse quiere decir que los alcistas están recuperando el control y que el precio va a subir.
+
+ 
+Este otro indicador es la %R de Williams. Es un oscilador y hay muchos parecidos a este. Estos indicadores son fantásticos para encontrar el mejor momento para comprar y vender. Avisan de cuando la gente se ha pasado comprando o vendiendo y llega el momento de hacer lo contrario. Te ayudan a comprar barato y vender caro:
+ 
+
+ 
+Existen muchos más indicadores y a los gráficos de trading se les puede agregar infinidad de accesorios, pero lo que ya hemos visto es lo más importante.
+Razonablemente, con lo aprendido en este artículo, estarás preparado para entender casi cualquier gráfico de precios que encuentres por ahí y, además, podrás analizar si es buen momento para comprar o vender ¡Más rápido y sencillo no se puede! También puedes echarle un ojo a mi  curso de trading, quizás sea de tu interés.
+ 
+Conviértete en un trader real a través del método que funciona.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+image/svg+xml
+
+
+
+WhatsApp
+
+
+
+
+
+
+
+
+
+
+Telegram
+
+
+
+
+
+
+
+
+
+
+Uxío Fraga
+Trader, formador de traders, ingeniero y emprendedor. Fundador de Novatos Trading Club (Escuela Profesional de Traders), autor del libro « aprende a especular en bolsa » y fundador de Material Bitcoin. Es uno de los traders de mas renombre en España.
+
+
+
+
+Brokers destacadosVer los brokers destacadosTop artículos
+
+Cómo ganar dinero con criptomonedas.
+Mejores brokers para trading.
+Gráficos de trading: Aprende a leerlos.
+Cómo hacer trading.
+Cómo invertir en Bolsa.
+
+Buscador
+
+Buscar:
+
+
+
+Top categorías
+
+Análisis técnico
+Principiantes
+Brokers
+Gestión de capital
+Inversión en bolsa
+
+Mantente al día
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+image/svg+xml
+
+
+
+WhatsApp
+
+
+
+
+
+
+
+
+
+
+Telegram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+346 Comentarios
+
+← Comentarios más antiguos
+
+
+
+
+
+
+ 
+
+Alexis 
+el a las 
+
+
+
+Excelente material, pude entender con claridad todo lo expuesto.
+Muchas gracias Uxío Fraga
+
+
+
+
+
+
+
+ 
+
+cotecataleya4@gmail.com 
+el a las 
+
+
+
+Hola , quisiera saber lo básico , amo el mundo de las finanzas , aún no estoy en el ahorro , pero pasito a pasito quisiera ir adquiriendo conocimientos. Saludos desde Chile.
+
+
+
+
+
+
+
+ 
+
+Álex - Escuela Profesional de Traders 
+el a las 
+
+
+
+Muchas gracias por tu comentario, María.
+Siento que te hayas decepcionado, pero nuestro valor principal es la honestidad. Nos dijiste que querías vivir del trading, pero que apenas tenías ahorros. No te rechazamos, simplemente, no te podemos ayudar.
+Desgraciadamente, Internet está lleno de páginas que te prometen vivir del trading con poco dinero, pero esto no es así. Muchos te venderán un curso de 500€ para hacer caja, con el que no conseguirías nada. Pero nosotros queremos que nuestros alumnos obtengan resultados sin tensionar lo más mínimo su economía.
+Como consejo, huye de quien te prometa vivir del trading con poco dinero. Échale un vistazo a este artículo:
+https://www.novatostradingclub.com/formacion/puedes-esperar-del-trading-no/
+Un saludo.
+
+
+
+
+
+
+
+ 
+
+Maria 
+el a las 
+
+
+
+Hola.
+Blogs como éste me van aclarando mucho las cosas y sobre todo facilitando una visión que anteriormente era complicado de ver y comprender; imagino que todo tendrá que ir despacio y con mucha paciencia.
+Pero me siento decepcionada …. tanto que promocionais vuestro curso de trading y cuando, me decido hacerlo para aprender con profesionales e integrarme en este mundillo, rechazais mí solicitud alegando que no doy el perfil.
+Gracias Uxío, seguiré todas tus lecciones esperando poco a poco ir comprendiendo y aprendiendo.
+
+
+
+
+
+
+
+ 
+
+Arnaldo Millan 
+el a las 
+
+
+
+EXCELENTE PEDAGOGIA*****Seguiremos en contacto .GRACIAS
+
+
+
+
+
+
+
+ 
+
+Jhonathan Vargas 
+el a las 
+
+
+
+Hermano muchas gracias por tus aportes, me estoy iniciando en el mundo del Tranding y de verdad que tu manera de explicar, dando pildoras certeras sin rodeos, te explica en tres lineas lo que nadie dice en dos libros. Dios te bendiga Amigo.
+
+
+
+
+
+
+
+ 
+
+TOMAS MORAN DEGANTE 
+el a las 
+
+
+
+Buen dia
+Le envio saludos y al mismo tiempo muchas gracias por su orientación al mundo del trading, seguiré sus indicaciones
+
+
+
+
+
+
+
+ 
+
+Carlos 
+el a las 
+
+
+
+Excelente contenido!!!!. Un abrazo desde Patagonia Argentina. Carlo.s
+
+
+
+
+
+
+
+ 
+
+Gerard Garcia 
+el a las 
+
+
+
+Hola.
+Que hay que seleccionar en Prorealtime para que nos marque el canal envolvente? Muchas gracias.
+
+
+
+
+
+
+
+ 
+
+Álex - Novatos Trading Club 
+el a las 
+
+
+
+Hola, Leandro.
+Obviamente, como ya sabrás, no puedes hacer lo mismo en PC que en el móvil. De todas formas, te recomiendo esta plataforma:
+https://www.novatostradingclub.com/recursos-2/donde-ver-graficos-de-bolsa/
+Un saludo.
+
+
+
+
+
+
+
+ 
+
+Leandro 
+el a las 
+
+
+
+Hola buenos días.
+He estado leyendo algunos artículos y son bastante clarificadores.
+Mi consulta va directamente a con la aparición del uso del celular de forma mas rutinaria. Existen a la fecha apps con un nivel aceptable para el trabajo, análisis o manipulación de las gráficas que se pueda recomendar. Ya sea para el estudio de bolsa o el control de crytomonedas. 
+Excelente blog, perdón si ya ha sido realizada esta consulta antes. Saludos.
+
+
+
+
+
+
+
+ 
+
+Gillermo 
+el a las 
+
+
+
+Me ha parecido una explicación básica de los gráficos muy clarificado y pedagógicamente impecable!!! enhorabuena!!!
+
+
+
+
+
+
+
+ 
+
+Luis Quinones Ortiz 
+el a las 
+
+
+
+Asombrosa capacidad didáctica. ¿Quería preguntar, cuándo se debería iniciar a familiarizase con PRT, ¿es mejor que esperamos un tiempo los muy novatos? Yo aún no lo he solicitado a la espera de aprender poco a poco para no liarme.
+
+
+
+
+
+
+
+ 
+
+Uxío Fraga 
+el a las 
+
+
+
+Es de ProRealTime (es un programa).
+
+
+
+
+
+
+
+ 
+
+Mirla 
+el a las 
+
+
+
+Buenas. muy buen post! muchas gracias! soy nueva en esto y quería saber, ese gráfico aparece en paginas de Internet o es un programa?
+
+
+
+
+
+
+
+ 
+
+Uxío Fraga 
+el a las 
+
+
+
+No se puede saber sólo en base a eso. Tienes que encontrar primero la estructura de soportes y resistencias relevantes. Con eso sí puedes saber si es buen momento o mal momento para comprar:
+https://www.novatostradingclub.com/analisis-tecnico/seleccionar-valores-comprar-y-vender/
+
+
+
+
+
+
+
+ 
+
+Jaime Cesar García Ríos 
+el a las 
+
+
+
+uxio, gracias por la información!, me parece muy importante, solo tengo una duda, si la media móvil indica hacia abajo en una acción y en el estocástico esta abajo de la linea inferior, ¿Es buen o mal momento para comprar la acción?, gracias!!, saludos desde México!
+
+
+
+
+
+
+
+ 
+
+Javier 
+el a las 
+
+
+
+Recién llegado a este mundillo. Blogs como éste te va aclarando mucho las cosas y sobre todo facilitando una visión que anteriormente era complicado de ver y comprender; imagino que todo tendrá que ir despacio y con mucha paciencia. Gracias Uxío por esta oportunidad que nos brindas. Sin duda seguiré todas tus lecciones esperando que poco a poco vaya comprendiendo y aprendiendo.
+
+
+
+
+
+
+
+ 
+
+Rodrigo 
+el a las 
+
+
+
+buen articulo
+
+
+
+
+
+
+
+ 
+
+Uxío Fraga 
+el a las 
+
+
+
+Gracias y bienvenido, Gustavo.
+
+
+
+
+
+
+
+ 
+
+Gustavo 
+el a las 
+
+
+
+Excelente material Sr. Uxío….la verdad como la mayoría de los compañeros que han comentado, el artículo es sencillo y fácil de comprender sobretodo para los que apenas iniciamos en este mundo….mi pregunta es…la línea que aparece debajo o por encima de la vela…que significa?…del resto, pues seguiré atento para seguir aprendiendo gracias a su apoyo…bendiciones para ud y todo su equipo
+
+
+
+
+
+
+
+ 
+
+Uxío Fraga 
+el a las 
+
+
+
+Muchísimas gracias, Amado. Se agradece la mil enésima. Siempre 😉
+
+
+
+
+
+
+
+ 
+
+Amado 
+el a las 
+
+
+
+Buenos días Uxío y resto del equipo, supongo que en este sitio y en tu correo habrá miles de gracias, pues bien, aquí va la mil enésima gracias.
+Me gustaría destacar un aspecto de este sitio y es su noble forma de tratar nuestra lengua común, gentil lenguaje y una bonita tipografía.
+Un cordial saludo
+
+
+
+
+
+
+
+ 
+
+Uxío Fraga 
+el a las 
+
+
+
+Gracias, Javier : )
+
+
+
+
+
+
+
+ 
+
+Javier de Pablo 
+el a las 
+
+
+
+Brillante trabajo y una manera de explicar excelente. Después de leer muchos de los artículos del blog estoy aprendiendo a pasos agigantados.
+Gracias por tu trabajo.
+
+
+
+
+
+
+
+ 
+
+Uxío Fraga 
+el a las 
+
+
+
+Gracias y bienvenido, Juan.
+
+
+
+
+
+
+
+ 
+
+Juan 
+el a las 
+
+
+
+Me está encantando Uxío. Haces una gran labor. Te seguiré sin ninguna duda. Gracias por tu dedicación.
+
+
+
+
+
+
+← Comentarios más antiguos
+
+
+
+Trackbacks/Pingbacks
+
+Ganar dinero por internet. - Invertir En Bolsa - […] Pincha aquí para saber cómo se lee el precio […]
+¿Es una buena opción comprar acciones del BBVA? | Noticias3 - […] más utilizados al mejor precio, tanto las subidas como las bajadas del valor de la acción. Para comprender esta…
+
+
+
+Enviar un comentarioTu dirección de correo electrónico no será publicada. Los campos obligatorios están marcados con *Comentario * Nombre * 
+Correo electrónico * 
+Web 
+Enviar comentario 
+
+Δ 
+Este sitio usa Akismet para reducir el spam. Aprende cómo se procesan los datos de tus comentarios. 
+
+
+
+
+
+
+
+
+
+El trading en mercados financieros supone un alto nivel de riesgo y puede no ser adecuado para todos. No inviertas capital que no te puedas permitir perder. El contenido de esta web y los servicios que se ofrecen no pretenden ser, no son y no pueden considerarse en ningún caso asesoramiento en materia de inversión ni ningún otro tipo de asesoramiento financiero, ni puede servir de base para un contrato, compromiso o decisión de ningún tipo.
+Los criptoactivos no están regulados, pueden no ser adecuados para inversores minoristas y perderse la totalidad de la inversión. Es importante leer y comprender los riesgos de esta inversión que se explican detalladamente en este documento.
+
+
+
+ 
+
+
+
+
+
+
+De interésPor dónde empezar
+Blog
+Brokers
+Exchanges
+FAQ
+Afiliados
+FormaciónCurso de Trading
+Curso de trading gratis
+Trading
+Máster de trading y bolsa
+Academia de Trading
+Más buscado 
+Cómo ganar dinero con criptomonedas
+Velas Japonesas
+Comprar acciones
+Cómo hacer Trading
+Cuándo comprar acciones
+Invertir en Bitcoin
+
+
+Suscríbete
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apuntarme
+
+
+
+
+
+
+¡Estupendo! Mira tu email para confirmarY no te olvides de mirar en el spam (y en "Promociones" si usas Gmail)
+
+
+
+
+ 
+
+
+
+Contacto
+Brokers
+Trabaja con nosotros
+Aviso legal
+Política de privacidad
+Política de cookies
+ 
+
+
+
+
+
+
+Facebook
+
+
+
+
+X
+
+
+
+
+Instagram
+
+
+Diseñado y desarrollado por Novatos Trading Club - Idalian Soluciones, S.L. - NIF: B70536016 - Av. de Lamadosa, 14
+Bajo Derecha
+15009 La Coruña, España - email: web@novatostradingclub.com 
+
+
+
+
+
+Gestionar consentimiento
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
