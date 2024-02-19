@@ -1,1 +1,0 @@
-acciones activo analisis apertura barras bolsa cierre curso grafico graficos

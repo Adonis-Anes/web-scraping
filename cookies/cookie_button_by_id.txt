@@ -1,4 +1,5 @@
 didomi-notice-agree-button
 onetrust-accept-btn-handler
 ez-accept-all,hs-eu-confirmation-button
-pea_cook_btn,CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll
+pea_cook_btn
+CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll

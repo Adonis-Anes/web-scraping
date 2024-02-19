@@ -1,7 +1,9 @@
-from functions import *
-from SerApi_searches import consulta_a_links
+from funtcionsSerApi import consulta_a_links
+from functionsAcceptCookies import *
+from functionsNLP import *
+from functionsReadWriteFiles import *
 
-def consulta_a_palabras_relevantes(consulta:str, guardar_archivos=False, id_consulta='', mostrar_proceso=False):
+def consulta_a_palabras_relevantes(consulta:str, id_consulta, guardar_archivos=False):
     """Obtiene las palabras relevantes de la consulta realizada 
        resultado de aplicar tfidf sobre los htmls de las páginas.
     Input: 
@@ -11,39 +13,30 @@ def consulta_a_palabras_relevantes(consulta:str, guardar_archivos=False, id_cons
         - mostrar_proceso: 
     Output: palabras relevantes
     """
-    proceso = 5*[""]
-    if mostrar_proceso == True:
-        proceso = ['0.- Realizando la consulta y obteniendo links', '1.- Aceptando cookies y extrayendo html', 
-                    '2.- Extrayendo texto limpio del html', '3.- Creando la matriz tfidf',
-                    '4.- Obteniendo palabras más relevantes'] 
-    proceso[0]
+    print('0.- Realizando la consulta y obteniendo links')
     urls = consulta_a_links(consulta=consulta)
-    proceso[1]
-    htmls = aceptar_cookies_y_guardar_htmls(urls=urls)
-    proceso[2]
+    print('1.- Aceptando cookies y extrayendo html')
+    htmls = aceptar_cookies_y_extraer_htmls_concurrente(urls=urls)
+    print('2.- Extrayendo texto limpio del html')
     textos = htmls_a_textos(htmls=htmls)
-    proceso[3]
+    print('3.- Creando la matriz tfidf')
     tfidf = crear_matriz_tfidf(text_files=textos)
-    proceso[4]
+    print('4.- Obteniendo palabras más relevantes')
     top_10_words = top_n_palabras_rel_tdidf(tfidf=tfidf)
-    print('10 palabras más relevantes en todas las consultas:\n',top_10_words)
+    print('Las 10 palabras relevantes son:\n',top_10_words)
     if guardar_archivos == True:
-        if id_consulta == '':
-            id_consulta = top_10_words[0:5]
-        #guardar consulta
-        guardar_string_como_txt(consulta, f'results/consultas/consulta_{id_consulta}.txt')
-        #guardar urls
-        guardar_lista_como_txt_por_lineas(urls, f'results/urls/urls_{id_consulta}.txt')
+        guardar_consulta(consulta=consulta, id_consulta=id_consulta)
+        guardar_urls(urls=urls, id_consulta=id_consulta)
         #guardar htmls
         crear_carpeta(f'results/htmls/{id_consulta}/')
-        guardar_cada_elem_de_lista_como_txt_diferente(lista=htmls, dir_dest_comun=f'results/htmls/{id_consulta}/html_{id_consulta}')
+        guardar_htmls(htmls=htmls, id_consulta=id_consulta)
         #guardar textos
         crear_carpeta(f'results/textos/{id_consulta}/')
-        guardar_cada_elem_de_lista_como_txt_diferente(lista=htmls, dir_dest_comun=f'results/textos/{id_consulta}/texto_{id_consulta}')
+        guardar_textos(textos=textos, id_consulta=id_consulta)
         #guardar matriz tfidf
-        guardar_df_como_csv(tfidf,f'tfidf_{id_consulta}')
+        guardar_tfidf(id_consulta=id_consulta)
         #guardar palabras relevantes
-        guardar_string_como_txt(top_10_words, f"results/palabras_rel/palabras_rel_{id_consulta}.txt")
+        guardar_palabras_rel(palabras=top_10_words, id_consulta=id_consulta)
     return top_10_words
         
 def consulta_a_nueva_consulta(consulta:str):

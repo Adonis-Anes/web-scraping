@@ -1,1481 +1,562 @@
-<html lang="es" class=" no-touchevents js_active  vc_desktop  vc_transform  vc_transform " style="height: auto; overflow: auto;"><head>
-	<meta charset="UTF-8">
-	
-				<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
-		
-	<link rel="profile" href="http://gmpg.org/xfn/11">
-	<link rel="pingback" href="https://www.psicologiaenmadrid.es/xmlrpc.php">
-
-	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
-
-	<!-- This site is optimized with the Yoast SEO Premium plugin v21.9 (Yoast SEO v21.9.1) - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Diferencias entre introversión y extroversión – i&amp;a Psicólogos</title>
-	<meta name="description" content="Encuentra información sobre en nuestro blog. Nos dedicamos a la psicología, la psicoterapia y el coaching.">
-	<link rel="canonical" href="https://www.psicologiaenmadrid.es/diferencias-entre-introversion-y-extroversion/">
-	<meta property="og:locale" content="es_ES">
-	<meta property="og:type" content="article">
-	<meta property="og:title" content="Diferencias entre introversión y extroversión – i&amp;a Psicólogos">
-	<meta property="og:description" content="Encuentra información sobre en nuestro blog. Nos dedicamos a la psicología, la psicoterapia y el coaching.">
-	<meta property="og:url" content="https://www.psicologiaenmadrid.es/diferencias-entre-introversion-y-extroversion/">
-	<meta property="og:site_name" content="i&amp;a Psicólogos">
-	<meta property="article:publisher" content="http://www.facebook.com/psicologiaenmadrid.coaching">
-	<meta property="article:author" content="https://www.facebook.com/psicologomadrid">
-	<meta property="article:published_time" content="2023-08-07T09:00:41+00:00">
-	<meta property="article:modified_time" content="2023-08-10T08:30:53+00:00">
-	<meta property="og:image" content="https://www.psicologiaenmadrid.es/wp-content/uploads/introversion_extroversion.jpg">
-	<meta property="og:image:width" content="800">
-	<meta property="og:image:height" content="800">
-	<meta property="og:image:type" content="image/jpeg">
-	<meta name="author" content="Iñaki López">
-	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:creator" content="@PsicologosMadri">
-	<meta name="twitter:site" content="@PsicologosMadri">
-	<meta name="twitter:label1" content="Escrito por">
-	<meta name="twitter:data1" content="Iñaki López">
-	<meta name="twitter:label2" content="Tiempo de lectura">
-	<meta name="twitter:data2" content="7 minutos">
-	<meta name="geo.placename" content="Madrid">
-	<meta name="geo.position" content="40.49991988791448;-3.703974288843721">
-	<meta name="geo.region" content="Spain">
-	<!-- / Yoast SEO Premium plugin. -->
-
-
-<link rel="dns-prefetch" href="//www.googletagmanager.com">
-<link rel="dns-prefetch" href="//fonts.googleapis.com">
-<link rel="alternate" type="application/rss+xml" title="i&amp;a Psicólogos » Feed" href="https://www.psicologiaenmadrid.es/feed/">
-<link rel="stylesheet" id="sbi_styles-css" href="https://www.psicologiaenmadrid.es/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.2.8" type="text/css" media="all">
-<link rel="stylesheet" id="wp-block-library-css" href="https://www.psicologiaenmadrid.es/wp-includes/css/dist/block-library/style.min.css?ver=6.3.2" type="text/css" media="all">
-<style id="classic-theme-styles-inline-css" type="text/css">
-/*! This file is auto-generated */
-.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
-</style>
-<style id="global-styles-inline-css" type="text/css">
-body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
-.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
-:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
-:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
-.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
-</style>
-<link rel="stylesheet" id="contact-form-7-css" href="https://www.psicologiaenmadrid.es/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.6" type="text/css" media="all">
-<link rel="stylesheet" id="cookie-law-info-css" href="https://www.psicologiaenmadrid.es/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-public.css?ver=3.1.8" type="text/css" media="all">
-<link rel="stylesheet" id="cookie-law-info-gdpr-css" href="https://www.psicologiaenmadrid.es/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-gdpr.css?ver=3.1.8" type="text/css" media="all">
-<link rel="stylesheet" id="saswp-style-css" href="https://www.psicologiaenmadrid.es/wp-content/plugins/schema-and-structured-data-for-wp/admin_section/css/saswp-style.min.css?ver=1.26" type="text/css" media="all">
-<link rel="stylesheet" id="mediaelement-css" href="https://www.psicologiaenmadrid.es/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17" type="text/css" media="all">
-<link rel="stylesheet" id="wp-mediaelement-css" href="https://www.psicologiaenmadrid.es/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="bridge-default-style-css" href="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/style.css?ver=6.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="bridge-qode-font_awesome-css" href="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/css/font-awesome/css/font-awesome.min.css?ver=6.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="bridge-qode-font_awesome_5-css" href="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/css/font-awesome-5/css/font-awesome-5.min.css?ver=6.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="bridge-stylesheet-css" href="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/css/stylesheet.min.css?ver=6.3.2" type="text/css" media="all">
-<style id="bridge-stylesheet-inline-css" type="text/css">
-   .postid-22982.disabled_footer_top .footer_top_holder, .postid-22982.disabled_footer_bottom .footer_bottom_holder { display: none;}
-
-
-</style>
-<link rel="stylesheet" id="bridge-print-css" href="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/css/print.css?ver=6.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="bridge-style-dynamic-css" href="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/css/style_dynamic.css?ver=1707734718" type="text/css" media="all">
-<link rel="stylesheet" id="bridge-responsive-css" href="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/css/responsive.min.css?ver=6.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="bridge-style-dynamic-responsive-css" href="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/css/style_dynamic_responsive.css?ver=1707734718" type="text/css" media="all">
-<style id="bridge-style-dynamic-responsive-inline-css" type="text/css">
-@media screen and (max-width: 600px) {
-  .title.title_size_large h4.subtitle {
-    font-size: 14px;!important;
-    line-height: 16px;!important;
-}}
-.q_price_table .price_table_inner {
-    background-color: #d1d1d1;
-}
-.price_table_inner ul li.table_title .title_content {
-    color: #000000;
-font-size: 25px;
-line-height: 38px;
-}
-.q_price_table:not(.qode_pricing_table_advanced) {
-    border-top: none;
-    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.08); 
-}
-.single-post p {
-font-size: 1.2em;!important;
-line-height: 1.5em;!important;
-}
-.author_text p {
-font-size: 1em;!important;
-line-height: 1.3em;!important;
-}
-.comment p {
-font-size: 1.3em;!important;
-line-height: 2em;!important;
-}
-.entry_date{
-    display:none!important;
-}
-.blog_holder article .post_info .time{display: none;
-}
-.blog_holder.blog_single article h2{
-font-size: 1.3em;
-margin-top: 2em;
-margin-bottom: 2em;
-}
-.blog_holder.blog_single article h3{
-font-size: 2em;
-margin-top: 1em;
-margin-bottom: 2em;
-}
-.wpb_text_column ol, 
-.wpb_text_column ul {
-    line-height: 2.1em !important;
-    font-size: 1.2em !important;
-margin-top: 30px !important;
-margin-bottom: 40px !important;
-margin-left: 20px !important;
-padding-left: 16px !important;
-list-style-position: outside !important;
-}
-.wpb_text_column li {
-    line-height: 1.4em !important;
-    font-size: 1em !important;
-}
-.wpb_text_column .wpb_wrapper ol li {
-    line-height: 2.1em !important;
-    font-size: 1.2em !important;
-    letter-spacing: 1px;
-}
-.tab-title {
-    font-size: 15px !important;
-    line-height: 17px !important;
-    text-transform: none !important;
-}
-</style>
-<link rel="stylesheet" id="js_composer_front-css" href="https://www.psicologiaenmadrid.es/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=7.0" type="text/css" media="all">
-<link rel="stylesheet" id="bridge-style-handle-google-fonts-css" href="https://fonts.googleapis.com/css?family=Raleway%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C300italic%2C400italic%2C700italic%7CAlegreya%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C300italic%2C400italic%2C700italic%7CAdvent+Pro%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C300italic%2C400italic%2C700italic&amp;subset=latin%2Clatin-ext&amp;ver=1.0.0" type="text/css" media="all">
-<link rel="stylesheet" id="bridge-core-dashboard-style-css" href="https://www.psicologiaenmadrid.es/wp-content/plugins/bridge-core/modules/core-dashboard/assets/css/core-dashboard.min.css?ver=6.3.2" type="text/css" media="all">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-includes/js/jquery/jquery.min.js?ver=3.7.0" id="jquery-core-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
-<script type="text/javascript" id="cookie-law-info-js-extra">
-/* <![CDATA[ */
-var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"non_necessary_cookies":[],"ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","strictlyEnabled":["necessary","obligatoire"],"ccpaType":"gdpr","js_blocking":"","custom_integration":"","triggerDomRefresh":"","secure_cookies":""};
-var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#d2dcdd","border":"#444","border_on":"","button_1_button_colour":"#000","button_1_button_hover":"#000000","button_1_link_colour":"#fff","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#24b4bf","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#dedfe0","button_3_button_hover":"#b2b2b3","button_3_link_colour":"#333333","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#dedfe0","button_4_button_hover":"#b2b2b3","button_4_link_colour":"#333333","button_4_as_button":"1","button_7_button_colour":"#61a229","button_7_button_hover":"#4e8221","button_7_link_colour":"#fff","button_7_as_button":"1","button_7_new_win":"","font_family":"inherit","header_fix":"","notify_animate_hide":"1","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"1","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#005975","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"1","bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"};
-var log_object = {"ajax_url":"https:\/\/www.psicologiaenmadrid.es\/wp-admin\/admin-ajax.php"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/plugins/cookie-law-info/legacy/public/js/cookie-law-info-public.js?ver=3.1.8" id="cookie-law-info-js"></script>
-
-<!-- Google Analytics snippet added by Site Kit -->
-<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=GT-5R7RWLR" id="google_gtagjs-js" async=""></script>
-<script id="google_gtagjs-js-after" type="text/javascript">
-window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
-gtag('set', 'linker', {"domains":["www.psicologiaenmadrid.es"]} );
-gtag("js", new Date());
-gtag("set", "developer_id.dZTNiMT", true);
-gtag("config", "GT-5R7RWLR");
-</script>
-
-<!-- End Google Analytics snippet added by Site Kit -->
-<script></script><meta name="generator" content="Site Kit by Google 1.119.0">
-<!-- Google AdSense meta tags added by Site Kit -->
-<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
-<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
-<!-- End Google AdSense meta tags added by Site Kit -->
-<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
-<link rel="icon" href="https://www.psicologiaenmadrid.es/wp-content/uploads/cropped-ia_psicologos_2024_ico-32x32.png" sizes="32x32">
-<link rel="icon" href="https://www.psicologiaenmadrid.es/wp-content/uploads/cropped-ia_psicologos_2024_ico-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon" href="https://www.psicologiaenmadrid.es/wp-content/uploads/cropped-ia_psicologos_2024_ico-180x180.png">
-<meta name="msapplication-TileImage" content="https://www.psicologiaenmadrid.es/wp-content/uploads/cropped-ia_psicologos_2024_ico-270x270.png">
-<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1686067434617{background-color: #eaeaea !important;}.vc_custom_1686067803679{padding-top: 2em !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"></head>
-
-<body class="post-template-default single single-post postid-22982 single-format-standard bridge-core-3.1.0 qode-title-hidden side_area_uncovered_from_content qode-content-sidebar-responsive qode-theme-ver-29.9 qode-theme-bridge qode_header_in_grid wpb-js-composer js-comp-ver-7.0 vc_responsive qode-chrome" style="height: auto; overflow: auto;">
 
 
 
-	<section class="side_menu right dark side_area_alignment_left" style="overflow-y: hidden; outline: none; width: 271px;" tabindex="0">
-				<a href="#" target="_self" class="close_side_menu"></a>
-		<div id="block-25" class="widget widget_block widget_text posts_holder">
-<p><strong>Horario:<br></strong>Lunes a Viernes<br>10h a 20h</p>
-</div><div id="block-27" class="widget widget_block widget_search posts_holder"><form role="search" method="get" action="https://www.psicologiaenmadrid.es/" class="wp-block-search__button-outside wp-block-search__text-button wp-block-search"><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-1">Buscar</label><div class="wp-block-search__inside-wrapper " style="width: 504px"><input class="wp-block-search__input" id="wp-block-search__input-1" placeholder="" value="" type="search" name="s" required=""><button aria-label="Buscar" class="wp-block-search__button wp-element-button" type="submit">Buscar</button></div></form></div><div id="block-2" class="widget widget_block posts_holder"><h6>CONSULTAS FRECUENTES</h6>
-<ul>
-<li><a href="https://www.psicologiaenmadrid.es/category/relajacion-blog/"><span data-type="normal" class="qode_icon_shortcode  q_font_awsome_icon   " style=" "><i class="qode_icon_font_awesome fa fa-angle-double-right qode_icon_element" style=""></i></span>Aprender relajación</a></li>
-<li><a href="https://www.psicologiaenmadrid.es/que-es-una-terapia/
-" target="_self"><span data-type="normal" class="qode_icon_shortcode  q_font_awsome_icon   " style=" "><i class="qode_icon_font_awesome fa fa-angle-double-right qode_icon_element" style=""></i></span> Qué es una terapia</a></li>
-<li><a href="https://www.psicologiaenmadrid.es/ansiedad/" target="_self"><span data-type="normal" class="qode_icon_shortcode  q_font_awsome_icon   " style=" "><i class="qode_icon_font_awesome fa fa-angle-double-right qode_icon_element" style=""></i></span> Tratamiento ansiedad</a></li>
-<li><a href="https://www.psicologiaenmadrid.es/depresion/" target="_self"><span data-type="normal" class="qode_icon_shortcode  q_font_awsome_icon   " style=" "><i class="qode_icon_font_awesome fa fa-angle-double-right qode_icon_element" style=""></i></span> Tratamiento Depresión</a></li>
-<li><a href="https://www.psicologiaenmadrid.es/como-es-la-terapia-emdr/" target="_self"><span data-type="normal" class="qode_icon_shortcode  q_font_awsome_icon   " style=" "><i class="qode_icon_font_awesome fa fa-angle-double-right qode_icon_element" style=""></i></span> Terapia EMDR</a></li>
-</ul></div><div id="block-41" class="widget widget_block widget_media_image posts_holder">
-<figure class="wp-block-image size-full is-resized"><a href="https://www.coaching.madrid/"><img decoding="async" loading="lazy" src="https://www.psicologiaenmadrid.es/wp-content/uploads/IA-GROUP.png" alt="" class="wp-image-22312" style="width:98px;height:98px" width="98" height="98" srcset="https://www.psicologiaenmadrid.es/wp-content/uploads/IA-GROUP.png 500w, https://www.psicologiaenmadrid.es/wp-content/uploads/IA-GROUP-300x300.png 300w, https://www.psicologiaenmadrid.es/wp-content/uploads/IA-GROUP-80x80.png 80w" sizes="(max-width: 98px) 100vw, 98px"></a></figure>
-</div></section>
 
-<div class="wrapper">
-	<div class="wrapper_inner">
 
-    
-		<!-- Google Analytics start -->
-					<script>
-				var _gaq = _gaq || [];
-				_gaq.push(['_setAccount', 'UA-6012719-1']);
-				_gaq.push(['_trackPageview']);
 
-				(function() {
-					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-					ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-				})();
-			</script>
-				<!-- Google Analytics end -->
 
-		
-	<header class=" scroll_header_top_area  stick transparent scrolled_not_transparent header_style_on_scroll page_header">
-	<div class="header_inner clearfix">
-				<div class="header_top_bottom_holder">
-			
-			<div class="header_bottom clearfix" style=" background-color:rgba(255, 255, 255, 0);">
-								<div class="container">
-					<div class="container_inner clearfix">
-																				<div class="header_inner_left">
-																	<div class="mobile_menu_button">
-		<span>
-			<i class="qode_icon_font_awesome fa fa-plus-square "></i>		</span>
-	</div>
-								<div class="logo_wrapper">
-	<div class="q_logo">
-		<a href="https://www.psicologiaenmadrid.es/" style="height: 90px; visibility: visible;">
-             <img class="normal" src="https://www.psicologiaenmadrid.es/wp-content/uploads/i_a_psicologos_logo2024_web1.png" alt="Logo" style="height: 100%;"> 			 <img class="light" src="https://www.psicologiaenmadrid.es/wp-content/uploads/i_a_psicologos_logo2024wh_web1.png" alt="Logo" style="height: 100%;"> 			 <img class="dark" src="https://www.psicologiaenmadrid.es/wp-content/uploads/i_a_psicologos_logo2024_web1.png" alt="Logo" style="height: 100%;"> 			 <img class="sticky" src="https://www.psicologiaenmadrid.es/wp-content/uploads/cropped-ia_psicologos_2024_ico.png" alt="Logo" style="height: 100%;"> 			 <img class="mobile" src="https://www.psicologiaenmadrid.es/wp-content/uploads/i_a_psicologos_logo2024_web1.png" alt="Logo" style="height: 100%;"> 					</a>
-	</div>
-	</div>															</div>
-															<div class="header_inner_right">
-									<div class="side_menu_button_wrapper right">
-																														<div class="side_menu_button">
-																																	
-	<a class="side_menu_button_link normal " href="javascript:void(0)">
-		<i class="qode_icon_font_awesome fa fa-plus-square-o "></i>	</a>
-										</div>
-									</div>
-								</div>
-							
-							
-							<nav class="main_menu drop_down right">
-								<ul id="menu-psicologomadrid_menuflat" class=""><li id="nav-menu-item-19663" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  has_sub narrow"><a href="https://www.psicologiaenmadrid.es/nuestros-psicologos-madrid/" class=""><i class="menu_icon blank fa"></i><span>PSICOLOGOS</span><span class="plus"></span></a>
-<div class="second" style="height: 0px;"><div class="inner"><ul>
-	<li id="nav-menu-item-19665" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.psicologiaenmadrid.es/nuestros-psicologos-madrid/como-trabajamos/" class=""><i class="menu_icon blank fa"></i><span>Cómo trabajamos</span><span class="plus"></span></a></li>
-	<li id="nav-menu-item-19664" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children sub"><a href="https://www.psicologiaenmadrid.es/nuestros-psicologos-madrid/andrea-navarrete-psicologa/" class=""><i class="menu_icon blank fa"></i><span>Andrea Navarrete</span><span class="plus"></span><i class="q_menu_arrow fa fa-angle-right"></i></a>
-	<ul>
-		<li id="nav-menu-item-24382" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="https://www.psicologiaenmadrid.es/author/andrea-navarrete/" class=""><i class="menu_icon blank fa"></i><span>Artículos</span><span class="plus"></span></a></li>
-	</ul>
-</li>
-	<li id="nav-menu-item-19666" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children sub"><a href="https://www.psicologiaenmadrid.es/nuestros-psicologos-madrid/inaki-lopez-psicologo/" class=""><i class="menu_icon fa-user fa"></i><span>Iñaki López</span><span class="plus"></span><i class="q_menu_arrow fa fa-angle-right"></i></a>
-	<ul>
-		<li id="nav-menu-item-24383" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="https://www.psicologiaenmadrid.es/author/ilopez/" class=""><i class="menu_icon blank fa"></i><span>Artículos</span><span class="plus"></span></a></li>
-	</ul>
-</li>
-</ul></div></div>
-</li>
-<li id="nav-menu-item-19684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  has_sub wide"><a href="https://www.psicologiaenmadrid.es/terapias-servicios-psicologos-madrid/" class=""><i class="menu_icon blank fa"></i><span>Terapias</span><span class="plus"></span></a>
-<div class="second" style="left: -435.977px; height: 0px;"><div class="inner"><ul style="width: 704px;">
-	<li id="nav-menu-item-19686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children sub" style="height: 338.188px;"><a href="https://www.psicologiaenmadrid.es/terapias-servicios-psicologos-madrid/psicoterapia/" class=""><i class="menu_icon blank fa"></i><span>Psicoterapia</span><span class="plus"></span><i class="q_menu_arrow fa fa-angle-right"></i></a>
-	<ul>
-		<li id="nav-menu-item-24746" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://www.psicologiaenmadrid.es/que-es-el-trauma-psicologico/" class=""><i class="menu_icon blank fa"></i><span>Trauma Psicológico</span><span class="plus"></span></a></li>
-		<li id="nav-menu-item-24745" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="https://www.psicologiaenmadrid.es/terapias-servicios-psicologos-madrid/#expertos-ansiedad-estres" class=""><i class="menu_icon blank fa"></i><span>Ansiedad y estrés</span><span class="plus"></span></a></li>
-		<li id="nav-menu-item-19679" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.psicologiaenmadrid.es/terapias-servicios-psicologos-madrid/depresion/" class=""><i class="menu_icon blank fa"></i><span>Depresión</span><span class="plus"></span></a></li>
-		<li id="nav-menu-item-24753" class="menu-item menu-item-type-taxonomy menu-item-object-category "><a href="https://www.psicologiaenmadrid.es/area/enfermedad-cronica/" class=""><i class="menu_icon blank fa"></i><span>Enfermedad crónica</span><span class="plus"></span></a></li>
-		<li id="nav-menu-item-23173" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://www.psicologiaenmadrid.es/como-es-la-terapia-emdr/" class=""><i class="menu_icon blank fa"></i><span>TERAPIA EMDR</span><span class="plus"></span></a></li>
-		<li id="nav-menu-item-24747" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://www.psicologiaenmadrid.es/therapy-in-madrid-in-english/" class=""><i class="menu_icon blank fa"></i><span>Therapy in English</span><span class="plus"></span></a></li>
-	</ul>
-</li>
-	<li id="nav-menu-item-23045" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children sub" style="height: 338.188px;"><a href="https://www.psicologiaenmadrid.es/area/psicologo-talleres/" class=""><i class="menu_icon blank fa"></i><span>Coaching | Talleres</span><span class="plus"></span><i class="q_menu_arrow fa fa-angle-right"></i></a>
-	<ul>
-		<li id="nav-menu-item-24524" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.psicologiaenmadrid.es/coaching-madrid/" class=""><i class="menu_icon blank fa"></i><span>Coaching</span><span class="plus"></span></a></li>
-		<li id="nav-menu-item-23047" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://www.psicologiaenmadrid.es/estres-laboral/" class=""><i class="menu_icon blank fa"></i><span>Estrés laboral</span><span class="plus"></span></a></li>
-		<li id="nav-menu-item-23049" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://www.psicologiaenmadrid.es/autoestima/" class=""><i class="menu_icon blank fa"></i><span>Autoestima: aprendiendo a quererme bien</span><span class="plus"></span></a></li>
-		<li id="nav-menu-item-23048" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://www.psicologiaenmadrid.es/taller-de-relajacion/" class=""><i class="menu_icon blank fa"></i><span>Relajación</span><span class="plus"></span></a></li>
-		<li id="nav-menu-item-23046" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://www.psicologiaenmadrid.es/taller-cuidar-al-cuidador/" class=""><i class="menu_icon blank fa"></i><span>Cuidar al cuidador</span><span class="plus"></span></a></li>
-	</ul>
-</li>
-	<li id="nav-menu-item-19690" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children sub" style="height: 338.188px;"><a href="https://www.psicologiaenmadrid.es/como-elegir-psicologo-psicologo-psiquiatra-o-coach/" class=""><i class="menu_icon blank fa"></i><span>Guia para elegir psicólogo</span><span class="plus"></span><i class="q_menu_arrow fa fa-angle-right"></i></a>
-	<ul>
-		<li id="nav-menu-item-21065" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://www.psicologiaenmadrid.es/como-elegir-psicologo-ii-psicologo-o-psicologa-tarifas/" class=""><i class="menu_icon blank fa"></i><span>Elegir ¿psicólogo o psicóloga?</span><span class="plus"></span></a></li>
-		<li id="nav-menu-item-19692" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://www.psicologiaenmadrid.es/elegir-psicologo-mejor-tipo-de-psicoterapia/" class=""><i class="menu_icon blank fa"></i><span>¿Cuál es la mejor terapia?</span><span class="plus"></span></a></li>
-		<li id="nav-menu-item-19691" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://www.psicologiaenmadrid.es/elegir-psicologo-online-o-presencial/" class=""><i class="menu_icon blank fa"></i><span>¿Psicólogo online o presencial? ¿Qué es mejor?</span><span class="plus"></span></a></li>
-		<li id="nav-menu-item-19688" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="https://www.psicologiaenmadrid.es/cuando-acudir-al-psicologo/" class=""><i class="menu_icon blank fa"></i><span>Cuándo ir al psicólogo</span><span class="plus"></span></a></li>
-		<li id="nav-menu-item-19683" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.psicologiaenmadrid.es/que-es-una-terapia/" class=""><i class="menu_icon blank fa"></i><span>Qué es una Terapia</span><span class="plus"></span></a></li>
-	</ul>
-</li>
-</ul></div></div>
-</li>
-<li id="nav-menu-item-19671" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  has_sub wide icons"><a href="https://www.psicologiaenmadrid.es/pide-cita-psicologo-madrid/" class=""><i class="menu_icon blank fa"></i><span>PIDE CITA</span><span class="plus"></span></a>
-<div class="second" style="left: -439.602px; height: 0px;"><div class="inner"><ul style="width: 476px;">
-	<li id="nav-menu-item-22187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children sub" style="height: 172.594px;"><a href="https://www.psicologiaenmadrid.es/psicologo-madrid-precio/" class=""><i class="menu_icon blank fa"></i><span>Precios</span><span class="plus"></span><span class="qode-featured-icon icon_star" aria-hidden="true"></span><i class="q_menu_arrow fa fa-angle-right"></i></a>
-	<ul>
-		<li id="nav-menu-item-22233" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.psicologiaenmadrid.es/psicologo-madrid-precio/terapia-para-todos/" class=""><i class="menu_icon blank fa"></i><span>Terapia social</span><span class="plus"></span></a></li>
-		<li id="nav-menu-item-22927" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.psicologiaenmadrid.es/seguros-medicos-reembolso-de-las-sesiones-con-el-psicologo/" class=""><i class="menu_icon blank fa"></i><span>Seguros médicos reembolso</span><span class="plus"></span></a></li>
-	</ul>
-</li>
-	<li id="nav-menu-item-19670" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children sub" style="height: 172.594px;"><a href="https://www.psicologiaenmadrid.es/contacto-psicologo-en-madrid/" class=""><i class="menu_icon blank fa"></i><span>Contacta</span><span class="plus"></span><span class="qode-featured-icon icon_star" aria-hidden="true"></span><i class="q_menu_arrow fa fa-angle-right"></i></a>
-	<ul>
-		<li id="nav-menu-item-19669" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.psicologiaenmadrid.es/donde-estamos-madrid/" class=""><i class="menu_icon blank fa"></i><span>Dónde estamos –  Presencial</span><span class="plus"></span></a></li>
-		<li id="nav-menu-item-19681" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.psicologiaenmadrid.es/pide-cita-psicologo-madrid/psicologo-telefono-videollamada/" class=""><i class="menu_icon blank fa"></i><span>Psicólogo por teléfono y videollamada</span><span class="plus"></span></a></li>
-	</ul>
-</li>
-</ul></div></div>
-</li>
-<li id="nav-menu-item-22439" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children  has_sub narrow"><a href="https://www.psicologiaenmadrid.es/info-y-recursos/" class=""><i class="menu_icon blank fa"></i><span>RECURSOS</span><span class="plus"></span></a>
-<div class="second right" style="height: 0px;"><div class="inner"><ul class="right">
-	<li id="nav-menu-item-22858" class="menu-item menu-item-type-taxonomy menu-item-object-category "><a href="https://www.psicologiaenmadrid.es/area/ansiedad-psicologo-madrid/" class=""><i class="menu_icon blank fa"></i><span>Ansiedad</span><span class="plus"></span></a></li>
-	<li id="nav-menu-item-22862" class="menu-item menu-item-type-taxonomy menu-item-object-category "><a href="https://www.psicologiaenmadrid.es/area/depresion-psicologo-madrid/" class=""><i class="menu_icon blank fa"></i><span>Depresión</span><span class="plus"></span></a></li>
-	<li id="nav-menu-item-24384" class="menu-item menu-item-type-taxonomy menu-item-object-category "><a href="https://www.psicologiaenmadrid.es/area/enfermedad-cronica/" class=""><i class="menu_icon blank fa"></i><span>Enfermedad crónica</span><span class="plus"></span></a></li>
-	<li id="nav-menu-item-22867" class="menu-item menu-item-type-taxonomy menu-item-object-category "><a href="https://www.psicologiaenmadrid.es/area/relajacion-blog/" class=""><i class="menu_icon blank fa"></i><span>Meditación</span><span class="plus"></span></a></li>
-	<li id="nav-menu-item-22864" class="menu-item menu-item-type-taxonomy menu-item-object-category "><a href="https://www.psicologiaenmadrid.es/area/estres-psicologomadrid/" class=""><i class="menu_icon blank fa"></i><span>Estrés</span><span class="plus"></span></a></li>
-	<li id="nav-menu-item-22859" class="menu-item menu-item-type-taxonomy menu-item-object-category "><a href="https://www.psicologiaenmadrid.es/area/autoestima-2/" class=""><i class="menu_icon blank fa"></i><span>Autoestima</span><span class="plus"></span></a></li>
-	<li id="nav-menu-item-22865" class="menu-item menu-item-type-taxonomy menu-item-object-category "><a href="https://www.psicologiaenmadrid.es/area/motivacion-2/" class=""><i class="menu_icon blank fa"></i><span>Motivación</span><span class="plus"></span></a></li>
-	<li id="nav-menu-item-22861" class="menu-item menu-item-type-taxonomy menu-item-object-category "><a href="https://www.psicologiaenmadrid.es/area/cuidar-al-que-cuida/" class=""><i class="menu_icon blank fa"></i><span>Cuidadores</span><span class="plus"></span></a></li>
-	<li id="nav-menu-item-22863" class="menu-item menu-item-type-taxonomy menu-item-object-category "><a href="https://www.psicologiaenmadrid.es/area/elegir-psicologo/" class=""><i class="menu_icon blank fa"></i><span>Elegir psicólogo</span><span class="plus"></span></a></li>
-	<li id="nav-menu-item-22860" class="menu-item menu-item-type-taxonomy menu-item-object-category "><a href="https://www.psicologiaenmadrid.es/area/citas-para-pensar/" class=""><i class="menu_icon blank fa"></i><span>Citas Para Pensar</span><span class="plus"></span></a></li>
-</ul></div></div>
-</li>
-</ul>							</nav>
-														<nav class="mobile_menu">
-	<ul id="menu-psicologomadrid_movil" class=""><li id="mobile-menu-item-19388" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  has_sub"><a href="https://www.psicologiaenmadrid.es/nuestros-psicologos-madrid/" class=""><span>PSICÓLOGOS</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
-<ul class="sub_menu">
-	<li id="mobile-menu-item-19382" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.psicologiaenmadrid.es/nuestros-psicologos-madrid/como-trabajamos/" class=""><span>Cómo trabajamos</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-	<li id="mobile-menu-item-19389" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  has_sub"><a href="https://www.psicologiaenmadrid.es/nuestros-psicologos-madrid/andrea-navarrete-psicologa/" class=""><span>Andrea Navarrete</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
-	<ul class="sub_menu">
-		<li id="mobile-menu-item-24523" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="https://www.psicologiaenmadrid.es/author/andrea-navarrete/" class=""><span>Artículos</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-	</ul>
-</li>
-	<li id="mobile-menu-item-24577" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  has_sub"><a href="https://www.psicologiaenmadrid.es/nuestros-psicologos-madrid/inaki-lopez-psicologo/" class=""><span>Iñaki López</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
-	<ul class="sub_menu">
-		<li id="mobile-menu-item-24522" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="https://www.psicologiaenmadrid.es/author/ilopez/" class=""><span>Artículos</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-	</ul>
-</li>
-</ul>
-</li>
-<li id="mobile-menu-item-19397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  has_sub"><a href="https://www.psicologiaenmadrid.es/terapias-servicios-psicologos-madrid/psicoterapia/" class=""><span>Psicoterapia</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
-<ul class="sub_menu">
-	<li id="mobile-menu-item-24749" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="https://www.psicologiaenmadrid.es/terapias-servicios-psicologos-madrid/#expertos-ansiedad-estres" class=""><span>Ansiedad y estrés</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-	<li id="mobile-menu-item-24751" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://www.psicologiaenmadrid.es/que-es-el-trauma-psicologico/" class=""><span>Trauma Psicológico</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-	<li id="mobile-menu-item-19399" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.psicologiaenmadrid.es/terapias-servicios-psicologos-madrid/depresion/" class=""><span>Depresión</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-	<li id="mobile-menu-item-24752" class="menu-item menu-item-type-taxonomy menu-item-object-category "><a href="https://www.psicologiaenmadrid.es/area/enfermedad-cronica/" class=""><span>Enfermedad crónica</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-	<li id="mobile-menu-item-24033" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://www.psicologiaenmadrid.es/como-es-la-terapia-emdr/" class=""><span>Terapia EMDR</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-	<li id="mobile-menu-item-19395" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.psicologiaenmadrid.es/terapias-servicios-psicologos-madrid/" class=""><span>Otras TERAPIAS</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-	<li id="mobile-menu-item-24750" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://www.psicologiaenmadrid.es/therapy-in-madrid-in-english/" class=""><span>Therapy in Madrid (in English)</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-	<li id="mobile-menu-item-21014" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children  has_sub"><a href="https://www.psicologiaenmadrid.es/area/psicologo-talleres/" class=""><span>Coaching y Talleres</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
-	<ul class="sub_menu">
-		<li id="mobile-menu-item-24093" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="https://www.coaching.madrid/" class=""><span>Coaching</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-		<li id="mobile-menu-item-24537" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://www.psicologiaenmadrid.es/taller-cuidar-al-cuidador/" class=""><span>Cuidar al cuidador</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-		<li id="mobile-menu-item-24538" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://www.psicologiaenmadrid.es/estres-laboral/" class=""><span>Estrés laboral</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-		<li id="mobile-menu-item-24539" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://www.psicologiaenmadrid.es/taller-de-relajacion/" class=""><span>Relajación</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-		<li id="mobile-menu-item-24540" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://www.psicologiaenmadrid.es/autoestima/" class=""><span>Autoestima: aprendiendo a quererme bien</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-		<li id="mobile-menu-item-24541" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://www.psicologiaenmadrid.es/taller-habilidades-sociales-y-comunicacion/" class=""><span>Habilidades sociales y de comunicación</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-		<li id="mobile-menu-item-24543" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://www.psicologiaenmadrid.es/taller-grupal-autoregulacion-inteligencia-emocional/" class=""><span>Auto-regulación – Inteligencia emocional</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-		<li id="mobile-menu-item-24544" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="https://www.psicologiaenmadrid.es/taller-grupal-estrategias-para-mejorar-nuestro-rendimiento-en-los-estudios/" class=""><span>Estrategias para mejorar nuestro rendimiento en los estudios</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-	</ul>
-</li>
-</ul>
-</li>
-<li id="mobile-menu-item-19730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  has_sub"><a href="https://www.psicologiaenmadrid.es/pide-cita-psicologo-madrid/" class=""><span>CITA</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
-<ul class="sub_menu">
-	<li id="mobile-menu-item-24536" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.psicologiaenmadrid.es/donde-estamos-madrid/" class=""><span>Psicólogo Presencial Madrid – Mirasierra – Montecarmelo</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-	<li id="mobile-menu-item-19401" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.psicologiaenmadrid.es/pide-cita-psicologo-madrid/psicologo-telefono-videollamada/" class=""><span>Psicólogo por teléfono y videollamada</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-</ul>
-</li>
-<li id="mobile-menu-item-19731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  has_sub"><a href="https://www.psicologiaenmadrid.es/psicologo-madrid-precio/" class=""><span>PRECIOS</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
-<ul class="sub_menu">
-	<li id="mobile-menu-item-24535" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.psicologiaenmadrid.es/psicologo-madrid-precio/terapia-para-todos/" class=""><span>Terapia para tod@s</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-</ul>
-</li>
-<li id="mobile-menu-item-24096" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children  has_sub"><a href="https://www.psicologiaenmadrid.es/info-y-recursos/" class=""><span>RECURSOS</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
-<ul class="sub_menu">
-	<li id="mobile-menu-item-19392" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.psicologiaenmadrid.es/cuando-acudir-al-psicologo/" class=""><span>Cuándo acudir al psicólogo</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-	<li id="mobile-menu-item-24092" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.psicologiaenmadrid.es/que-es-una-terapia/" class=""><span>Qué es una Terapia</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-	<li id="mobile-menu-item-24100" class="menu-item menu-item-type-taxonomy menu-item-object-category "><a href="https://www.psicologiaenmadrid.es/area/elegir-psicologo/" class=""><span>Elegir psicólogo</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-	<li id="mobile-menu-item-24097" class="menu-item menu-item-type-taxonomy menu-item-object-category "><a href="https://www.psicologiaenmadrid.es/area/ansiedad-psicologo-madrid/" class=""><span>Ansiedad</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-	<li id="mobile-menu-item-24098" class="menu-item menu-item-type-taxonomy menu-item-object-category "><a href="https://www.psicologiaenmadrid.es/area/autoestima-2/" class=""><span>Autoestima</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-	<li id="mobile-menu-item-24099" class="menu-item menu-item-type-taxonomy menu-item-object-category "><a href="https://www.psicologiaenmadrid.es/area/depresion-psicologo-madrid/" class=""><span>Depresión</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-	<li id="mobile-menu-item-24101" class="menu-item menu-item-type-taxonomy menu-item-object-category "><a href="https://www.psicologiaenmadrid.es/area/relajacion-blog/" class=""><span>Meditación</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-	<li id="mobile-menu-item-24103" class="menu-item menu-item-type-taxonomy menu-item-object-category "><a href="https://www.psicologiaenmadrid.es/area/las-terapias/emdr/" class=""><span>EMDR</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
-</ul>
-</li>
-</ul></nav>																				</div>
-					</div>
-									</div>
-			</div>
-		</div>
+Diferencias entre introversión y extroversión – i&a Psicólogos
 
-</header>	
-	
-    
-    	
-    
-    <div class="content content_top_margin_none" style="min-height: 247.195px;">
-        <div class="content_inner  ">
-    
-											<div class="container">
-														<div class="container_inner default_template_holder">
-															<div class="blog_single blog_holder">
-								<article id="post-22982" class="post-22982 post type-post status-publish format-standard has-post-thumbnail hentry category-psicologos-online category-ser-humano tag-extroversion tag-introversion tag-ser-extrovertido tag-ser-introvertido">
-			<div class="post_content_holder">
-								<div class="post_text">
-					<div class="post_text_inner">
-						<h2 class="entry_title"><span class="date entry_date updated">07 Ago<meta content="UserComments: 0"></span> Diferencias entre introversión y extroversión</h2>
-						<div class="post_info">
-							<span class="time">Posted at 10:00h</span>
-							in <a href="https://www.psicologiaenmadrid.es/area/psicologos-online/" rel="category tag">Psicólogos online</a>, <a href="https://www.psicologiaenmadrid.es/area/ser-humano/" rel="category tag">Ser Humano</a>							<span class="post_author">
-								by								<a class="post_author_link" href="https://www.psicologiaenmadrid.es/author/ilopez/">Iñaki López</a>
-							</span>
-							                            						</div>
-						<section class="wpb-content-wrapper"><div class="vc_row wpb_row section vc_row-fluid " style=" text-align:left;"><div class=" full_section_inner clearfix"><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner"><div class="wpb_wrapper">
-	<div class="wpb_text_column wpb_content_element ">
-		<div class="wpb_wrapper">
-			<p>La introversión y la extroversión son dos dimensiones de la personalidad que describen las diferencias en la forma en que las personas obtienen y dirigen su activación o energía, según la teoría del arousal en psicología. Estas características influyen en la manera en que interactuamos con los demás, cómo procesamos la información y cómo manejamos el equilibrio entre estas energías o formas de activarnos. Aunque la mayoría de las personas tienen rasgos tanto introvertidos como extrovertidos, cada individuo tiende a inclinarse hacia uno de los extremos. Veamos estos extremos:</p>
-<p>La <strong>introversión</strong> se caracteriza por un enfoque hacia el mundo interno. Los introvertidos obtienen su energía de su mundo interior, a través de la reflexión, la introspección y la concentración en sus propios pensamientos y sentimientos. Prefieren pasar tiempo a solas o en compañía de un pequeño grupo de personas cercanas. Los introvertidos suelen ser más reservados y tienden a procesar información internamente antes de expresar sus ideas.</p>
-<p><img decoding="async" fetchpriority="high" class="aligncenter wp-image-23271 size-large" src="https://www.psicologiaenmadrid.es/wp-content/uploads/introversion-1024x512.jpg" alt="" width="1024" height="512" srcset="https://www.psicologiaenmadrid.es/wp-content/uploads/introversion-1024x512.jpg 1024w, https://www.psicologiaenmadrid.es/wp-content/uploads/introversion-300x150.jpg 300w, https://www.psicologiaenmadrid.es/wp-content/uploads/introversion-768x384.jpg 768w, https://www.psicologiaenmadrid.es/wp-content/uploads/introversion-1000x500.jpg 1000w, https://www.psicologiaenmadrid.es/wp-content/uploads/introversion-700x350.jpg 700w, https://www.psicologiaenmadrid.es/wp-content/uploads/introversion.jpg 1050w" sizes="(max-width: 1024px) 100vw, 1024px">Por otro lado, la <strong>extroversión</strong> se caracteriza por un enfoque hacia el mundo externo. Los extrovertidos obtienen su energía de interactuar con el entorno y las personas que los rodean. Les gusta estar rodeados de otras personas y se sienten más estimulados en entornos sociales. Los extrovertidos tienden a ser habladores, expresivos y abiertos en la comunicación. Suelen procesar la información a través de la interacción y la discusión con los demás.</p>
-<p><img decoding="async" class="alignnone size-large wp-image-23270" src="https://www.psicologiaenmadrid.es/wp-content/uploads/extroversion-1024x512.jpg" alt="" width="1024" height="512" srcset="https://www.psicologiaenmadrid.es/wp-content/uploads/extroversion-1024x512.jpg 1024w, https://www.psicologiaenmadrid.es/wp-content/uploads/extroversion-300x150.jpg 300w, https://www.psicologiaenmadrid.es/wp-content/uploads/extroversion-768x384.jpg 768w, https://www.psicologiaenmadrid.es/wp-content/uploads/extroversion-1000x500.jpg 1000w, https://www.psicologiaenmadrid.es/wp-content/uploads/extroversion-700x350.jpg 700w, https://www.psicologiaenmadrid.es/wp-content/uploads/extroversion.jpg 1050w" sizes="(max-width: 1024px) 100vw, 1024px">Es importante tener en cuenta que la introversión y la extroversión no se limitan únicamente a la forma en que interactuamos socialmente. También influyen en cómo nos recargamos energéticamente y cómo nos enfrentamos a diversas situaciones de la vida (ver el cuadro lateral). A continuación, se presentan algunos ejemplos para ilustrar las diferencias entre ambos rasgos:</p>
-<p>– <strong>Una persona introvertida</strong> puede preferir leer un libro o pasar tiempo en casa, disfrutando de actividades solitarias como la escritura o la pintura. Mientras tanto, una persona extrovertida puede buscar constantemente la compañía de otras personas y disfrutar de actividades sociales como fiestas o eventos.</p>
-<p>– En una reunión de trabajo, un introvertido puede tomar notas y procesar la información internamente antes de compartir sus ideas, mientras que un extrovertido puede hablar y discutir sus pensamientos de manera más directa. Es habitual sobre todo si lo tienen interiorizado que prefieran permanecer callados o en silencio que decir algo irrelevante o poco significativo.</p>
-<p>– Ante una situación estresante, un introvertido puede necesitar retirarse a un lugar tranquilo para reflexionar y recargarse, mientras que un extrovertido puede buscar apoyo y alivio al hablar con otras personas y compartir sus preocupaciones.</p>
-<p>Aunque cada tipo de personalidad tiene sus fortalezas y debilidades, es importante destacar que no hay una forma correcta o incorrecta de ser introvertido o extrovertido. Ambos tipos de personalidad pueden ser igualmente valiosos y exitosos en diferentes contextos.</p>
 
-		</div> 
-	</div> </div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 vc_col-has-fill"><div class="vc_column-inner vc_custom_1686067434617"><div class="wpb_wrapper">
-	<div class="wpb_text_column wpb_content_element ">
-		<div class="wpb_wrapper">
-			<h5>LA ENERGÍA Y LA TEORÍA DEL AROUSAL<br>
-La teoría del arousal es una perspectiva psicológica que busca explicar las diferencias individuales en la búsqueda de estimulación y la respuesta a la misma. Según esta teoría, las personas tienen niveles óptimos de estimulación o activación que buscan mantener o alcanzar.</h5>
-<h5>En el contexto de la introversión y la extroversión, la teoría del arousal sugiere que las personas introvertidas y extrovertidas difieren en la forma en que responden y buscan la estimulación. Los introvertidos tienen un nivel óptimo de activación más bajo, lo que significa que se sienten más cómodos y funcionan mejor en situaciones menos estimulantes. Por otro lado, los extrovertidos tienen un nivel óptimo de activación más alto y buscan activamente situaciones y estímulos que les proporcionen una mayor excitación.</h5>
-<h5>Esta diferencia en la búsqueda de estimulación se refleja en las dimensiones de introversión y extroversión de la personalidad. La introversión se caracteriza por una mayor sensibilidad a la estimulación y una tendencia a evitar situaciones o entornos que puedan resultar abrumadores o agotadores. Los introvertidos pueden sentirse fácilmente saturados de estímulos sociales intensos y pueden necesitar tiempo a solas para recuperarse y recargar energías. Prefieren las interacciones más tranquilas y profundas, y pueden disfrutar de actividades que les permitan reflexionar y procesar internamente la información.</h5>
-<h5>Por otro lado, la extroversión se asocia con una menor sensibilidad al arousal y una mayor búsqueda de estímulos. Los extrovertidos tienden a sentirse más cómodos en entornos sociales y a buscar activamente la compañía de otras personas. Disfrutan de la estimulación social, encuentran energía en la interacción con los demás y se sienten más estimulados en situaciones sociales y enérgicas. Los extrovertidos suelen ser más habladores, expresivos y abiertos en la comunicación, y pueden ser más propensos a tomar riesgos y buscar nuevas experiencias.</h5>
-<h5>Es importante destacar que la introversión y la extroversión son dimensiones continuas, lo que significa que las personas pueden ubicarse en diferentes puntos del espectro en función de su nivel de introversión o extroversión. Además, no se trata de una dicotomía absoluta, ya que la mayoría de las personas tienen rasgos tanto introvertidos como extrovertidos en diferentes situaciones y contextos.</h5>
-<h5>En resumen, la teoría del arousal sugiere que las personas introvertidas y extrovertidas difieren en su nivel óptimo de activación y en su búsqueda de estimulación. La introversión se asocia con una mayor sensibilidad al arousal y una preferencia por entornos y actividades menos estimulantes, mientras que la extroversión se asocia con una menor sensibilidad al arousal y una mayor búsqueda de estímulos y experiencias sociales. Estas diferencias influyen en la forma en que las personas interactúan, procesan la información y recargan energías.</h5>
 
-		</div> 
-	</div> </div></div></div></div></div><div class="vc_row wpb_row section vc_row-fluid " style=" text-align:left;"><div class=" full_section_inner clearfix"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1686067803679"><div class="wpb_wrapper">
-	<div class="wpb_text_column wpb_content_element ">
-		<div class="wpb_wrapper">
-			<p><strong>EJERCICIOS PARA FLEXIBILIZAR INTROVERSIÓN Y EXTROVERSIÓN</strong></p>
-<p>Como decían los clásicos la virtud está en el término medio entre dos vicios (o dos extremos). Una terapia o un proceso de <a href="https://www.psicologiaenmadrid.es/coaching-tipos-de-atencion/">coaching personal</a> puede ayudar a flexibilizar nuestras tendencias hacia la introversión o la extroversión. A continuación os dejo unas ideas con ejercicios para suavizar o flexibilizar nuestra forma de ser. Para <strong>introvertidos</strong> que deseen vencer sus limitaciones y desarrollar habilidades sociales, aquí hay algunas sugerencias:</p>
-<p>1. Empieza de a poco: Comienza por pequeñas interacciones sociales, como hablar con un compañero de trabajo o un vecino. Con el tiempo, ve aumentando gradualmente el nivel de interacción.</p>
-<p>2. Busca ambientes cómodos: Elige espacios sociales que se ajusten a tus preferencias, como reuniones en grupos pequeños o actividades que te resulten interesantes.</p>
-<p>De esta manera, te sentirás más cómodo y podrás interactuar de manera más natural.</p>
-<p>3. Practica habilidades de conversación: Puedes practicar hablar en voz alta, hacer preguntas abiertas y escuchar atentamente a los demás. También es útil aprender a leer el lenguaje corporal y mantener el contacto visual durante las conversaciones.</p>
-<p>4. Aprovecha las redes sociales: Las redes sociales pueden ser una forma menos intimidante de interactuar con los demás. Participa en grupos en línea o plataformas que compartan tus intereses para establecer conexiones con personas afines.</p>
-<p>En cuanto a los <strong>extrovertidos</strong> que deseen realizar actividades más relacionadas con la introversión, aquí tienes algunas ideas:</p>
-<p>1. Tómate tiempo para la reflexión: Aunque los extrovertidos tienden a procesar información a través de la interacción, también pueden beneficiarse de la introspección. Dedica tiempo a reflexionar sobre tus experiencias y pensamientos de forma individual.</p>
-<p>2. Busca momentos de tranquilidad: Incluye en tu rutina momentos de calma y soledad, donde puedas recargar energías. Puedes leer un libro, meditar o disfrutar de un paseo tranquilo por la naturaleza.</p>
-<p>3. Practica la escucha activa: Aunque los extrovertidos tienden a ser habladores, aprender a escuchar activamente a los demás puede ayudarte a profundizar tus conexiones y comprender diferentes perspectivas.</p>
-<p>4. Realiza actividades creativas: La introversión a menudo se asocia con actividades creativas. Intenta explorar áreas como la escritura, la pintura, la música o la fotografía, donde puedas canalizar tus energías y expresarte de forma individual.</p>
-<p>Recuerda que la introversión y la extroversión son solo dos aspectos de la personalidad y cada individuo es único. Es importante respetar y comprender las preferencias de cada persona y permitirles expresarse y relacionarse de la manera que les resulte más cómoda.</p>
 
-		</div> 
-	</div> </div></div></div></div></div>
-</section>					</div>
-				</div>
-			</div>
-		
-			<div class="single_tags clearfix">
-            <div class="tags_text">
-				<h5>Tags:</h5>
-				<a href="https://www.psicologiaenmadrid.es/tag/extroversion/" rel="tag">extroversión</a>, <a href="https://www.psicologiaenmadrid.es/tag/introversion/" rel="tag">introversión</a>, <a href="https://www.psicologiaenmadrid.es/tag/ser-extrovertido/" rel="tag">ser extrovertido</a>, <a href="https://www.psicologiaenmadrid.es/tag/ser-introvertido/" rel="tag">ser introvertido</a>			</div>
-		</div>
-	        <div class="icon_social_holder">
-        <div class="blog_share qode_share"><div class="social_share_holder"><a href="javascript:void(0)" target="_self"><i class=" social_share_icon"></i><span class="social_share_title">Share</span></a><div class="social_share_dropdown"><div class="inner_arrow"></div><ul><li class="facebook_share"><a href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.psicologiaenmadrid.es%2Fdiferencias-entre-introversion-y-extroversion%2F', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><i class="fa fa-facebook"></i></a></li><li class="twitter_share"><a href="#" onclick="popUp=window.open('https://twitter.com/intent/tweet?text=La+introversi%C3%B3n+y+la+extroversi%C3%B3n+son+dos+dimensiones+de+la+personalidad+que+describen+las+diferencias+en+la+forma+en+https://www.psicologiaenmadrid.es/diferencias-entre-introversion-y-extroversion/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><i class="fa fa-twitter"></i></a></li><li class="linkedin_share"><a href="#" onclick="popUp=window.open('https://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.psicologiaenmadrid.es%2Fdiferencias-entre-introversion-y-extroversion%2F&amp;title=Diferencias+entre+introversi%C3%B3n+y+extroversi%C3%B3n', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false"><i class="fa fa-linkedin"></i></a></li></ul></div></div></div>        <div class="qode_print">
-            <a href="#" onclick="window.print();return false;" class="qode_print_page">
-                <span class="icon-basic-printer qode_icon_printer"></span>
-                <span class="eltd-printer-title">Print page</span>
-            </a>
-        </div>
-            </div>
-		<div class="author_description">
-		<div class="author_description_inner">
-			<div class="image">
-							</div>
-			<div class="author_text_holder">
-				<h5 class="author_name vcard author">
-				<span class="fu">
-				Iñaki López			    </span>
-				</h5>
-				<span class="author_email">ilopez@psicologiaenmadrid.es</span>
-									<div class="author_text">
-						<p>Psicólogo psicoterapeuta. Experto en intervención en trauma con EMDR y terapeuta de grupo. Experto en meditación. Más de 15 años de experiencia con población adulta e infantil en atención individual, de pareja y familiar. Acreditado como Psicólogo General Sanitario.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Horario:Lunes a Viernes10h a 20h
+BuscarBuscarCONSULTAS FRECUENTES
+
+Aprender relajación
+ Qué es una terapia
+ Tratamiento ansiedad
+ Tratamiento Depresión
+ Terapia EMDR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+     
+
+ 
+
+
+
+
+ 
+
+
+
+
+PSICOLOGOS
+
+Cómo trabajamos
+Andrea Navarrete
+
+Artículos
+
+
+Iñaki López
+
+Artículos
+
+
+
+
+Terapias
+
+Psicoterapia
+
+Trauma Psicológico
+Ansiedad y estrés
+Depresión
+Enfermedad crónica
+TERAPIA EMDR
+Therapy in English
+
+
+Coaching | Talleres
+
+Coaching
+Estrés laboral
+Autoestima: aprendiendo a quererme bien
+Relajación
+Cuidar al cuidador
+
+
+Guia para elegir psicólogo
+
+Elegir ¿psicólogo o psicóloga?
+¿Cuál es la mejor terapia?
+¿Psicólogo online o presencial? ¿Qué es mejor?
+Cuándo ir al psicólogo
+Qué es una Terapia
+
+
+
+
+PIDE CITA
+
+Precios
+
+Terapia social
+Seguros médicos reembolso
+
+
+Contacta
+
+Dónde estamos –  Presencial
+Psicólogo por teléfono y videollamada
+
+
+
+
+RECURSOS
+
+Ansiedad
+Depresión
+Enfermedad crónica
+Meditación
+Estrés
+Autoestima
+Motivación
+Cuidadores
+Elegir psicólogo
+Citas Para Pensar
+
+
+ 
+
+PSICÓLOGOS
+
+Cómo trabajamos
+Andrea Navarrete
+
+Artículos
+
+
+Iñaki López
+
+Artículos
+
+
+
+
+Psicoterapia
+
+Ansiedad y estrés
+Trauma Psicológico
+Depresión
+Enfermedad crónica
+Terapia EMDR
+Otras TERAPIAS
+Therapy in Madrid (in English)
+Coaching y Talleres
+
+Coaching
+Cuidar al cuidador
+Estrés laboral
+Relajación
+Autoestima: aprendiendo a quererme bien
+Habilidades sociales y de comunicación
+Auto-regulación – Inteligencia emocional
+Estrategias para mejorar nuestro rendimiento en los estudios
+
+
+
+
+CITA
+
+Psicólogo Presencial Madrid – Mirasierra – Montecarmelo
+Psicólogo por teléfono y videollamada
+
+
+PRECIOS
+
+Terapia para tod@s
+
+
+RECURSOS
+
+Cuándo acudir al psicólogo
+Qué es una Terapia
+Elegir psicólogo
+Ansiedad
+Autoestima
+Depresión
+Meditación
+EMDR
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+07 Ago Diferencias entre introversión y extroversión
+
+Posted at 10:00h
+							in Psicólogos online, Ser Humano 
+								by								Iñaki López
+
+
+
+
+
+La introversión y la extroversión son dos dimensiones de la personalidad que describen las diferencias en la forma en que las personas obtienen y dirigen su activación o energía, según la teoría del arousal en psicología. Estas características influyen en la manera en que interactuamos con los demás, cómo procesamos la información y cómo manejamos el equilibrio entre estas energías o formas de activarnos. Aunque la mayoría de las personas tienen rasgos tanto introvertidos como extrovertidos, cada individuo tiende a inclinarse hacia uno de los extremos. Veamos estos extremos:
+La introversión se caracteriza por un enfoque hacia el mundo interno. Los introvertidos obtienen su energía de su mundo interior, a través de la reflexión, la introspección y la concentración en sus propios pensamientos y sentimientos. Prefieren pasar tiempo a solas o en compañía de un pequeño grupo de personas cercanas. Los introvertidos suelen ser más reservados y tienden a procesar información internamente antes de expresar sus ideas.
+Por otro lado, la extroversión se caracteriza por un enfoque hacia el mundo externo. Los extrovertidos obtienen su energía de interactuar con el entorno y las personas que los rodean. Les gusta estar rodeados de otras personas y se sienten más estimulados en entornos sociales. Los extrovertidos tienden a ser habladores, expresivos y abiertos en la comunicación. Suelen procesar la información a través de la interacción y la discusión con los demás.
+Es importante tener en cuenta que la introversión y la extroversión no se limitan únicamente a la forma en que interactuamos socialmente. También influyen en cómo nos recargamos energéticamente y cómo nos enfrentamos a diversas situaciones de la vida (ver el cuadro lateral). A continuación, se presentan algunos ejemplos para ilustrar las diferencias entre ambos rasgos:
+– Una persona introvertida puede preferir leer un libro o pasar tiempo en casa, disfrutando de actividades solitarias como la escritura o la pintura. Mientras tanto, una persona extrovertida puede buscar constantemente la compañía de otras personas y disfrutar de actividades sociales como fiestas o eventos.
+– En una reunión de trabajo, un introvertido puede tomar notas y procesar la información internamente antes de compartir sus ideas, mientras que un extrovertido puede hablar y discutir sus pensamientos de manera más directa. Es habitual sobre todo si lo tienen interiorizado que prefieran permanecer callados o en silencio que decir algo irrelevante o poco significativo.
+– Ante una situación estresante, un introvertido puede necesitar retirarse a un lugar tranquilo para reflexionar y recargarse, mientras que un extrovertido puede buscar apoyo y alivio al hablar con otras personas y compartir sus preocupaciones.
+Aunque cada tipo de personalidad tiene sus fortalezas y debilidades, es importante destacar que no hay una forma correcta o incorrecta de ser introvertido o extrovertido. Ambos tipos de personalidad pueden ser igualmente valiosos y exitosos en diferentes contextos.
+
+ 
+
+
+LA ENERGÍA Y LA TEORÍA DEL AROUSAL
+La teoría del arousal es una perspectiva psicológica que busca explicar las diferencias individuales en la búsqueda de estimulación y la respuesta a la misma. Según esta teoría, las personas tienen niveles óptimos de estimulación o activación que buscan mantener o alcanzar.
+En el contexto de la introversión y la extroversión, la teoría del arousal sugiere que las personas introvertidas y extrovertidas difieren en la forma en que responden y buscan la estimulación. Los introvertidos tienen un nivel óptimo de activación más bajo, lo que significa que se sienten más cómodos y funcionan mejor en situaciones menos estimulantes. Por otro lado, los extrovertidos tienen un nivel óptimo de activación más alto y buscan activamente situaciones y estímulos que les proporcionen una mayor excitación.
+Esta diferencia en la búsqueda de estimulación se refleja en las dimensiones de introversión y extroversión de la personalidad. La introversión se caracteriza por una mayor sensibilidad a la estimulación y una tendencia a evitar situaciones o entornos que puedan resultar abrumadores o agotadores. Los introvertidos pueden sentirse fácilmente saturados de estímulos sociales intensos y pueden necesitar tiempo a solas para recuperarse y recargar energías. Prefieren las interacciones más tranquilas y profundas, y pueden disfrutar de actividades que les permitan reflexionar y procesar internamente la información.
+Por otro lado, la extroversión se asocia con una menor sensibilidad al arousal y una mayor búsqueda de estímulos. Los extrovertidos tienden a sentirse más cómodos en entornos sociales y a buscar activamente la compañía de otras personas. Disfrutan de la estimulación social, encuentran energía en la interacción con los demás y se sienten más estimulados en situaciones sociales y enérgicas. Los extrovertidos suelen ser más habladores, expresivos y abiertos en la comunicación, y pueden ser más propensos a tomar riesgos y buscar nuevas experiencias.
+Es importante destacar que la introversión y la extroversión son dimensiones continuas, lo que significa que las personas pueden ubicarse en diferentes puntos del espectro en función de su nivel de introversión o extroversión. Además, no se trata de una dicotomía absoluta, ya que la mayoría de las personas tienen rasgos tanto introvertidos como extrovertidos en diferentes situaciones y contextos.
+En resumen, la teoría del arousal sugiere que las personas introvertidas y extrovertidas difieren en su nivel óptimo de activación y en su búsqueda de estimulación. La introversión se asocia con una mayor sensibilidad al arousal y una preferencia por entornos y actividades menos estimulantes, mientras que la extroversión se asocia con una menor sensibilidad al arousal y una mayor búsqueda de estímulos y experiencias sociales. Estas diferencias influyen en la forma en que las personas interactúan, procesan la información y recargan energías.
+
+ 
+
+
+EJERCICIOS PARA FLEXIBILIZAR INTROVERSIÓN Y EXTROVERSIÓN
+Como decían los clásicos la virtud está en el término medio entre dos vicios (o dos extremos). Una terapia o un proceso de coaching personal puede ayudar a flexibilizar nuestras tendencias hacia la introversión o la extroversión. A continuación os dejo unas ideas con ejercicios para suavizar o flexibilizar nuestra forma de ser. Para introvertidos que deseen vencer sus limitaciones y desarrollar habilidades sociales, aquí hay algunas sugerencias:
+1. Empieza de a poco: Comienza por pequeñas interacciones sociales, como hablar con un compañero de trabajo o un vecino. Con el tiempo, ve aumentando gradualmente el nivel de interacción.
+2. Busca ambientes cómodos: Elige espacios sociales que se ajusten a tus preferencias, como reuniones en grupos pequeños o actividades que te resulten interesantes.
+De esta manera, te sentirás más cómodo y podrás interactuar de manera más natural.
+3. Practica habilidades de conversación: Puedes practicar hablar en voz alta, hacer preguntas abiertas y escuchar atentamente a los demás. También es útil aprender a leer el lenguaje corporal y mantener el contacto visual durante las conversaciones.
+4. Aprovecha las redes sociales: Las redes sociales pueden ser una forma menos intimidante de interactuar con los demás. Participa en grupos en línea o plataformas que compartan tus intereses para establecer conexiones con personas afines.
+En cuanto a los extrovertidos que deseen realizar actividades más relacionadas con la introversión, aquí tienes algunas ideas:
+1. Tómate tiempo para la reflexión: Aunque los extrovertidos tienden a procesar información a través de la interacción, también pueden beneficiarse de la introspección. Dedica tiempo a reflexionar sobre tus experiencias y pensamientos de forma individual.
+2. Busca momentos de tranquilidad: Incluye en tu rutina momentos de calma y soledad, donde puedas recargar energías. Puedes leer un libro, meditar o disfrutar de un paseo tranquilo por la naturaleza.
+3. Practica la escucha activa: Aunque los extrovertidos tienden a ser habladores, aprender a escuchar activamente a los demás puede ayudarte a profundizar tus conexiones y comprender diferentes perspectivas.
+4. Realiza actividades creativas: La introversión a menudo se asocia con actividades creativas. Intenta explorar áreas como la escritura, la pintura, la música o la fotografía, donde puedas canalizar tus energías y expresarte de forma individual.
+Recuerda que la introversión y la extroversión son solo dos aspectos de la personalidad y cada individuo es único. Es importante respetar y comprender las preferencias de cada persona y permitirles expresarse y relacionarse de la manera que les resulte más cómoda.
+
+ 
+ 
+
+
+
+
+Tags:
+extroversión, introversión, ser extrovertido, ser introvertido 
+
+
+Share 
+
+
+Print page
+
+
+
+
+
+
+
+
+
+
+				Iñaki López			    
+
+ilopez@psicologiaenmadrid.es
+
+Psicólogo psicoterapeuta. Experto en intervención en trauma con EMDR y terapeuta de grupo. Experto en meditación. Más de 15 años de experiencia con población adulta e infantil en atención individual, de pareja y familiar. Acreditado como Psicólogo General Sanitario.
 --
-Psychologist and psychotherapist .Expert in trauma intervention with EMDR and group therapist. Meditation expert. More than 15 years of experience with adult and child populations in individual, couples and family care. Accredited as a General Health Psychologist.</p>
-					</div>
-							</div>
-		</div>
-	</div>
-</article>													<br><br>						                        </div>
-
-                    					</div>
-                                 </div>
-	
-
-
-				<div class="content_bottom">
-					</div>
-				
-	</div>
-</div>
+Psychologist and psychotherapist .Expert in trauma intervention with EMDR and group therapist. Meditation expert. More than 15 years of experience with adult and child populations in individual, couples and family care. Accredited as a General Health Psychologist.
 
 
 
-	<footer>
-		<div class="footer_inner clearfix">
-				<div class="footer_top_holder">
-                            <div style="background-color: #f2f6f9;height: 1px" class="footer_top_border "></div>
-            			<div class="footer_top">
-								<div class="container">
-					<div class="container_inner">
-																	<div class="four_columns clearfix">
-								<div class="column1 footer_col1">
-									<div class="column_inner">
-										<div id="block-26" class="widget widget_block widget_recent_entries"><ul class="wp-block-latest-posts__list has-dates has-author wp-block-latest-posts"><li><a class="wp-block-latest-posts__post-title" href="https://www.psicologiaenmadrid.es/therapy-in-madrid-in-english/">Therapy in Madrid (in English)</a><div class="wp-block-latest-posts__post-author">por Iñaki López</div><time datetime="2024-02-06T23:45:32+01:00" class="wp-block-latest-posts__post-date">6 febrero, 2024</time></li>
-<li><a class="wp-block-latest-posts__post-title" href="https://www.psicologiaenmadrid.es/mejora-el-sueno-con-estas-pautas-para-dormir/">Mejora el sueño con estas 11 pautas para dormir</a><div class="wp-block-latest-posts__post-author">por Iñaki López</div><time datetime="2024-01-23T16:34:50+01:00" class="wp-block-latest-posts__post-date">23 enero, 2024</time></li>
-</ul></div>									</div>
-								</div>
-								<div class="column2 footer_col2">
-									<div class="column_inner">
-										<span class="q_social_icon_holder circle_social" data-color="#389090" data-hover-background-color="gray" data-hover-border-color="gray" data-hover-color="white"><a href="https://www.linkedin.com/company/ia-psy/" target="_self"><span class="fa-stack " style="background-color: white;border-color: #389090;border-width: 1px;font-size: 28px;"><i class="qode_icon_font_awesome fa fa-linkedin " style="color: #389090;font-size: 27px;"></i></span></a></span><span class="q_social_icon_holder circle_social" data-color="#389090" data-hover-background-color="gray" data-hover-border-color="gray" data-hover-color="white"><a href="https://instagram.com/psimadrid" target="_self"><span class="fa-stack " style="background-color: white;border-color: #389090;border-width: 1px;font-size: 28px;"><i class="qode_icon_font_awesome fa fa-instagram " style="color: #389090;font-size: 27px;"></i></span></a></span>									</div>
-								</div>
-								<div class="column3 footer_col3">
-									<div class="column_inner">
-										<div id="block-19" class="widget widget_block"><div class="saswp-r"><div class="saswp-r3"><ul style="list-style-type: none;"><li><a target="_blank" href="https://search.google.com/local/reviews?placeid=ChIJRT51oPUoQg0R__eEp_nMnFg"><div class="saswp-r3-lg"><span><img alt="Google" src="https://www.psicologiaenmadrid.es/wp-content/plugins/schema-and-structured-data-for-wp/admin_section/images/reviews_platform_icon/google-img.png"></span><span class="saswp-r3-tlt">Google</span></div><div class="saswp-r3-rtng"><div class="saswp-r3-rtxt"><span class="saswp-r3-num">5.0</span><span class="saswp-stars saswp-badge"><div class="saswp-rvw-str"><span class="saswp_star_color"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18px" viewBox="0 0 32 32"><defs><linearGradient id="grad219097245"><stop offset="100%" class="saswp_star" stop-color="/"><stop offset="100%" stop-color="grey"></stop></stop></linearGradient></defs><path fill="url(#grad219097245)" d="M20.388,10.918L32,12.118l-8.735,7.749L25.914,31.4l-9.893-6.088L6.127,31.4l2.695-11.533L0,12.118 l11.547-1.2L16.026,0.6L20.388,10.918z"></path></svg></span><span class="saswp_star_color"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18px" viewBox="0 0 32 32"><defs><linearGradient id="grad219096838"><stop offset="100%" class="saswp_star" stop-color="/"><stop offset="100%" stop-color="grey"></stop></stop></linearGradient></defs><path fill="url(#grad219096838)" d="M20.388,10.918L32,12.118l-8.735,7.749L25.914,31.4l-9.893-6.088L6.127,31.4l2.695-11.533L0,12.118 l11.547-1.2L16.026,0.6L20.388,10.918z"></path></svg></span><span class="saswp_star_color"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18px" viewBox="0 0 32 32"><defs><linearGradient id="grad219095986"><stop offset="100%" class="saswp_star" stop-color="/"><stop offset="100%" stop-color="grey"></stop></stop></linearGradient></defs><path fill="url(#grad219095986)" d="M20.388,10.918L32,12.118l-8.735,7.749L25.914,31.4l-9.893-6.088L6.127,31.4l2.695-11.533L0,12.118 l11.547-1.2L16.026,0.6L20.388,10.918z"></path></svg></span><span class="saswp_star_color"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18px" viewBox="0 0 32 32"><defs><linearGradient id="grad219092514"><stop offset="100%" class="saswp_star" stop-color="/"><stop offset="100%" stop-color="grey"></stop></stop></linearGradient></defs><path fill="url(#grad219092514)" d="M20.388,10.918L32,12.118l-8.735,7.749L25.914,31.4l-9.893-6.088L6.127,31.4l2.695-11.533L0,12.118 l11.547-1.2L16.026,0.6L20.388,10.918z"></path></svg></span><span class="saswp_star_color"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18px" viewBox="0 0 32 32"><defs><linearGradient id="grad219091232"><stop offset="100%" class="saswp_star" stop-color="/"><stop offset="100%" stop-color="grey"></stop></stop></linearGradient></defs><path fill="url(#grad219091232)" d="M20.388,10.918L32,12.118l-8.735,7.749L25.914,31.4l-9.893-6.088L6.127,31.4l2.695-11.533L0,12.118 l11.547-1.2L16.026,0.6L20.388,10.918z"></path></svg></span></div></span></div><span class="saswp-r3-brv">Basado en 17 Reviews</span></div></a></li></ul></div></div></div>									</div>
-								</div>
-								<div class="column4 footer_col4">
-									<div class="column_inner">
-										<div id="block-51" class="widget widget_block"><div><a href="https://www.psicologiaenmadrid.es/"></a><img decoding="async" class="footer_logo" src="https://www.psicologiaenmadrid.es/wp-content/uploads/i_a_psicologos_logo2024_web1.png" width="206" alt="i&amp;a Psicologos Madrid"></div></div><div id="block-50" class="widget widget_block"><h4><a href="https://www.psicologiaenmadrid.es/donde-estamos-madrid/" title="IA Psicólogos Madrid Mirasierra">C/ de la Costa Brava 8<br>
-28034, Madrid, España</a></h4>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Therapy in Madrid (in English)por Iñaki López6 febrero, 2024
+Mejora el sueño con estas 11 pautas para dormirpor Iñaki López23 enero, 2024
+ 
+
+
+
+ 
+
+
+
+Google5.0Basado en 17 Reviews 
+
+
+
+C/ de la Costa Brava 8
+28034, Madrid, España
 Lunes - Viernes | 10h—20h
-<div class="separator  transparent center  " style="margin-top: 5px;margin-bottom: 5px;"></div>
 
-<div class="custom_font_holder" style="font-family: 'Arial', sans-serif; font-size: 1em; font-weight: 200;"><a href="tel:+34-637455833" title="Llame"><i class="fa fa-phone"></i> (+34) 637 455 833</a>
-<p><a href="https://wa.me/message/PIGVT4GCH3CNH1" title="WhatsApp"><i class="fa fa-whatsapp"></i> WhatsApp</a></p></div></div>									</div>
-								</div>
-							</div>
-															</div>
-				</div>
-							</div>
-					</div>
-							<div class="footer_bottom_holder">
-                								<div class="container">
-					<div class="container_inner">
-										<div class="three_columns footer_bottom_columns clearfix">
-					<div class="column1 footer_bottom_column">
-						<div class="column_inner">
-							<div class="footer_bottom">
-								<h5 style:"text-align:="" center"=""><a title="Privacidad, uso de esta web y protección de datos" href="https://www.psicologiaenmadrid.es/proteccion-de-datos-y-uso-de-esta-web/">Privacidad y condiciones de uso</a><a title="Privacidad, uso de esta web y protección de datos" href="https://www.psicologiaenmadrid.es/proteccion-de-datos-y-uso-de-esta-web/">
-</a></h5><h5>							</h5></div>
-						</div>
-					</div>
-					<div class="column2 footer_bottom_column">
-						<div class="column_inner">
-							<div class="footer_bottom">
-								<h5 style:"text-align:="" center"=""><a title="IA Psicólogos Madrid" href="https://www.psicologiaenmadrid.es/">IA Psicólogos Madrid 2002-2024</a></h5>							</div>
-						</div>
-					</div>
-					<div class="column3 footer_bottom_column">
-						<div class="column_inner">
-							<div class="footer_bottom">
-															</div>
-						</div>
-					</div>
-				</div>
-									</div>
-			</div>
-						</div>
-				</div>
-	</footer>
-		
-</div>
-</div>
-<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true" style="background-color: rgb(210, 220, 221); color: rgb(0, 89, 117); font-family: inherit; bottom: 0px; position: fixed; display: block;"><span>Esta web utiliza cookies para mejorar la experiencia de navegación. Asumimos que estás de acuerdo con nuestra política si sigues navegando. <a role="button" data-cli_action="accept" id="cookie_action_close_header" class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button wt-cli-accept-btn" style="color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">Acepto</a> <a href="https://www.psicologiaenmadrid.es/proteccion-de-datos-y-uso-de-esta-web/" id="CONSTANT_OPEN_URL" class="cli-plugin-main-link" style="color: rgb(36, 180, 191);">Saber más</a></span></div><div id="cookie-law-info-again" data-nosnippet="true" style="background-color: rgb(210, 220, 221); color: rgb(0, 89, 117); position: fixed; font-family: inherit; width: auto; bottom: 0px; right: 100px; display: none;"><span id="cookie_hdr_showagain">Política de Cookies y Privacidad</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
-  <div class="cli-modal-dialog" role="document">
-	<div class="cli-modal-content cli-bar-popup">
-		  <button type="button" class="cli-modal-close" id="cliModalClose">
-			<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
-			<span class="wt-cli-sr-only">Close</span>
-		  </button>
-		  <div class="cli-modal-body">
-			<div class="cli-container-fluid cli-tab-container">
-	<div class="cli-row">
-		<div class="cli-col-12 cli-align-items-stretch cli-px-0">
-			<div class="cli-privacy-overview">
-				<h4>Privacy Overview</h4>				<div class="cli-privacy-content">
-					<div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the ...</div>
-				</div>
-				<a class="cli-privacy-readmore" aria-label="Show more" role="button" data-readmore-text="Show more" data-readless-text="Show less"></a>			</div>
-		</div>
-		<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
-												<div class="cli-tab-section">
-						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
-								Necessary							</a>
-															<div class="wt-cli-necessary-checkbox">
-									<input type="checkbox" class="cli-user-preference-checkbox" id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked">
-									<label class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label>
-								</div>
-								<span class="cli-necessary-caption">Always Enabled</span>
-													</div>
-						<div class="cli-tab-content">
-							<div class="cli-tab-pane cli-fade" data-id="necessary">
-								<div class="wt-cli-cookie-description">
-									Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.								</div>
-							</div>
-						</div>
-					</div>
-																	<div class="cli-tab-section">
-						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="non-necessary" data-toggle="cli-toggle-tab">
-								Non-necessary							</a>
-															<div class="cli-switch">
-									<input type="checkbox" id="wt-cli-checkbox-non-necessary" class="cli-user-preference-checkbox" data-id="checkbox-non-necessary" checked="checked">
-									<label for="wt-cli-checkbox-non-necessary" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Non-necessary</span></label>
-								</div>
-													</div>
-						<div class="cli-tab-content">
-							<div class="cli-tab-pane cli-fade" data-id="non-necessary">
-								<div class="wt-cli-cookie-description">
-									Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.								</div>
-							</div>
-						</div>
-					</div>
-										</div>
-	</div>
-</div>
-		  </div>
-		  <div class="cli-modal-footer">
-			<div class="wt-cli-element cli-container-fluid cli-tab-container">
-				<div class="cli-row">
-					<div class="cli-col-12 cli-align-items-stretch cli-px-0">
-						<div class="cli-tab-footer wt-cli-privacy-overview-actions">
-						
-															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">SAVE &amp; ACCEPT</a>
-													</div>
-						
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
-<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
-<!--googleon: all--><!-- Instagram Feed JS -->
-<script type="text/javascript">
-var sbiajaxurl = "https://www.psicologiaenmadrid.es/wp-admin/admin-ajax.php";
-</script>
+ (+34) 637 455 833
+ WhatsApp 
 
-<!-- Schema & Structured Data For WP v1.26 - -->
-<script type="application/ld+json" class="saswp-schema-markup-output">
-[{
-    "@context": "https://schema.org/",
-    "@graph": [
-        {
-            "@type": "MedicalOrganization",
-            "@id": "https://www.psicologiaenmadrid.es#Organization",
-            "name": "Psicólogo en Madrid, psicología en Madrid",
-            "url": "https://www.psicologiaenmadrid.es/",
-            "sameAs": [
-                "https://www.facebook.com/psicologiaenmadrid.coaching",
-                "https://twitter.com/PsicologosMadri",
-                "https://www.linkedin.com/company/psicologo-madrid",
-                "https://www.instagram.com/psimadrid/",
-                "https://www.pinterest.es/psicologo_madrid/",
-                "https://wa.me/34637455833",
-                "https://g.page/r/Cf_3hKf5zJxYEAE"
-            ],
-            "contactPoint": {
-                "@type": "ContactPoint",
-                "contactType": "reservations",
-                "telephone": "+34637455833",
-                "url": "https://www.psicologiaenmadrid.es/pide-cita-psicologo-madrid/"
-            }
-        },
-        {
-            "@type": "WebSite",
-            "@id": "https://www.psicologiaenmadrid.es#website",
-            "headline": "i&amp;a Psicólogos",
-            "name": "i&amp;a Psicólogos",
-            "description": "Psicología y psicoterapia en Madrid y online",
-            "url": "https://www.psicologiaenmadrid.es",
-            "potentialAction": {
-                "@type": "SearchAction",
-                "target": "https://www.psicologiaenmadrid.es?s={search_term_string}",
-                "query-input": "required name=search_term_string"
-            },
-            "publisher": {
-                "@id": "https://www.psicologiaenmadrid.es#Organization"
-            }
-        },
-        {
-            "@context": "https://schema.org/",
-            "@type": "WebPage",
-            "@id": "https://www.psicologiaenmadrid.es/diferencias-entre-introversion-y-extroversion/#webpage",
-            "name": "Diferencias entre introversión y extroversión",
-            "url": "https://www.psicologiaenmadrid.es/diferencias-entre-introversion-y-extroversion/",
-            "lastReviewed": "2023-08-10T09:30:53+01:00",
-            "dateCreated": "2023-08-07T10:00:41+01:00",
-            "inLanguage": "es",
-            "description": "La introversión y la extroversión son dos dimensiones de la personalidad que describen las diferencias en la forma en que las personas obtienen y dirigen su activación o energía, según la teoría del arousal en psicología. Estas características influyen en la manera en que interactuamos con los demás, cómo procesamos la información y cómo manejamos el equilibrio entre estas energías o formas de activarnos. Aunque la mayoría de las personas tienen rasgos tanto introvertidos como extrovertidos, cada individuo tiende a inclinarse hacia uno de los extremos. Veamos estos extremos.",
-            "reviewedBy": {
-                "@type": "Organization",
-                "name": "Psicólogo en Madrid, psicología en Madrid",
-                "url": "https://www.psicologiaenmadrid.es/"
-            },
-            "primaryImageOfPage": {
-                "@id": "https://www.psicologiaenmadrid.es/diferencias-entre-introversion-y-extroversion/#primaryimage"
-            },
-            "mainContentOfPage": [
-                [
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "PSICÓLOGOS",
-                        "url": "https://www.psicologiaenmadrid.es/nuestros-psicologos-madrid/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Cómo trabajamos",
-                        "url": "https://www.psicologiaenmadrid.es/nuestros-psicologos-madrid/como-trabajamos/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Andrea Navarrete",
-                        "url": "https://www.psicologiaenmadrid.es/nuestros-psicologos-madrid/andrea-navarrete-psicologa/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Artículos",
-                        "url": "https://www.psicologiaenmadrid.es/author/andrea-navarrete/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Iñaki López",
-                        "url": "https://www.psicologiaenmadrid.es/nuestros-psicologos-madrid/inaki-lopez-psicologo/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Artículos",
-                        "url": "https://www.psicologiaenmadrid.es/author/ilopez/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Psicoterapia",
-                        "url": "https://www.psicologiaenmadrid.es/terapias-servicios-psicologos-madrid/psicoterapia/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Ansiedad y estrés",
-                        "url": "https://www.psicologiaenmadrid.es/terapias-servicios-psicologos-madrid/#expertos-ansiedad-estres"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Trauma Psicológico",
-                        "url": "https://www.psicologiaenmadrid.es/que-es-el-trauma-psicologico/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Depresión",
-                        "url": "https://www.psicologiaenmadrid.es/terapias-servicios-psicologos-madrid/depresion/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Enfermedad crónica",
-                        "url": "https://www.psicologiaenmadrid.es/area/enfermedad-cronica/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Terapia EMDR",
-                        "url": "https://www.psicologiaenmadrid.es/como-es-la-terapia-emdr/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Otras TERAPIAS",
-                        "url": "https://www.psicologiaenmadrid.es/terapias-servicios-psicologos-madrid/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Therapy in Madrid (in English)",
-                        "url": "https://www.psicologiaenmadrid.es/therapy-in-madrid-in-english/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Coaching y Talleres",
-                        "url": "https://www.psicologiaenmadrid.es/area/psicologo-talleres/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Coaching",
-                        "url": "https://www.coaching.madrid/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Cuidar al cuidador",
-                        "url": "https://www.psicologiaenmadrid.es/taller-cuidar-al-cuidador/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Estrés laboral",
-                        "url": "https://www.psicologiaenmadrid.es/estres-laboral/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Relajación",
-                        "url": "https://www.psicologiaenmadrid.es/taller-de-relajacion/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Autoestima: aprendiendo a quererme bien",
-                        "url": "https://www.psicologiaenmadrid.es/autoestima/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Habilidades sociales y de comunicación",
-                        "url": "https://www.psicologiaenmadrid.es/taller-habilidades-sociales-y-comunicacion/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Auto-regulación – Inteligencia emocional",
-                        "url": "https://www.psicologiaenmadrid.es/taller-grupal-autoregulacion-inteligencia-emocional/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Estrategias para mejorar nuestro rendimiento en los estudios",
-                        "url": "https://www.psicologiaenmadrid.es/taller-grupal-estrategias-para-mejorar-nuestro-rendimiento-en-los-estudios/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "CITA",
-                        "url": "https://www.psicologiaenmadrid.es/pide-cita-psicologo-madrid/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Psicólogo Presencial Madrid - Mirasierra – Montecarmelo",
-                        "url": "https://www.psicologiaenmadrid.es/donde-estamos-madrid/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Psicólogo por teléfono y videollamada",
-                        "url": "https://www.psicologiaenmadrid.es/pide-cita-psicologo-madrid/psicologo-telefono-videollamada/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "PRECIOS",
-                        "url": "https://www.psicologiaenmadrid.es/psicologo-madrid-precio/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Terapia para tod@s",
-                        "url": "https://www.psicologiaenmadrid.es/psicologo-madrid-precio/terapia-para-todos/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "RECURSOS",
-                        "url": "https://www.psicologiaenmadrid.es/info-y-recursos/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Cuándo acudir al psicólogo",
-                        "url": "https://www.psicologiaenmadrid.es/cuando-acudir-al-psicologo/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Qué es una Terapia",
-                        "url": "https://www.psicologiaenmadrid.es/que-es-una-terapia/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Elegir psicólogo",
-                        "url": "https://www.psicologiaenmadrid.es/area/elegir-psicologo/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Ansiedad",
-                        "url": "https://www.psicologiaenmadrid.es/area/ansiedad-psicologo-madrid/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Autoestima",
-                        "url": "https://www.psicologiaenmadrid.es/area/autoestima-2/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Depresión",
-                        "url": "https://www.psicologiaenmadrid.es/area/depresion-psicologo-madrid/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "Meditación",
-                        "url": "https://www.psicologiaenmadrid.es/area/relajacion-blog/"
-                    },
-                    {
-                        "@context": "https://schema.org/",
-                        "@type": "SiteNavigationElement",
-                        "@id": "https://www.psicologiaenmadrid.es#psicologomadrid_movil",
-                        "name": "EMDR",
-                        "url": "https://www.psicologiaenmadrid.es/area/las-terapias/emdr/"
-                    }
-                ]
-            ],
-            "isPartOf": {
-                "@id": "https://www.psicologiaenmadrid.es#website"
-            }
-        },
-        {
-            "@type": "Article",
-            "@id": "https://www.psicologiaenmadrid.es/diferencias-entre-introversion-y-extroversion/#Article",
-            "url": "https://www.psicologiaenmadrid.es/diferencias-entre-introversion-y-extroversion/",
-            "inLanguage": "es",
-            "mainEntityOfPage": "https://www.psicologiaenmadrid.es/diferencias-entre-introversion-y-extroversion/#webpage",
-            "headline": "Diferencias entre introversión y extroversión",
-            "description": "La introversión y la extroversión son dos dimensiones de la personalidad que describen las diferencias en la forma en que las personas obtienen y dirigen su activación o energía, según la teoría del arousal en psicología. Estas características influyen en la manera en que interactuamos con los demás, cómo procesamos la información y cómo manejamos el equilibrio entre estas energías o formas de activarnos. Aunque la mayoría de las personas tienen rasgos tanto introvertidos como extrovertidos, cada individuo tiende a inclinarse hacia uno de los extremos. Veamos estos extremos.",
-            "articleBody": "La introversión y la extroversión son dos dimensiones de la personalidad que describen las diferencias en la forma en que las personas obtienen y dirigen su activación o energía, según la teoría del arousal en psicología. Estas características influyen en la manera en que interactuamos con los demás, cómo procesamos la información y cómo manejamos el equilibrio entre estas energías o formas de activarnos. Aunque la mayoría de las personas tienen rasgos tanto introvertidos como extrovertidos, cada individuo tiende a inclinarse hacia uno de los extremos. Veamos estos extremos:    La introversión se caracteriza por un enfoque hacia el mundo interno. Los introvertidos obtienen su energía de su mundo interior, a través de la reflexión, la introspección y la concentración en sus propios pensamientos y sentimientos. Prefieren pasar tiempo a solas o en compañía de un pequeño grupo de personas cercanas. Los introvertidos suelen ser más reservados y tienden a procesar información internamente antes de expresar sus ideas.    Por otro lado, la extroversión se caracteriza por un enfoque hacia el mundo externo. Los extrovertidos obtienen su energía de interactuar con el entorno y las personas que los rodean. Les gusta estar rodeados de otras personas y se sienten más estimulados en entornos sociales. Los extrovertidos tienden a ser habladores, expresivos y abiertos en la comunicación. Suelen procesar la información a través de la interacción y la discusión con los demás.    Es importante tener en cuenta que la introversión y la extroversión no se limitan únicamente a la forma en que interactuamos socialmente. También influyen en cómo nos recargamos energéticamente y cómo nos enfrentamos a diversas situaciones de la vida (ver el cuadro lateral). A continuación, se presentan algunos ejemplos para ilustrar las diferencias entre ambos rasgos:    - Una persona introvertida puede preferir leer un libro o pasar tiempo en casa, disfrutando de actividades solitarias como la escritura o la pintura. Mientras tanto, una persona extrovertida puede buscar constantemente la compañía de otras personas y disfrutar de actividades sociales como fiestas o eventos.    - En una reunión de trabajo, un introvertido puede tomar notas y procesar la información internamente antes de compartir sus ideas, mientras que un extrovertido puede hablar y discutir sus pensamientos de manera más directa. Es habitual sobre todo si lo tienen interiorizado que prefieran permanecer callados o en silencio que decir algo irrelevante o poco significativo.    - Ante una situación estresante, un introvertido puede necesitar retirarse a un lugar tranquilo para reflexionar y recargarse, mientras que un extrovertido puede buscar apoyo y alivio al hablar con otras personas y compartir sus preocupaciones.    Aunque cada tipo de personalidad tiene sus fortalezas y debilidades, es importante destacar que no hay una forma correcta o incorrecta de ser introvertido o extrovertido. Ambos tipos de personalidad pueden ser igualmente valiosos y exitosos en diferentes contextos.  LA ENERGÍA Y LA TEORÍA DEL AROUSAL  La teoría del arousal es una perspectiva psicológica que busca explicar las diferencias individuales en la búsqueda de estimulación y la respuesta a la misma. Según esta teoría, las personas tienen niveles óptimos de estimulación o activación que buscan mantener o alcanzar.  En el contexto de la introversión y la extroversión, la teoría del arousal sugiere que las personas introvertidas y extrovertidas difieren en la forma en que responden y buscan la estimulación. Los introvertidos tienen un nivel óptimo de activación más bajo, lo que significa que se sienten más cómodos y funcionan mejor en situaciones menos estimulantes. Por otro lado, los extrovertidos tienen un nivel óptimo de activación más alto y buscan activamente situaciones y estímulos que les proporcionen una mayor excitación.  Esta diferencia en la búsqueda de estimulación se refleja en las dimensiones de introversión y extroversión de la personalidad. La introversión se caracteriza por una mayor sensibilidad a la estimulación y una tendencia a evitar situaciones o entornos que puedan resultar abrumadores o agotadores. Los introvertidos pueden sentirse fácilmente saturados de estímulos sociales intensos y pueden necesitar tiempo a solas para recuperarse y recargar energías. Prefieren las interacciones más tranquilas y profundas, y pueden disfrutar de actividades que les permitan reflexionar y procesar internamente la información.  Por otro lado, la extroversión se asocia con una menor sensibilidad al arousal y una mayor búsqueda de estímulos. Los extrovertidos tienden a sentirse más cómodos en entornos sociales y a buscar activamente la compañía de otras personas. Disfrutan de la estimulación social, encuentran energía en la interacción con los demás y se sienten más estimulados en situaciones sociales y enérgicas. Los extrovertidos suelen ser más habladores, expresivos y abiertos en la comunicación, y pueden ser más propensos a tomar riesgos y buscar nuevas experiencias.  Es importante destacar que la introversión y la extroversión son dimensiones continuas, lo que significa que las personas pueden ubicarse en diferentes puntos del espectro en función de su nivel de introversión o extroversión. Además, no se trata de una dicotomía absoluta, ya que la mayoría de las personas tienen rasgos tanto introvertidos como extrovertidos en diferentes situaciones y contextos.  En resumen, la teoría del arousal sugiere que las personas introvertidas y extrovertidas difieren en su nivel óptimo de activación y en su búsqueda de estimulación. La introversión se asocia con una mayor sensibilidad al arousal y una preferencia por entornos y actividades menos estimulantes, mientras que la extroversión se asocia con una menor sensibilidad al arousal y una mayor búsqueda de estímulos y experiencias sociales. Estas diferencias influyen en la forma en que las personas interactúan, procesan la información y recargan energías.  EJERCICIOS PARA FLEXIBILIZAR INTROVERSIÓN Y EXTROVERSIÓN    Como decían los clásicos la virtud está en el término medio entre dos vicios (o dos extremos). Una terapia o un proceso de coaching personal puede ayudar a flexibilizar nuestras tendencias hacia la introversión o la extroversión. A continuación os dejo unas ideas con ejercicios para suavizar o flexibilizar nuestra forma de ser. Para introvertidos que deseen vencer sus limitaciones y desarrollar habilidades sociales, aquí hay algunas sugerencias:    1. Empieza de a poco: Comienza por pequeñas interacciones sociales, como hablar con un compañero de trabajo o un vecino. Con el tiempo, ve aumentando gradualmente el nivel de interacción.    2. Busca ambientes cómodos: Elige espacios sociales que se ajusten a tus preferencias, como reuniones en grupos pequeños o actividades que te resulten interesantes.    De esta manera, te sentirás más cómodo y podrás interactuar de manera más natural.    3. Practica habilidades de conversación: Puedes practicar hablar en voz alta, hacer preguntas abiertas y escuchar atentamente a los demás. También es útil aprender a leer el lenguaje corporal y mantener el contacto visual durante las conversaciones.    4. Aprovecha las redes sociales: Las redes sociales pueden ser una forma menos intimidante de interactuar con los demás. Participa en grupos en línea o plataformas que compartan tus intereses para establecer conexiones con personas afines.    En cuanto a los extrovertidos que deseen realizar actividades más relacionadas con la introversión, aquí tienes algunas ideas:    1. Tómate tiempo para la reflexión: Aunque los extrovertidos tienden a procesar información a través de la interacción, también pueden beneficiarse de la introspección. Dedica tiempo a reflexionar sobre tus experiencias y pensamientos de forma individual.    2. Busca momentos de tranquilidad: Incluye en tu rutina momentos de calma y soledad, donde puedas recargar energías. Puedes leer un libro, meditar o disfrutar de un paseo tranquilo por la naturaleza.    3. Practica la escucha activa: Aunque los extrovertidos tienden a ser habladores, aprender a escuchar activamente a los demás puede ayudarte a profundizar tus conexiones y comprender diferentes perspectivas.    4. Realiza actividades creativas: La introversión a menudo se asocia con actividades creativas. Intenta explorar áreas como la escritura, la pintura, la música o la fotografía, donde puedas canalizar tus energías y expresarte de forma individual.    Recuerda que la introversión y la extroversión son solo dos aspectos de la personalidad y cada individuo es único. Es importante respetar y comprender las preferencias de cada persona y permitirles expresarse y relacionarse de la manera que les resulte más cómoda.",
-            "keywords": "extroversión, introversión, ser extrovertido, ser introvertido, ",
-            "datePublished": "2023-08-07T10:00:41+01:00",
-            "dateModified": "2023-08-10T09:30:53+01:00",
-            "author": {
-                "@type": "Person",
-                "name": "Iñaki López",
-                "description": "Psicólogo psicoterapeuta. Experto en intervención en trauma con EMDR y terapeuta de grupo. Experto en meditación. Más de 15 años de experiencia con población adulta e infantil en atención individual, de pareja y familiar. Acreditado como Psicólogo General Sanitario.\r\n--\r\nPsychologist and psychotherapist .Expert in trauma intervention with EMDR and group therapist. Meditation expert. More than 15 years of experience with adult and child populations in individual, couples and family care. Accredited as a General Health Psychologist.",
-                "url": "https://www.psicologiaenmadrid.es/author/ilopez/",
-                "sameAs": [
-                    "https://www.psicologomadrid.org",
-                    "https://www.facebook.com/psicologomadrid",
-                    "https://www.linkedin.com/in/ilopezrivera/",
-                    "https://www.pinterest.es/psicologo_madrid/"
-                ],
-                "image": {
-                    "@type": "ImageObject",
-                    "url": "https://secure.gravatar.com/avatar/7feb9d52151450ce0531a9b4231fd094?s=96&d=blank&r=r",
-                    "height": 96,
-                    "width": 96
-                }
-            },
-            "editor": {
-                "@type": "Person",
-                "name": "Iñaki López",
-                "description": "Psicólogo psicoterapeuta. Experto en intervención en trauma con EMDR y terapeuta de grupo. Experto en meditación. Más de 15 años de experiencia con población adulta e infantil en atención individual, de pareja y familiar. Acreditado como Psicólogo General Sanitario.\r\n--\r\nPsychologist and psychotherapist .Expert in trauma intervention with EMDR and group therapist. Meditation expert. More than 15 years of experience with adult and child populations in individual, couples and family care. Accredited as a General Health Psychologist.",
-                "url": "https://www.psicologiaenmadrid.es/author/ilopez/",
-                "sameAs": [
-                    "https://www.psicologomadrid.org",
-                    "https://www.facebook.com/psicologomadrid",
-                    "https://www.linkedin.com/in/ilopezrivera/",
-                    "https://www.pinterest.es/psicologo_madrid/"
-                ],
-                "image": {
-                    "@type": "ImageObject",
-                    "url": "https://secure.gravatar.com/avatar/7feb9d52151450ce0531a9b4231fd094?s=96&d=blank&r=r",
-                    "height": 96,
-                    "width": 96
-                }
-            },
-            "publisher": {
-                "@id": "https://www.psicologiaenmadrid.es#Organization"
-            },
-            "knowsAbout": null,
-            "image": [
-                {
-                    "@type": "ImageObject",
-                    "@id": "https://www.psicologiaenmadrid.es/diferencias-entre-introversion-y-extroversion/#primaryimage",
-                    "url": "https://www.psicologiaenmadrid.es/wp-content/uploads/schema-and-structured-data-for-wp/introversion_extroversion-1200x1200.jpg",
-                    "width": "1200",
-                    "height": "1200"
-                },
-                {
-                    "@type": "ImageObject",
-                    "url": "https://www.psicologiaenmadrid.es/wp-content/uploads/schema-and-structured-data-for-wp/introversion_extroversion-1200x900.jpg",
-                    "width": "1200",
-                    "height": "900"
-                },
-                {
-                    "@type": "ImageObject",
-                    "url": "https://www.psicologiaenmadrid.es/wp-content/uploads/schema-and-structured-data-for-wp/introversion_extroversion-1200x675.jpg",
-                    "width": "1200",
-                    "height": "675"
-                },
-                {
-                    "@type": "ImageObject",
-                    "url": "https://www.psicologiaenmadrid.es/wp-content/uploads/introversion-1024x512.jpg",
-                    "width": 1024,
-                    "height": 512
-                },
-                {
-                    "@type": "ImageObject",
-                    "url": "https://www.psicologiaenmadrid.es/wp-content/uploads/extroversion-1024x512.jpg",
-                    "width": 1024,
-                    "height": 512
-                }
-            ],
-            "isPartOf": {
-                "@id": "https://www.psicologiaenmadrid.es/diferencias-entre-introversion-y-extroversion/#webpage"
-            }
-        }
-    ]
-},
 
-{
-    "@context": "https://schema.org/",
-    "@type": "professionalservice",
-    "@id": "LocalBusiness",
-    "url": "https://www.psicologiaenmadrid.es/saswp/local_business/",
-    "name": "IA Psicólogos Madrid",
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "5",
-        "reviewCount": "17"
-    },
-    "review": [
-        {
-            "@type": "Review",
-            "author": {
-                "@type": "Person",
-                "name": "john dow"
-            },
-            "datePublished": "2016-03-16 00:00:00",
-            "description": "El mejor psicólogo en Madrid que conozco. Cambió mi impresión sobre los psicólogos y la ayuda que pueden prestar a las personas. Muy recomendable. En este centro hay varios.",
-            "reviewRating": {
-                "@type": "Rating",
-                "bestRating": 5,
-                "ratingValue": "5",
-                "worstRating": 1
-            }
-        },
-        {
-            "@type": "Review",
-            "author": {
-                "@type": "Person",
-                "name": "Marta de Miguel Zamora"
-            },
-            "datePublished": "2020-03-16 00:00:00",
-            "description": "",
-            "reviewRating": {
-                "@type": "Rating",
-                "bestRating": 5,
-                "ratingValue": "5",
-                "worstRating": 1
-            }
-        },
-        {
-            "@type": "Review",
-            "author": {
-                "@type": "Person",
-                "name": "carolina cañizal"
-            },
-            "datePublished": "2020-03-16 00:00:00",
-            "description": "",
-            "reviewRating": {
-                "@type": "Rating",
-                "bestRating": 5,
-                "ratingValue": "5",
-                "worstRating": 1
-            }
-        },
-        {
-            "@type": "Review",
-            "author": {
-                "@type": "Person",
-                "name": "Cristina CVD"
-            },
-            "datePublished": "2020-03-16 00:00:00",
-            "description": "",
-            "reviewRating": {
-                "@type": "Rating",
-                "bestRating": 5,
-                "ratingValue": "5",
-                "worstRating": 1
-            }
-        },
-        {
-            "@type": "Review",
-            "author": {
-                "@type": "Person",
-                "name": "Chuty Lois"
-            },
-            "datePublished": "2020-03-16 00:00:00",
-            "description": "Personal cercano con empatia. Muy profesional y cariñoso.Te transmiten confianza y seguridad en ti misma, haciéndote sentir bien.Totalmente recomendables. Ojalá hubiera más profesionales de tu talla.",
-            "reviewRating": {
-                "@type": "Rating",
-                "bestRating": 5,
-                "ratingValue": "5",
-                "worstRating": 1
-            }
-        },
-        {
-            "@type": "Review",
-            "author": {
-                "@type": "Person",
-                "name": "MC RP"
-            },
-            "datePublished": "2020-03-16 00:00:00",
-            "description": "Trato muy agradable y profesional. Desde el minuto uno sabes que tienes a alguien de tu lado y que las cosas pueden mejorar.",
-            "reviewRating": {
-                "@type": "Rating",
-                "bestRating": 5,
-                "ratingValue": "5",
-                "worstRating": 1
-            }
-        },
-        {
-            "@type": "Review",
-            "author": {
-                "@type": "Person",
-                "name": "Jose Sanchez"
-            },
-            "datePublished": "2021-03-16 00:00:00",
-            "description": "",
-            "reviewRating": {
-                "@type": "Rating",
-                "bestRating": 5,
-                "ratingValue": "5",
-                "worstRating": 1
-            }
-        },
-        {
-            "@type": "Review",
-            "author": {
-                "@type": "Person",
-                "name": "JOSE GIL"
-            },
-            "datePublished": "2021-03-16 00:00:00",
-            "description": "En estos meses de alarma y confinamiento, miedo por la salud y a perder el trabajo, más la irritación, crispación y exasperación política en general, he encontrado la línea del equilibrio a seguir a través de este equipo de Psicólogo en Madrid. La mejor medicina natural para subsistir.",
-            "reviewRating": {
-                "@type": "Rating",
-                "bestRating": 5,
-                "ratingValue": "5",
-                "worstRating": 1
-            }
-        },
-        {
-            "@type": "Review",
-            "author": {
-                "@type": "Person",
-                "name": "Ángel Ethiopia"
-            },
-            "datePublished": "2021-03-16 00:00:00",
-            "description": "Gracias, gracias, gracias. Me siento tan agradecido. Espero otras personas puedan tener tan buena experiencia como yo la tuve.",
-            "reviewRating": {
-                "@type": "Rating",
-                "bestRating": 5,
-                "ratingValue": "5",
-                "worstRating": 1
-            }
-        },
-        {
-            "@type": "Review",
-            "author": {
-                "@type": "Person",
-                "name": "Olga Sánchez Ibáñez"
-            },
-            "datePublished": "2021-03-16 00:00:00",
-            "description": "",
-            "reviewRating": {
-                "@type": "Rating",
-                "bestRating": 5,
-                "ratingValue": "5",
-                "worstRating": 1
-            }
-        },
-        {
-            "@type": "Review",
-            "author": {
-                "@type": "Person",
-                "name": "Natalia"
-            },
-            "datePublished": "2021-03-16 00:00:00",
-            "description": "Salvan personas, gracias, gracias, gracias!",
-            "reviewRating": {
-                "@type": "Rating",
-                "bestRating": 5,
-                "ratingValue": "5",
-                "worstRating": 1
-            }
-        },
-        {
-            "@type": "Review",
-            "author": {
-                "@type": "Person",
-                "name": "Monica Lamberti"
-            },
-            "datePublished": "2021-03-16 00:00:00",
-            "description": "Son un equipo estupendo de profesionales en constante evolución, para ofrecer a sus pacientes la mejor terapia para su caso.",
-            "reviewRating": {
-                "@type": "Rating",
-                "bestRating": 5,
-                "ratingValue": "5",
-                "worstRating": 1
-            }
-        },
-        {
-            "@type": "Review",
-            "author": {
-                "@type": "Person",
-                "name": "Giovanni Roma"
-            },
-            "datePublished": "2021-10-16 00:00:00",
-            "description": "Como profesional mi psicólogo Iñaki es una eminencia, desde hace años no solo me ayuda si no que sabe descubrir aquello que me pasa y la mejor manera de darle solución. Como persona es simpático, educado, cercano, amistoso, comprensivo etc.",
-            "reviewRating": {
-                "@type": "Rating",
-                "bestRating": 5,
-                "ratingValue": "5",
-                "worstRating": 1
-            }
-        },
-        {
-            "@type": "Review",
-            "author": {
-                "@type": "Person",
-                "name": "Alejandro García"
-            },
-            "datePublished": "2022-03-09 00:00:00",
-            "description": "Una gran persona y gran profesional. Recomendable 100%. En estos temas es muy importante saber que estás en buenas manos y en este caso es tanto en lo profesional como en lo personal.",
-            "reviewRating": {
-                "@type": "Rating",
-                "bestRating": 5,
-                "ratingValue": "5",
-                "worstRating": 1
-            }
-        },
-        {
-            "@type": "Review",
-            "author": {
-                "@type": "Person",
-                "name": "Carmen Carrasco"
-            },
-            "datePublished": "2022-03-09 00:00:00",
-            "description": "Encantada con Iñaki, un profesional en toda regla. Gracias por tanto",
-            "reviewRating": {
-                "@type": "Rating",
-                "bestRating": 5,
-                "ratingValue": "5",
-                "worstRating": 1
-            }
-        },
-        {
-            "@type": "Review",
-            "author": {
-                "@type": "Person",
-                "name": "Angela Del Real"
-            },
-            "datePublished": "2022-03-11 00:00:00",
-            "description": "Termina el año pandémico y aún queda ilusión, gracias a los consejos vitales que el equipo de Psicólogo en Madrid me ha ido inyectando, mejor que la vacuna, para empezar un nuevo año con mucha más esperanza de la que dejo atrás. Gracias por vuestro apoyo.",
-            "reviewRating": {
-                "@type": "Rating",
-                "bestRating": 5,
-                "ratingValue": "5",
-                "worstRating": 1
-            }
-        },
-        {
-            "@type": "Review",
-            "author": {
-                "@type": "Person",
-                "name": "Carlos"
-            },
-            "datePublished": "2022-03-11 00:00:00",
-            "description": "",
-            "reviewRating": {
-                "@type": "Rating",
-                "bestRating": 5,
-                "ratingValue": "5",
-                "worstRating": 1
-            }
-        }
-    ],
-    "description": "Psicólogos y psicoterapeutas especialistas en psicoterapia y coaching con más de 20 años de experiencia. Atención presencial, no presencial, o mixta a través de teléfono y videollamada. Cita previa online o por teléfono y whatsapp.",
-    "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Calle de la Costa Brava 8",
-        "addressLocality": "Madrid",
-        "addressRegion": "Madrid",
-        "postalCode": "28034",
-        "addressCountry": ""
-    },
-    "telephone": "+34637455833",
-    "openingHours": [
-        "Mo-Fri 10:00-20:00"
-    ],
-    "image": "https://www.psicologiaenmadrid.es/wp-content/uploads/ia_psicologos_madrid_cuadro.png",
-    "additionalType": "",
-    "priceRange": "",
-    "servesCuisine": "",
-    "areaServed": [
-        {
-            "@type": "Place",
-            "name": "Madrid"
-        },
-        {
-            "@type": "Place",
-            "name": " Spain"
-        }
-    ],
-    "founder": [],
-    "employee": [],
-    "makesOffer": {
-        "@type": "Offer",
-        "@id": "#service",
-        "itemOffered": {
-            "@type": "Service",
-            "name": "",
-            "url": "",
-            "areaServed": [
-                {
-                    "@type": "Place",
-                    "name": "Madrid"
-                },
-                {
-                    "@type": "Place",
-                    "name": " Spain"
-                }
-            ]
-        }
-    },
-    "sameAs": [
-        "https://www.linkedin.com/showcase/psicologo-madrid"
-    ],
-    "hasMenu": "",
-    "hasMap": "",
-    "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "40.5042276",
-        "longitude": "-3.7011199"
-    }
-}]
-</script>
 
-<script type="text/html" id="wpb-modifications"> window.wpbCustomElement = 1; </script><link rel="stylesheet" id="saswp-collection-front-css-css" href="https://www.psicologiaenmadrid.es/wp-content/plugins/schema-and-structured-data-for-wp/admin_section/css/collection-front.min.css?ver=1.26" type="text/css" media="all">
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.6" id="swv-js"></script>
-<script type="text/javascript" id="contact-form-7-js-extra">
-/* <![CDATA[ */
-var wpcf7 = {"api":{"root":"https:\/\/www.psicologiaenmadrid.es\/wp-json\/","namespace":"contact-form-7\/v1"}};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.6" id="contact-form-7-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/js/plugins/jquery.flexslider-min.js?ver=6.3.2" id="flexslider-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.2" id="jquery-ui-accordion-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.2" id="jquery-ui-controlgroup-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.2" id="jquery-ui-checkboxradio-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-includes/js/jquery/ui/button.min.js?ver=1.13.2" id="jquery-ui-button-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.2" id="jquery-ui-menu-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2" id="jquery-ui-mouse-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.2" id="jquery-ui-slider-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/js/plugins/doubletaptogo.js?ver=6.3.2" id="doubleTapToGo-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/js/plugins/modernizr.min.js?ver=6.3.2" id="modernizr-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/js/plugins/jquery.appear.js?ver=6.3.2" id="appear-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/js/plugins/jquery.prettyPhoto.js?ver=6.3.2" id="prettyphoto-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/js/plugins/jquery.fitvids.js?ver=6.3.2" id="fitvids-js"></script>
-<script id="mediaelement-core-js-before" type="text/javascript">
-var mejsL10n = {"language":"es","strings":{"mejs.download-file":"Descargar archivo","mejs.install-flash":"Est\u00e1s usando un navegador que no tiene Flash activo o instalado. Por favor, activa el componente del reproductor Flash o descarga la \u00faltima versi\u00f3n desde https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Pantalla completa","mejs.play":"Reproducir","mejs.pause":"Pausa","mejs.time-slider":"Control de tiempo","mejs.time-help-text":"Usa las teclas de direcci\u00f3n izquierda\/derecha para avanzar un segundo y las flechas arriba\/abajo para avanzar diez segundos.","mejs.live-broadcast":"Transmisi\u00f3n en vivo","mejs.volume-help-text":"Utiliza las teclas de flecha arriba\/abajo para aumentar o disminuir el volumen.","mejs.unmute":"Activar el sonido","mejs.mute":"Silenciar","mejs.volume-slider":"Control de volumen","mejs.video-player":"Reproductor de v\u00eddeo","mejs.audio-player":"Reproductor de audio","mejs.captions-subtitles":"Pies de foto \/ Subt\u00edtulos","mejs.captions-chapters":"Cap\u00edtulos","mejs.none":"Ninguna","mejs.afrikaans":"Afrik\u00e1ans","mejs.albanian":"Albano","mejs.arabic":"\u00c1rabe","mejs.belarusian":"Bielorruso","mejs.bulgarian":"B\u00falgaro","mejs.catalan":"Catal\u00e1n","mejs.chinese":"Chino","mejs.chinese-simplified":"Chino (Simplificado)","mejs.chinese-traditional":"Chino (Tradicional)","mejs.croatian":"Croata","mejs.czech":"Checo","mejs.danish":"Dan\u00e9s","mejs.dutch":"Neerland\u00e9s","mejs.english":"Ingl\u00e9s","mejs.estonian":"Estonio","mejs.filipino":"Filipino","mejs.finnish":"Fin\u00e9s","mejs.french":"Franc\u00e9s","mejs.galician":"Gallego","mejs.german":"Alem\u00e1n","mejs.greek":"Griego","mejs.haitian-creole":"Creole haitiano","mejs.hebrew":"Hebreo","mejs.hindi":"Indio","mejs.hungarian":"H\u00fangaro","mejs.icelandic":"Island\u00e9s","mejs.indonesian":"Indonesio","mejs.irish":"Irland\u00e9s","mejs.italian":"Italiano","mejs.japanese":"Japon\u00e9s","mejs.korean":"Coreano","mejs.latvian":"Let\u00f3n","mejs.lithuanian":"Lituano","mejs.macedonian":"Macedonio","mejs.malay":"Malayo","mejs.maltese":"Malt\u00e9s","mejs.norwegian":"Noruego","mejs.persian":"Persa","mejs.polish":"Polaco","mejs.portuguese":"Portugu\u00e9s","mejs.romanian":"Rumano","mejs.russian":"Ruso","mejs.serbian":"Serbio","mejs.slovak":"Eslovaco","mejs.slovenian":"Esloveno","mejs.spanish":"Espa\u00f1ol","mejs.swahili":"Swahili","mejs.swedish":"Sueco","mejs.tagalog":"Tagalo","mejs.thai":"Tailand\u00e9s","mejs.turkish":"Turco","mejs.ukrainian":"Ukraniano","mejs.vietnamese":"Vietnamita","mejs.welsh":"Gal\u00e9s","mejs.yiddish":"Yiddish"}};
-</script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17" id="mediaelement-core-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.3.2" id="mediaelement-migrate-js"></script>
-<script type="text/javascript" id="mediaelement-js-extra">
-/* <![CDATA[ */
-var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive","audioShortcodeLibrary":"mediaelement","videoShortcodeLibrary":"mediaelement"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.3.2" id="wp-mediaelement-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/js/plugins/jquery.waitforimages.js?ver=6.3.2" id="waitforimages-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-includes/js/jquery/jquery.form.min.js?ver=4.3.0" id="jquery-form-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/js/plugins/waypoints.min.js?ver=6.3.2" id="waypoints-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/js/plugins/bootstrap.carousel.js?ver=6.3.2" id="bootstrapCarousel-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/js/plugins/skrollr.js?ver=6.3.2" id="skrollr-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/js/plugins/jquery.easing.1.3.js?ver=6.3.2" id="easing-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/js/plugins/abstractBaseClass.js?ver=6.3.2" id="abstractBaseClass-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/js/plugins/jquery.sticky-kit.min.js?ver=6.3.2" id="stickyKit-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/js/plugins/jquery.mousewheel.min.js?ver=6.3.2" id="mousewheel-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/js/plugins/jquery.touchSwipe.min.js?ver=6.3.2" id="touchSwipe-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/js/plugins/jquery.isotope.min.js?ver=6.3.2" id="isotope-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/js/plugins/packery-mode.pkgd.min.js?ver=6.3.2" id="packery-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/js/plugins/imagesloaded.js?ver=6.3.2" id="imagesLoaded-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/js/plugins/jquery.event.move.js?ver=6.3.2" id="eventMove-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/js/plugins/jquery.nicescroll.min.js?ver=6.3.2" id="niceScroll-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/js/default_dynamic.js?ver=1707734718" id="bridge-default-dynamic-js"></script>
-<script type="text/javascript" id="bridge-default-js-extra">
-/* <![CDATA[ */
-var QodeAdminAjax = {"ajaxurl":"https:\/\/www.psicologiaenmadrid.es\/wp-admin\/admin-ajax.php"};
-var qodeGlobalVars = {"vars":{"qodeAddingToCartLabel":"Adding to Cart...","page_scroll_amount_for_sticky":""}};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/js/default.min.js?ver=6.3.2" id="bridge-default-js"></script>
-<script id="bridge-default-js-after" type="text/javascript">
-<meta name="p:domain_verify" content="999b228728ea772d3541a2c53d6dd1fe"/>
-</script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-includes/js/comment-reply.min.js?ver=6.3.2" id="comment-reply-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=7.0" id="wpb_composer_front_js-js"></script>
-<script type="text/javascript" id="qode-like-js-extra">
-/* <![CDATA[ */
-var qodeLike = {"ajaxurl":"https:\/\/www.psicologiaenmadrid.es\/wp-admin\/admin-ajax.php"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/themes/bridge/js/plugins/qode-like.min.js?ver=6.3.2" id="qode-like-js"></script>
-<script type="text/javascript" src="https://www.psicologiaenmadrid.es/wp-content/plugins/schema-and-structured-data-for-wp/admin_section/js/collection-front.min.js?ver=1.26" id="saswp-collection-front-js-js"></script>
-<script></script>
-	<div id="ascrail2000" class="nicescroll-rails nicescroll-rails-vr" style="width: 0px; z-index: 90; cursor: default; position: fixed; top: 0px; left: 1290px; height: 756px; opacity: 1; display: none;"><div class="nicescroll-cursors" style="position: relative; top: 0px; float: right; width: 0px; height: 0px; background-color: transparent; border: 0px; background-clip: padding-box; border-radius: 0px;"></div></div></body></html>
+
+
+
+
+
+
+
+
+
+
+Privacidad y condiciones de uso
+ 
+
+
+
+
+
+IA Psicólogos Madrid 2002-2024 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Esta web utiliza cookies para mejorar la experiencia de navegación. Asumimos que estás de acuerdo con nuestra política si sigues navegando. Acepto Saber másPolítica de Cookies y Privacidad
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the ...
+
+ 
+
+
+
+
+
+								Necessary							
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.								
+
+
+
+
+
+
+								Non-necessary							
+
+
+Non-necessary
+
+
+
+
+
+									Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.								
+
+
+
+
+
+
+
+
+
+
+
+
+SAVE & ACCEPT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

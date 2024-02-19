@@ -1,0 +1,70 @@
+<a id="CookieModal-AcceptAll-Button" class="acceptAllBtn action-btn" onclick="javascript: consent_all_and_continue(this);" data-ajax="false">Aceptar todas y continuar</a>,https://www.sostenibilidad.com/medio-ambiente/top-10-animales-extintos/
+xpath resumido = //a[contains(text(),'Aceptar')] Funciona
+xpath10 = "//*[contains(text(),'Acept')]" Funciona tabién
+<button class="_9862b2b6a967 _9f6b8a41ce20 _26feea41a6f0 _2b654edfc355" type="button" data-test-selector="click-the-cookie-banner"><span>Aceptar todas las cookies</span></button>,https://www.studocu.com/cl/document/universidad-de-chile/anatomia/04-animales-extintos-en-los-ultimos-100-anos-autor-anonimo/25130400
+No funciona
+<a href="https://www.esquire.com/es/ciencia/g38765319/animales-extincion-reciente/" rel="noopener noreferrer" target="_self" class="_10qqh8uq">Aceptar y continuar gratis</a>, https://www.esquire.com/es/ciencia/g38765319/animales-extincion-reciente/
+xpath resumido = //a[contains(text(),'Aceptar')] Funciona
+xpath10 = "//*[contains(text(),'Acept')]" funciona
+
+<button type="button" data-cookie-banner="accept">Sí, estoy de acuerdo</button>,https://www.bbc.com/mundo/noticias-50581981
+xpath resumido = //button[contains(text(),'acuerdo')]
+no funciona
+<button id="didomi-notice-agree-button" class="didomi-components-button didomi-button didomi-dismiss-button didomi-components-button--color didomi-button-highlight highlight-button" aria-label="Aceptar y cerrar: Aceptar nuestro procesamiento de datos y cerrar" style="color: rgb(255, 255, 255); background-color: rgb(239, 43, 45); border-radius: 0px; border-color: rgba(239, 43, 45, 0.3); border-width: 1px; display: block !important;"><span>Aceptar</span></button>,https://www.mundodeportivo.com/urbantecno/ciencia/los-ultimos-animales-prehistoricos-en-extinguirse-hace-100-anos-aun-existian
+xpath resumido = //*[@id="didomi-notice-agree-button"]
+no funciona
+<a role="button" tabindex="0" data-cli_action="accept" id="cookie_action_close_header" class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button" style="display: inline-block; color: rgb(255, 255, 255); background-color: rgb(41, 35, 84);">ACEPTAR Y CONTINUAR</a>,https://www.artimalia.org/animales-extintos-siglo-xxi/
+xpath resumido = //a[contains(text(),'ACEPTAR')] Funciona
+,https://www.youtube.com/watch?v=dw0ApJzYgrU
+<button class=" osano-cm-accept-all osano-cm-buttons__button osano-cm-button osano-cm-button--type_accept " tabindex="0"> <!--?lit$114069704$-->Aceptar todo </button>,https://es.scribd.com/document/408657452/10-Animales-Extintos-En-Los-Ultimos-100-Anos-docx
+xpath resumido = /html/body/div[1]/div[2]/button Funciona
+,https://es.wikipedia.org/wiki/Anexo:Especies_extintas_por_la_actividad_humana
+bolsa
+<a id="ava_allow_all_c" href="javascript:void(0)" onclick="Cookiebot.dialog.submitConsent()" class="c-button">Permitir todas</a>,https://www.avatrade.es/educacion/trading-para-principiantes/como-leer-graficos
+xpath resumido = //a[contains(text(),'Permitir')] No funciona, no encuentra el elemento
+<span class="button__inner__oQ4Tw" tabindex="-1" style="outline: none;">Accept</span>,https://vivid.money/en-eu/feed/es-como-leer-graficos-de-bolsa/
+xpath resumido = //a[contains(text(),'Accept')] No funciona, no encuentra el elemento buscando por element clicable
+
+<a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button cn-button-custom button" aria-label="Ok">Ok</a>,https://accionesyvalores.es/como-interpretar-graficos-de-bolsa/
+xpath resumido = //*[@id="cn-accept-cookie"] Si lo encuentra y lo clica
+
+<button id="onetrust-accept-btn-handler">Aceptar</button>,https://www.ig.com/es/estrategias-de-trading/-que-son-los-graficos-de-bolsa-y-como-aplicarlos-a-tu-trading--230505
+xpath resumido = //button[contains(text(),'Acept')]
+xpath resumido = //*[@id="onetrust-accept-btn-handler"]
+Si lo encuentra y lo clica con ambos xpath
+# No funciona con xpath10 = "//*[contains(text(),'Acept')]"
+
+,https://formacionenbolsa.com/que-son-los-graficos-y-que-representan/
+
+<button class="cmplz-btn cmplz-accept">Acepto</button>,https://www.novatostradingclub.com/analisis-tecnico/mirando-un-grafico-por-primera-vez/
+xpath resumido = //button[contains(text(),'Acept')]
+No lo encuentra buscando por element clicable
+
+,https://esbolsa.com/blog/analisis-tecnico/como-interpretar-un-grafico/
+cafeina
+<button class="css-quk35p" data-testid="gdpr-accept"><span class="css-14ktbsh"><span class="css-1huyk6v">ACCEPT AND CONTINUE TO SITE</span></span></button>,https://www.healthline.com/health/es/cerebro-de-cafe
+<button id="didomi-notice-agree-button" class="didomi-components-button didomi-button didomi-dismiss-button didomi-components-button--color didomi-button-highlight highlight-button" aria-label="Aceptar y cerrar: Aceptar nuestro procesamiento de datos y cerrar" style="color: rgb(255, 255, 255); background-color: rgb(0, 28, 76); border-radius: 0px; border-color: rgba(0, 28, 76, 0.3); border-width: 1px; display: block !important;"><span>Aceptar</span></button>,https://www.lavanguardia.com/vivo/nutricion/20170828/43830263053/efectos-cafe-cerebro.html
+<button class="fc-button fc-cta-consent fc-primary-button" role="button" aria-label="Aceptar e ir al sitio" tabindex="0"><div class="fc-button-background"></div><p class="fc-button-label">Aceptar e ir al sitio</p></button>,https://www.infobae.com/salud/2023/12/06/como-actua-la-cafeina-en-la-capacidad-del-cerebro-para-aprender/
+xpath resumido = //*[@class="fc-button fc-cta-consent fc-primary-button"] funciona
+xpath resumido = //p[contains(text(),'Acept')] también funciona
+xpath resumido = //a[contains(text(),'Aceptar')] Funciona
+
+
+<span class="btn-cookies" id="idxrcookiesOK" rel="nofollow">Aceptar</span>,https://www.cafetearte.es/blog/post/como-actua-la-cafeina-en-nuestro-cerebro.html
+xpath resumido = //span[contains(text(),'Acept')] Elemento encontrado y clicado
+# No funciona con xpath10 = "//*[contains(text(),'Acept')]"
+
+<button id="didomi-notice-agree-button" class="didomi-components-button didomi-button didomi-dismiss-button didomi-components-button--color didomi-button-highlight highlight-button" aria-label="Aceptar y cerrar: Aceptar nuestro procesamiento de datos y cerrar" style="color: rgb(255, 255, 255); background-color: rgb(71, 71, 71); border-radius: 0px; border-color: rgba(71, 71, 71, 0.3); border-width: 1px; display: block !important;"><span>Aceptar y seguir leyendo</span></button>,https://www.elespanol.com/ciencia/salud/20170803/236226418_0.html
+xpath resumido = //*[@id="didomi-notice-agree-button"] Con ese xpath elemento clicable no encontrado
+xpath resumido = //span[contains(text(),'Acept')] Con este tampoco
+
+,https://medlineplus.gov/spanish/ency/article/002445.htm
+<button id="onetrust-accept-btn-handler">Aceptar todas las cookies</button>,https://www.elsevier.es/es-revista-neurologia-295-articulo-cafeina-cefalea-consideraciones-especiales-S0213485315000158
+xpath resumido = //button[contains(text(),'Acept')] No funciona
+# No funciona con xpath10 = "//*[contains(text(),'Acept')]"
+
+
+<button class="mgbutton moove-gdpr-infobar-allow-all gdpr-fbo-0" aria-label="Aceptar">Aceptar</button>,https://psicoveritas.com/blog/como-afecta-la-cafeina-al-cerebro-2/
+xpath resumido = //button[contains(text(),'Acept')] Elemento encontrado y clicado
+
+,https://www.cicas.es/noticias/efectos-de-la-cafeina-en-el-sistema-nervioso-central-snc

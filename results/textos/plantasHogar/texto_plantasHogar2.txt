@@ -1,0 +1,121 @@
+
+
+
+
+
+www.infinityauto.com
+
+
+
+
+
+
+
+
+
+
+
+No se puede acceder a este sitio web
+
+
+Se ha restablecido la conexión.
+
+
+
+
+
+
+Prueba a:
+
+Comprobar la conexiónComprobar el proxy y el cortafuegosEjecutar Diagnósticos de red de Windows
+
+
+ERR_CONNECTION_RESET
+
+null
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Volver a cargar
+
+
+
+Detalles
+
+
+
+Comprueba tu conexión a Internet
+Comprueba los cables y reinicia los routers, los módems o cualquier otro dispositivo
+    de red que estés utilizando.
+
+Configura tu cortafuegos o tu antivirus para permitir el acceso de Chrome
+          a la red.
+Si ya está incluido como programa autorizado para acceder a la red,
+      elimínalo de la lista y vuelve a añadirlo.
+
+Si utilizas un servidor proxy…
+Comprueba la configuración del proxy o ponte en contacto con el administrador de red para
+      asegurarte de que el servidor proxy funcione correctamente. Si consideras que no necesitas utilizar
+      un servidor proxy, sigue estas instrucciones:
+      Accede al
+          menú de Chrome, haz clic en
+          Configuración
+          >
+          Mostrar configuración avanzada…
+          >
+          Cambiar la configuración de proxy…
+          >
+          Configuración de LAN
+          y desactiva la opción Usar un servidor proxy para la LAN.
+
+
+
+
+
+
+Se ha restablecido la conexión.
+
+
+
+
+
+

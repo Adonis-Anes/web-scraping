@@ -1,0 +1,764 @@
+
+
+
+Top 10 animales extintos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tu privacidad nos importa Utilizamos cookies necesarias para que el sitio web funcione correctamente, garantizando funcionalidades básicas y de seguridad. Además, si así lo configuras, utilizaremos cookies propias y de terceros para analizar y mejorar el funcionamiento; de preferencias, relativas al tipo de navegador o región desde la que accedes; y/o de marketing que permiten analizar los hábitos de navegación. Para ampliar la información, consulta nuestra política de cookies.Puedes aceptar todas las cookies, configurarlas o, rechazar su uso a continuación. Configurar mi preferenciaRechazar cookiesAceptar todas y continuar Panel de configuración de cookiesEste es el configurador avanzado de cookies propias y de terceros. Aquí puedes modificar parámetros que afectarán directamente a tu experiencia de navegación en esta web.Su consentimiento se aplica a los siguientes dominios: www.activesustainability.com, www.sostenibilidad.com Cookies necesariasLas cookies necesarias ayudan a hacer una página web utilizable activando funciones básicas como la navegación en la página y el acceso a áreas seguras de la página web. La página web no puede funcionar adecuadamente sin estas cookies. Permitir RechazarMostrar listado completo NombreProveedorPropósitoCaducidadTipoomScrollHeightOptinMonsterGuarda el tamaño de pantalla del usuario para ajustar el tamaño de las imágenes del sitio web.SessionHTMLtest_cookieGoogleUtilizada para comprobar si el navegador del usuario admite cookies.1 díaHTTPrc::aGoogleEsta cookie se utiliza para distinguir entre humanos y bots. Esto es beneficioso para la web con el objeto de elaborar informes válidos sobre el uso de su web.PersistentHTMLrc::cGoogleEsta cookie se utiliza para distinguir entre humanos y bots.SessionHTML1.gifCookiebotSe utiliza para contar el número de sesiones del sitio web, necesario para optimizar la entrega de productos CMP. SessionPixelsc_anonymous_idwidget.sndcdn.comUtilizada en relación con la función de vista 3D en la web.10 añosHTTP.AspNetCore.Antiforgery.# [x2]www.activesustainability.comwww.sostenibilidad.comAyuda a evitar ataques del tipo Falsificación de petición en sitios cruzados (CSRF).SessionHTTPCookieConsent [x2]CookiebotAlmacena el estado de consentimiento de cookies del usuario para el dominio actual1 añoHTTPXSRF-TOKENWishpondAsegura la navegación segura del visitante previniendo la falsificación de petición en sitios cruzados (CSRF). Esta cookie es esencial para la seguridad de la web y del visitante.SessionHTTPCONSENTYouTubeUtilizada para detectar si el visitante ha aceptado la categoría de marketing en el banner de cookies. Esta cookie es necesaria para que la web cumpla con el RGPD.2 añosHTTP  Dispones de contenido optimizado en base a tu navegación anterior  Al rechazar estas cookies no podemos ofreterte contenido y navegación personalizados Cookies de preferenciaLas cookies de preferencias permiten a la página web recordar información que cambia la forma en que la página se comporta o el aspecto que tiene, como su idioma preferido o la región en la que usted se encuentra.PermitirRechazarMostrar listado completo Nosotros no usamos cookies de este tipo. Dispones de contenido optimizado en base a tu navegación anteriorAl rechazar estas cookies no podemos ofreterte contenido y navegación personalizadosCookies de analítica y rendimientoLas cookies estadísticas ayudan a los propietarios de páginas web a comprender cómo interactúan los visitantes con las páginas web reuniendo y proporcionando información de forma anónima.PermitirRechazarMostrar listado completo NombreProveedorPropósitoCaducidadTipoomSessionPageviewsOptinMonsterEsta cookie se utiliza para identificar la frecuencia y duración de las visitas del visitante al sitio web. La cookie también sirve para determinar cuántas y qué subpáginas visita el visitante en un sitio web. Esta información sirve al sitio web para mejora el dominio y sus subpáginas.SessionHTMLomSessionStartOptinMonsterEstablece una marca temporal cuando el visitante entra en la web. Ésta se utiliza para propósitos estadísticos en la web.SessionHTMLomVisitsOptinMonsterEsta cookie se utiliza para identificar la frecuencia y duración de las visitas del visitante al sitio web. La cookie también sirve para determinar cuántas y qué subpáginas visita el visitante en un sitio web. Esta información sirve al sitio web para mejora el dominio y sus subpáginas.PersistentHTMLomVisitsFirstOptinMonsterEsta cookie se utiliza para contar las veces que un sitio web ha sido visitado por diferentes visitantes. Esto se consigue asignando un ID aleatorio al visitante, para evitar el registro doble del visitante.PersistentHTML_ga [x2]GoogleRegistra una identificación única que se utiliza para generar datos estadísticos acerca de cómo utiliza el visitante el sitio web.2 añosHTTP_ga_# [x2]GoogleRecopila datos sobre el número de veces que un usuario ha visitado el sitio web además de las fechas de la primera visita y de la más reciente. Utilizada por Google Analytics.2 añosHTTP_gat [x2]GoogleUtilizado por Google Analytics para controlar la tasa de peticiones1 díaHTTP_gid [x2]GoogleRegistra una identificación única que se utiliza para generar datos estadísticos acerca de cómo utiliza el visitante el sitio web.1 díaHTTP_hjSession_# [x2]HotjarRecopila estadísticas sobre las visitas del usuario al sitio web, como el número de visitas, el tiempo medio pasado en el sitio web y qué páginas se han leído.1 díaHTTP_hjSessionUser_# [x2]HotjarRecopila estadísticas sobre las visitas del usuario al sitio web, como el número de visitas, el tiempo medio pasado en el sitio web y qué páginas se han leído.1 añoHTTP_hjTLDTest [x2]HotjarRegistra datos estadísticos del comportamiento del visitante en la web. Esto se utiliza para análisis internos por el operador de la web.SessionHTTPsentryReplaySessionSpotifyRegistra datos del comportamiento del visitante en la web. Esto se utiliza para el análisis interno y la optimización de la web.SessionHTMLcollectGoogleSe utiliza para enviar datos a Google Analytics sobre el dispositivo del visitante y su comportamiento. Rastrea al visitante a través de dispositivos y canales de marketing.SessionPixelhjActiveViewportIdsHotjarEsta cookie tiene una cadena de ID en la sesión en curso. Contiene datos no personales sobre las subpáginas a las que accede el visitante. Esta información sirve para mejorar la experiencia del visitante.PersistentHTMLhjViewportIdHotjarGuarda el tamaño de pantalla del usuario para ajustar el tamaño de las imágenes del sitio web.SessionHTMLnumber(#)SoundcloudSe usa para rastrear la interacción del usuario con el contenido integrado. SessionHTML_hjCookieTest [x2]HotjarRecoge datos relacionadas con la navegación y el comportamiento del usuario - Esto se usa para recopilar informes estadísticos y mapas térmicos para el propietario de la web. SessionHTTP_omappvp [x2]OptinMonsterEsta cookie se utiliza para determinar si el visitante ha visitado el sitio web con anterioridad o si se trata de un nuevo visitante.11 añosHTTP_omappvs [x2]OptinMonsterEsta cookie se utiliza para determinar si el visitante ha visitado el sitio web con anterioridad o si se trata de un nuevo visitante.1 díaHTTPtdGoogleRegistra datos estadísticos del comportamiento del visitante en la web. Esto se utiliza para análisis internos por el operador de la web.SessionPixel Podrás tener una experiencia de navegación mejorada de forma continuaAl rechazar estas cookies no podemos mejorar tu experiencia de navegaciónCookies de marketingLas cookies de marketing se utilizan para rastrear a los visitantes en las páginas web. La intención es mostrar anuncios relevantes y atractivos para el usuario individual, y por lo tanto, más valiosos para los editores y terceros anunciantes.PermitirRechazarMostrar listado completo NombreProveedorPropósitoCaducidadTipo_fbp [x5] Meta Platforms, Inc.Utilizada por Facebook para proporcionar una serie de productos publicitarios como pujas en tiempo real de terceros anunciantes.3 mesesHTTP_gcl_au [x5]GoogleUtilizada por Google AdSense para experimentar con la eficiencia publicitaria a través de las webs usando sus servicios.3 mesesHTTPfbsr_# [x2] Meta Platforms, Inc.Se usa para rastrear la interacción de los usuarios con el widget de chat de Facebook de tu página web.SessionHTTPuserTrackerWishpondEsta cookie se utiliza para determinar que productos ha visto el visitante - Esto permite a la web promover productos relacionados.PersistentHTMLfbssls_#QualifioRecoge datos del uso del visitante del sistema de comentarios en la web, además, registra que blogs/artículos ha leído el visitante – Esto puede ser utilizado con propósitos de marketing.SessionHTMLlastExternalReferrer Meta Platforms, Inc.Detecta cómo el usuario encontró la página web al registrar su última dirección URL.PersistentHTMLlastExternalReferrerTime Meta Platforms, Inc.Detecta cómo el usuario encontró la página web al registrar su última dirección URL.PersistentHTMLIDEGoogleUtilizada por Google DoubleClick para registrar e informar sobre las acciones del usuario en el sitio web tras visualizar o hacer clic en uno de los anuncios del anunciante con el propósito de medir la eficacia de un anuncio y presentar anuncios específicos para el usuario.1 añoHTTPpagead/landing [x2]GoogleRecoge información del comportamiento del usuario en diferentes webs para mostrar publicidad más relevante - También le permite a la web limitar el número de veces que el usuario está expuesto a un mismo anuncio.SessionPixelNIDGoogleRegistra una identificación única que identifica el dispositivo de un usuario que vuelve. La identificación se utiliza para los anuncios específicos.6 mesesHTTPpagead/1p-conversion/#/GooglePendienteSessionPixelsp_landingSpotifyUtilizada para implementar contenido de audio de Spotify en la web. También puede ser utilizada para registrar la interacción del visitante y preferencias en relación con el contenido de audio – Esto puede servir para propósitos de marketing y estadísticas.1 díaHTTPsp_tSpotifyUtilizada para implementar contenido de audio de Spotify en la web. También puede ser utilizada para registrar la interacción del visitante y preferencias en relación con el contenido de audio – Esto puede servir para propósitos de marketing y estadísticas.1 añoHTTPi/jot/embedsTwitter Inc.Establece un identificar único para el visitante que permite a anunciantes externos (terceras partes) dirigirse al visitante con publicidad relevante. Este servicio combinado está provisto por centros de publicidad, que facilitan ofertas en tiempo real a los anunciantes.SessionPixelRichHistoryTwitter Inc.Recoge datos de las preferencias y el comportamiento del usuario en la web - Esta información se utiliza para producir contenidos y publicidad más relevantes para un usuario concreto.SessionHTMLWIDGET::local::assignmentsSoundcloudUtilizada por la plataforma de audio SoundCloud para implementar, medir y mejorar su contenido/servicio incrustado en la web – La recogida de datos también incluye la interacción del visitante con contenido/servicio incrustado. Puede se utilizado con propósitos estadísticos y de marketing. PersistentHTMLwishpondWishpondSe usa por la web para registrar el comportamiento del usuario y su navegación en la web - La cookie registra cualquier interacción con campañas activas en la web. Esto se utiliza para optimizar la publicidad y para una reorientación eficiente.1 díaHTTP#-#YouTubePendienteSessionHTMLiU5q-!O9@$YouTubeRegistra una identificación única para mantener estadísticas de qué vídeos de YouTube ha visto el usuario.SessionHTMLLAST_RESULT_ENTRY_KEYYouTubeSe usa para rastrear la interacción del usuario con el contenido integrado. SessionHTTPLogsDatabaseV2:V#||LogsRequestsStoreYouTubePendientePersistentIDBnextIdYouTubeSe usa para rastrear la interacción del usuario con el contenido integrado. SessionHTTPremote_sidYouTubeNecesaria para la implementación y funcionabilidad del contenido de video de YouTube en la web.SessionHTTPrequestsYouTubeSe usa para rastrear la interacción del usuario con el contenido integrado. SessionHTTPServiceWorkerLogsDatabase#SWHealthLogYouTubeNecesaria para la implementación y funcionabilidad del contenido de video de YouTube en la web.PersistentIDBTESTCOOKIESENABLEDYouTubeSe usa para rastrear la interacción del usuario con el contenido integrado. 1 díaHTTPVISITOR_INFO1_LIVEYouTubeIntenta calcular el ancho de banda del usuario en páginas con vídeos de YouTube integrados.180 díasHTTPVISITOR_PRIVACY_METADATAYouTubeAlmacena el estado de consentimiento de cookies del usuario para el dominio actual180 díasHTTPYSCYouTubeRegistra una identificación única para mantener estadísticas de qué vídeos de YouTube ha visto el usuario.SessionHTTPyt.innertube::nextIdYouTubeRegistra una identificación única para mantener estadísticas de qué vídeos de YouTube ha visto el usuario.PersistentHTMLyt.innertube::requestsYouTubeRegistra una identificación única para mantener estadísticas de qué vídeos de YouTube ha visto el usuario.PersistentHTMLytidb::LAST_RESULT_ENTRY_KEYYouTubeRegistra las preferencias del reproductor de vídeo del usuario al ver vídeos incrustados de YouTubePersistentHTMLYtIdbMeta#databasesYouTubeSe usa para rastrear la interacción del usuario con el contenido integrado. PersistentIDByt-remote-cast-availableYouTubeRegistra las preferencias del reproductor de vídeo del usuario al ver vídeos incrustados de YouTubeSessionHTMLyt-remote-cast-installedYouTubeRegistra las preferencias del reproductor de vídeo del usuario al ver vídeos incrustados de YouTubeSessionHTMLyt-remote-connected-devicesYouTubeRegistra las preferencias del reproductor de vídeo del usuario al ver vídeos incrustados de YouTubePersistentHTMLyt-remote-device-idYouTubeRegistra las preferencias del reproductor de vídeo del usuario al ver vídeos incrustados de YouTubePersistentHTMLyt-remote-fast-check-periodYouTubeRegistra las preferencias del reproductor de vídeo del usuario al ver vídeos incrustados de YouTubeSessionHTMLyt-remote-session-appYouTubeRegistra las preferencias del reproductor de vídeo del usuario al ver vídeos incrustados de YouTubeSessionHTMLyt-remote-session-nameYouTubeRegistra las preferencias del reproductor de vídeo del usuario al ver vídeos incrustados de YouTubeSessionHTML Podrás ver publicidad personalizada y adaptada a tus intereses y preferenciasAl rechazar estas cookies no podemos ofreterte publicidad personalizada, tan solo verás anuncios genéricosPermitir todasRechazar cookiesGuardar configuración y seguir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ESP
+ENG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categorías 
+
+
+
+                            Desarrollo sostenible
+                        
+
+
+
+                            Cambio climático
+                        
+
+
+
+                            Energías renovables
+                        
+
+
+
+                            Medio ambiente
+                        
+
+
+
+                            Agua
+                        
+
+
+
+                            Construcción y urbanismo
+                        
+
+
+
+                            Vida sostenible
+                        
+
+
+
+ESP
+ENG
+
+
+
+
+
+
+
+
+
+Búsqueda vacía
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Desarrollo sostenible
+                
+
+
+
+
+                    Cambio climático
+                
+
+
+
+
+                    Energías renovables
+                
+
+
+
+
+                    Medio ambiente
+                
+
+
+
+
+                    Agua
+                
+
+
+
+
+                    Construcción y urbanismo
+                
+
+
+
+
+                    Vida sostenible
+                
+
+
+
+
+
+
+
+
+
+
+
+X
+
+
+Thank you
+
+
+Voted!
+
+
+
+Ups!
+
+
+You had already voted 
+
+
+
+
+
+
+
+Top 10 animales extintos
+Multitud de especies están amenazadas por la acción del hombre, y muchas otras ya han desaparecido. Recopilamos aquí diez de ellas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Baiji
+
+
+
+
+
+
+Bucardo
+
+
+
+
+
+
+Sapo dorado
+
+
+
+
+
+
+Foca monje del Caribe
+
+
+
+
+
+
+Tigre de Bali
+
+
+
+
+
+
+Tilacino
+
+
+
+
+
+
+Bubal Hartebeest
+
+
+
+
+
+
+Paloma viajera
+
+
+
+
+
+
+Cuaga
+
+
+
+
+
+
+León del Cabo
+
+
+
+
+
+
+Anterior
+
+
+
+Siguiente
+
+
+
+
+
+
+
+
+
+
+Baiji
+
+
+Bucardo
+
+
+Sapo dorado
+
+
+Foca monje del Caribe
+
+
+Tigre de Bali
+
+
+Tilacino
+
+
+Bubal Hartebeest
+
+
+Paloma viajera
+
+
+Cuaga
+
+
+León del Cabo
+
+
+
+
+
+
+
+Top 10 animales extintos
+La acción del hombre está comprometiendo la supervivencia de muchos animales en peligro de extinción que han visto como su población se ha reducido a números ínfimos. Lamentablemente, hay muchas especies por las que ya no se puede hacer nada, puesto que han desaparecido completamente y hoy en día sólo podemos conocerlas a través de fotografías.
+Estos son sólo algunos de los animales que se han extinguido durante los dos últimos siglos.
+
+Desde el tigre de Bali hasta el cuaga. Ninguno de estos animales sobrevivió al hombre
+ Tweet 
+
+
+ 
+Fuentes: The Quagga Project, El Bucardo, Xataka Ciencia, ABC, El Blog Verde, Mother Nature Network, Reino Animalia, Ojo Curioso
+ 
+ 
+Anterior
+Siguiente
+
+
+Baiji
+Extinto en 2008. El caso del baiji o delfín chino de río es el mejor ejemplo de como una reacción tardía no es suficiente. La sobrepesca y la construcción de represas diezmaron la población de este tipo de delfín, caracterizado por su alargado morro, hasta que en 1979 el Gobierno chino lo declaro en peligro de extinción. En 1983 se ilegalizó su caza y la especie fue disminuyendo paulatinamente hasta que en 2007 se encontraron sólo 23 ejemplares. En 2008 se declaró oficialmente su extinción.
+ 
+Anterior
+Siguiente
+
+
+Bucardo
+Extinto en 2000. Una de las clases de cabra autóctona de España desapareció a finales del pasado siglo. Originaria de la zona pirenaica y extendida por Euskadi, Navarra, Huesca, Lleida y Girona, el bucardo era un emblema de la montaña en el norte de la Península Ibérica.
+La caza es el motivo de su desaparición, ya que su cornamenta era un objeto muy demandado. En 1900 ya se había extinguido en el Pirineo francés, y para entonces ya sólo 50 individuos poblaban la montaña en la parte española. La última hembra murió en el año 2000.
+ 
+Anterior
+Siguiente
+
+
+Sapo dorado
+Extinto en 1989. Aunque los investigadores no han tirado la toalla con esta especie de anfibio, lo cierto es que se declaró extinto hace ya casi tres décadas. El calentamiento global es el responsable de su desaparición, al haber alterado las condiciones de su hábitat hasta un punto de no retorno.
+Diferentes expediciones desde entonces -1994, 2004 y la última en 2013- han tratado de encontrar algún ejemplar en Costa Rica, pero todas han sido infructuosas.
+ 
+ 
+Anterior
+Siguiente
+
+
+Foca monje del Caribe
+Extinta en 1952. De las tres especies de focas monje que el hombre llegó a conocer, ya sólo quedan dos: la del Mediterráneo y la de Hawái. La del Caribe desapareció a mediados del pasado siglo. Su hábitat se extendía desde Florida hasta el norte de Sudamérica, y el primer registró sobre su avistamiento fue escrito por Cristóbal Colón en su segundo viaje (1494).
+La foca monje fue exterminada por su grasa, su piel y como alimento. Además, erróneamente se creyó que suponían una gran amenaza para los bancos de pescado y se organizó una campaña oficiosa para acabar con ella.
+Anterior
+Siguiente
+
+
+Tigre de Bali
+Extinto en 1937. Esta especie de felino era originaria de la isla de Bali. Contaba con un territorio muy acotado para sobrevivir que se vio amenazado con la expansión humana. El miedo, la caza y la destrucción de su pequeño hábitat provocaron su desaparición a finales de los años 30.
+El tigre de Java y el tigre del mar Caspio son las otras dos subespecies que desaparecieron en el siglo XX.
+Anterior
+Siguiente
+
+
+Tilacino
+Extinto en 1930. También llamado Lobo marsupial, lobo de Tasmania o tigre de Tasmania, el tilacino fue un desafío para la biología. Era una especie originaria de toda Australia y Nueva Guinea, aunque cuando los primeros colonos llegaron a su territorio ya sólo había un pequeño reducto en Tasmania. Se ha determinado que era un marsupial, pero tenía características de cánido y de felino que lo convertían en un depredador infalible.
+Por esta razón, y para proteger al ganado, las autoridades ofrecían una recompensa a los ciudadanos por cada ejemplar abatido.
+ 
+Anterior
+Siguiente
+
+
+Bubal Hartebeest
+Extinto en 1925. Originario del norte de África y Oriente Medio, los bubal Hartebeest eran un tipo de alcelafo o búbalo cuya población se vio drásticamente reducida con la llegada de los primeros colonos europeos, que los cazaban principalmente por diversión o para llevarlos a los zoos del viejo continente.
+Aunque oficialmente su fecha de extinción data de 1925, los científicos están investigando si la especie ha podido sobrevivir después de que se haya avistado un animal muy similar en 2013 en Marruecos.
+Anterior
+Siguiente
+
+
+Paloma viajera
+ 
+                        Extinta en 1914. Hace ya más de un siglo que desapareció esta ave, la más abundante en Norteamérica en su día. Su grasa, carne y plumaje eran muy demandados, llegando a crearse la figura del cazador profesional de paloma viajera o migratoria.
+En 1900 un niño tiroteó al último ejemplar salvaje, y catorce años después la última paloma de esta clase en cautividad murió por causas naturales.
+ 
+Anterior
+Siguiente
+
+
+Cuaga
+Extinta en 1883. Esta subespecie de cebra era originaria de África. Su principal característica, a diferencia de las cebras que todavía existen hoy en día, era su pelaje rojizo en los cuartos traseros y sus rayas blancas y negras en los cuartos delanteros, la cabeza y el cuello.
+Los colonos holandeses que llegaron a Sudáfrica a mediados del siglo XVIII las cazaron para comer su carne y emplear su piel como sacos. La población de cuagas eran tan numerosa y su caza tan extendida que se dio orden de extraer las balas de los cadáveres para reutilizarlas ya que los tiradores se estaban quedando sin munición.
+Anterior
+Siguiente
+
+
+León del Cabo
+Extinto en 1860. Este tipo de león, que vivía en Sudáfrica, fue descubierto por los bóers –colonos holandeses- y se les suele atribuir a ellos la responsabilidad por su desaparición, cuando en realidad los cazadores ingleses fueron quienes diezmaron la población hasta extinguirla, principalmente porque atacaban a su ganado, pero también como divertimento.
+Eran muy similares a los leones que habitan el resto de África, aunque con un tamaño ligeramente superior y una melena más abundante y oscura.
+Anterior
+Siguiente
+
+
+
+
+
+
+
+
+
+Compártelo en redes sociales
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Artículos relacionados
+
+
+
+
+
+
+
+¿Qué pasaría si desaparecen las abejas?
+
+
+
+
+
+
+
+Top 10 animales en peligro de extinción
+
+
+
+
+
+
+
+Top 10 nuevas especies sorprendentes
+
+
+
+
+
+
+
+Top 10 animales curiosos
+
+
+
+
+
+
+
+Creatividad animal para adaptarse al cambio climático
+
+
+
+
+
+
+
+Top ciudades accesibles
+
+
+
+
+
+
+
+;
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUSCRÍBETE A NUESTRA NEWSLETTER
+                    
+... y recibe en tu correo las noticias más importantes que están pasando en sostenibilidad.
+
+QUIERO RECIBIR LA NEWSLETTER
+
+
+
+
+Enviar
+
+Debes introducir un email válido
+                        
+
+
+
+                        Acepta la
+
+
+
+                        
+                            información sobre protección de datos
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Información sobre protección de datos
+En cumplimiento del Reglamento UE 2016/679 de Protección de Datos y demás
+                                            normativa vigente en materia de Protección de Datos, se le informa de que
+                                            sus datos de carácter personal serán tratados por Acciona, S.A. (en
+                                            adelante, ACCIONA), con los siguientes datos identificativos NIF: A08001851,
+                                            Dirección: Avenida de Europa, 18, Parque empresarial de la Moraleja, 28108
+                                            de Alcobendas (Madrid), Tel: +34 91 663 28 50, email: protecciondedatos@acciona.com,
+                                            con la finalidad de atender sus comentarios y gestionar sus consultas,
+                                            solicitudes, reclamaciones o sugerencias, así como el envío, por medios
+                                            electrónicos, de información sobre nuestros servicios y productos, a través
+                                            del correo electrónico de contacto.
+La base jurídica para el tratamiento de los datos es el consentimiento del
+                                            usuario al comunicarse con nosotros.
+Los datos se conservarán mientras se mantenga la relación y no se solicite su
+                                            supresión y, en cualquier caso, nunca durante un plazo superior a doce
+                                            meses.
+En caso de que su petición no sea dirigida a ACCIONA, sino a una entidad que
+                                            forma parte del Grupo Acciona, ésta comunicará los datos a la sociedad del
+                                            Grupo que pueda atender su solicitud de servicio o información de forma más
+                                            eficiente. En este sentido, la comunicación de estos datos puede constituir
+                                            una transferencia internacional, por estar estas empresas ubicadas en países
+                                            fuera del territorio de la Unión Europea, para poder atender las necesidades
+                                            de comunicación entre las personas que forman parte del Grupo a nivel
+                                            mundial. (Puede consultar un listado de empresas del Grupo en www.acciona.com/es/accionistas-inversores/informacion-financiera/cuentas-anuales).
+                                            La aceptación de los términos de la privacidad supone el consentimiento para
+                                            la transferencia internacional de sus datos necesaria para la correcta
+                                            tramitación de su petición. No están previstas otras cesiones de datos,
+                                            salvo obligación legal.
+El interesado puede ejercitar sus derechos de acceso, rectificación,
+                                            supresión, portabilidad y la limitación u oposición, ante Acciona, S.A.
+                                            dirigiéndose por escrito al Departamento de Protección de datos sita en
+                                            Avenida de Europa, 18, 28108 de Alcobendas (Madrid) o mediante el envío de
+                                            un correo electrónico en la siguiente dirección: protecciondedatos@acciona.com,
+                                            adjuntando en ambos casos copia del DNI u otro documento identificativo.
+                                            Asimismo, podrá en cualquier momento, retirar el consentimiento prestado
+                                            dirigiéndose a la dirección arriba indicada, así como reclamar ante la
+                                            Autoridad de Control (Agencia Española de Protección de Datos www.aepd.es).
+Para más información ponemos a su disposición la Política de Privacidad de la Página.
+
+
+
+
+
+                            Debes aceptar la información sobre protección de datos
+
+
+
+
+
+
+
+
+
+
+
+
+
+La sostenibilidad se entiende como el desarrollo que satisface las necesidades del presente sin comprometer la capacidad de las futuras generaciones, garantizando el equilibrio entre el crecimiento económico, el cuidado del medio ambiente y el bienestar social. En Sostenibilidad para todos promovemos la concienciación y difusión de buenas prácticas que permitan conjugar el desarrollo económico y social con la preservación de los recursos naturales.
+< Ver quiénes somos >
+
+
+
+
+
+
+
+
+
+
+
+                        Suscríbete a nuestra rss
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+Desarrollo sostenible
+Cambio climático
+Energías renovables
+Medio ambiente
+
+
+Agua
+Construcción y urbanismo
+Vida sostenible
+
+
+
+
+Sostenibilidad
+                    Para todos
+
+
+
+
+
+
+
+
+Webs de ACCIONA
+Política de Privacidad
+Aviso legal
+Cookies
+Mapa Web
+Contacto
+Canal Ético
+
+© Copyright 2019. Todos los derechos reservados
+
+
+
+
+
+
+
+
+
+

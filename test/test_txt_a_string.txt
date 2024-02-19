@@ -1,0 +1,1 @@
+test función txt_a_string

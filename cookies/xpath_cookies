@@ -1,0 +1,5 @@
+//*[contains(text(),'Acept')]
+//button[contains(text(),'Acept')]
+//span[contains(text(),'Acept')]
+//p[contains(text(),'Acept')]
+//*[@id="cn-accept-cookie"]
