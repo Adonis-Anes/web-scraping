@@ -22,7 +22,7 @@ plantasHogar,si,128.117
 pollo,no,84.837
 pollo,si,65.587
 rodilla,no,interrumpidoManual+3mins
-rodilla,si,
+rodilla,si,65.234
 rusiaHistoria,no,132.287
 rusiaHistoria,si,
 tigres,no,130.024
