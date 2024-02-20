@@ -20,7 +20,7 @@ Veámoslo en el siguiente ejemplo.
       # 1.- Pasar de una consulta escrita a un conjunto de links
       urls_cafeina = consulta_a_links(consulta=consulta_cafeina)
       # 2.- Meternos en dichas páginas, aceptar las cookies y descargar el html
-      htmls_cafeina = aceptar_cookies_y_guardar_htmls(urls=urls_cafeina)
+      htmls_cafeina = aceptar_cookies_y_guardar_htmls_paralelizado(urls=urls_cafeina)
       # 3.- Obtener el texto de los htmls
       textos_cafeina = htmls_a_textos(htmls=htmls_cafeina)
       # 4.- Crear la matriz tfidf de dichos textos
@@ -33,6 +33,9 @@ Estas líneas de código son equivalentes a llamar directamente a la función `c
 
 También podemos guardar los resultados de la ejecución de cada función. Véase el fichero example.ipynb
 
-DESCRIPCIÓN DETALLADA
-La descripción detallada se puede consultar en el siguiente documento.
+DETALLES SOBRE LAS FUNCIONES
+
+Para aceptar las cookies se crea una función básica llamada `encontrar_elemento_y_clicar` que recibe como argumentos obligatorios una url y un xpath. Básicamente lo que hace es iniciar el driver, si no está pasado como parámetro, espera hasta un máximo de 3 segundos hasta encontrar un elemento clicable con el xpath pasado. Si lo encuentra lo clica.
+Sobre esta función se construyen las demás. 
+Dada una lista de candidatos a ser el botón de cookies de la página web, iteramos hasta que se alguno de estos coincida o agotemos la lista.
 

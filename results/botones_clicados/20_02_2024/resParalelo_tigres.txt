@@ -1,0 +1,8 @@
+Elemento con xpath://*[contains(text(),'Acept')], encontrado y clicado para url https://www.expertoanimal.com/curiosidades-del-tigre-25994.html
+Botón de cookies no encontrada para la url https://www.worldanimalprotection.cr/noticias-y-blogs/blogs/tigres-datos-curiosos-peligro-extincion-vida-silvestre/
+Botón de cookies no encontrada para la url https://elrincondelsaber.com/10-cosas-que-quizas-no-sabias-sobre-los-tigres
+Botón de cookies no encontrada para la url https://www.hogarmania.com/mascotas/otras/curiosidades-sobre-tigre-30037.html
+Elemento con xpath://*[contains(text(),'Acept')], encontrado y clicado para url https://www.ecologiaverde.com/curiosidades-de-los-tigres-4548.html
+Botón de cookies no encontrada para la url https://www.lavanguardia.com/cribeo/geek/20140729/47320998567/8-curiosidades-que-quizas-no-sabias-sobre-los-tigres.html
+Botón de cookies no encontrada para la url https://www.worldwildlife.org/descubre-wwf/historias/donde-y-como-viven-los-tigres
+Botón de cookies no encontrada para la url https://www.muyinteresante.com/naturaleza/25134.html

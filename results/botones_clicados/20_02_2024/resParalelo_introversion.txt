@@ -1,0 +1,9 @@
+Elemento con xpath://*[contains(text(),'Acept')], encontrado y clicado para url https://www.psicologiaenmadrid.es/diferencias-entre-introversion-y-extroversion/
+Elemento con xpath://button[contains(text(),'Acept')], encontrado y clicado para url https://www.uv.es/master-psicologia-general-sanitaria-pgs/es/blog/eres-introvertido-extrovertido-1285957292035/GasetaRecerca.html?id=1285966163073
+Elemento con xpath://button[contains(text(),'Acept')], encontrado y clicado para url https://www.salud.mapfre.es/cuerpo-y-mente/psicologia/reconocer-a-una-persona-introvertida-o-extravertida/
+Botón de cookies no encontrada para la url https://www.circulopsicologia.com/signos-de-las-personas-introvertidas/
+Botón de cookies no encontrada para la url https://es.quora.com/Hay-diferencias-neurol%C3%B3gicas-entre-los-introvertidos-y-los-extrovertidos
+Botón de cookies no encontrada para la url https://blog.rtve.es/mente/2017/03/cerebro-personas-extrovertidas-introvertidas.html
+Botón de cookies no encontrada para la url https://www.psychologytoday.com/es/fundamentos/extroversion
+Botón de cookies no encontrada para la url https://lamenteesmaravillosa.com/el-cerebro-de-un-introvertido-funciona-de-manera-diferente/
+Botón de cookies no encontrada para la url http://jesusgonzalezfonseca.blogspot.com/2010/12/la-introversion-y-la-extroversion-segun.html

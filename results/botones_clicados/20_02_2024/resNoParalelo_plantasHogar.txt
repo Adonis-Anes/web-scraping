@@ -1,0 +1,33 @@
+Elemento con xpath://*[contains(text(),'Acept')], encontrado y clicado para url https://open.spotify.com/intl-es/album/7ws3KwMWIg0GNuzezWyAOh
+Esta página https://www.youtube.com/watch?v=dz4j36jIIHU no tiene cookies
+Botón de cookies no encontrada para la url https://music.apple.com/us/album/las-30-canciones-m%C3%A1s-famosas-de-la-m%C3%BAsica-cl%C3%A1sica/1395816969
+Botón de cookies no encontrada para la url https://open.spotify.com/album/69YjbTywjGV1Ow7XNLwg9f
+Botón de cookies no encontrada para la url https://www.nytimes.com/es/2020/12/24/espanol/cultura/mejor-musica-clasica.html
+Botón de cookies no encontrada para la url http://pablokohan.com.ar/nota/294-Las-diez-mejores-obras-de-la-musica-clasica
+147.52582001686096
+PS C:\Users\adoni\OneDrive - Universidad Politécnica de Madrid\Trabajo - SMARTBIC\trabajo_final\web_scraping> & C:/Aplicaciones/Python312/python.exe "c:/Users/adoni/OneDrive - Universidad Politécnica de Madrid/Trabajo - SMARTBIC/trabajo_final/web_scraping/prueba.py"
+
+DevTools listening on ws://127.0.0.1:58128/devtools/browser/2d422247-7c80-4995-8451-9b5dffd1b8c1
+Elemento con xpath://*[contains(text(),'Acept')], encontrado y clicado para url https://floresnavarro.com/es/blog/las-10-mejores-plantas-de-interior-faciles-de-cuidar-n37
+Botón de cookies no encontrada para la url https://www.elmueble.com/ideas/decoterapia/10-plantas-interior-resistentes-y-faciles-mantener_42392
+Botón de cookies no encontrada para la url https://www.infinityauto.com/es/centro-de-conocimiento/vida-diaria-y-familia/las-mejores-plantas-para-tu-casa
+Botón de cookies no encontrada para la url https://www.elledecor.com/es/decoracion/g25292365/plantas-de-interior-resistentes/
+Botón de cookies no encontrada para la url https://elcorreodelsol.com/articulo/abc-del-cuidado-sostenible-de-las-plantas-de-interior
+Botón de cookies no encontrada para la url https://www.micasarevista.com/plantas-flores/g20474/las-plantas-de-interior-mas-resistentes/
+[20608:7996:0220/130959.867:ERROR:cert_verify_proc_builtin.cc(766)] CertVerifyProcBuiltin for iconmedia.containers.piwik.pro failed:
+----- Certificate i=0 (CN=Kubernetes Ingress Controller Fake Certificate,O=Acme Co) -----
+ERROR: No matching issuer found
+
+
+[20608:7996:0220/131004.302:ERROR:cert_verify_proc_builtin.cc(766)] CertVerifyProcBuiltin for iconmedia.containers.piwik.pro failed:
+----- Certificate i=0 (CN=Kubernetes Ingress Controller Fake Certificate,O=Acme Co) -----
+ERROR: No matching issuer found
+
+
+[20608:7996:0220/131020.120:ERROR:cert_verify_proc_builtin.cc(766)] CertVerifyProcBuiltin for iconmedia.containers.piwik.pro failed:
+----- Certificate i=0 (CN=Kubernetes Ingress Controller Fake Certificate,O=Acme Co) -----
+ERROR: No matching issuer found
+
+
+Botón de cookies no encontrada para la url https://www.aarp.org/espanol/hogar-familia/casa-jardin/info-2022/plantas-para-interiores-faciles-de-cuidar.html
+Botón de cookies no encontrada para la url https://www.clara.es/hogar/plantas-interior-resistentes_11731

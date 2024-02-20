@@ -1,0 +1,7 @@
+Elemento con xpath://button[contains(text(),'Acept')], encontrado y clicado para url https://www.ig.com/es/estrategias-de-trading/-que-son-los-graficos-de-bolsa-y-como-aplicarlos-a-tu-trading--230505
+Botón de cookies no encontrada para la url https://www.avatrade.es/educacion/trading-para-principiantes/como-leer-graficos
+Botón de cookies no encontrada para la url https://www.novatostradingclub.com/analisis-tecnico/mirando-un-grafico-por-primera-vez/
+Elemento con xpath://*[@id="cn-accept-cookie"], encontrado y clicado para url https://accionesyvalores.es/como-interpretar-graficos-de-bolsa/
+Botón de cookies no encontrada para la url https://vivid.money/en-eu/feed/es-como-leer-graficos-de-bolsa/
+Botón de cookies no encontrada para la url https://esbolsa.com/blog/analisis-tecnico/como-interpretar-un-grafico/
+Botón de cookies no encontrada para la url https://formacionenbolsa.com/que-son-los-graficos-y-que-representan/

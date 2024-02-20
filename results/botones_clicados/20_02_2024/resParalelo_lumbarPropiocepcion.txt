@@ -1,0 +1,9 @@
+Esta página https://www.youtube.com/watch?v=EYAUP0lTn50 no tiene cookies
+Esta página https://www.youtube.com/watch?v=XswGwnjJSqs no tiene cookies
+Elemento con xpath://*[contains(text(),'Acept')], encontrado y clicado para url https://www.forumsport.com/es-es/blogs/fitness/3-ejercicios-fundamentales-para-fortalecer-las-lumbares/
+Esta página https://www.youtube.com/watch?v=wvDO80bXY_w no tiene cookies
+Esta página https://www.youtube.com/watch?v=d2oX5WXDY1Y no tiene cookies
+Botón de cookies no encontrada para la url https://fisioterapiaenriquesierra.es/ejercicios-para-estabilizacion-lumbar/
+Botón de cookies no encontrada para la url https://ejercicioterapeutico.com/category/entrenamiento-propioceptivo/
+Botón de cookies no encontrada para la url https://ejercicioterapeutico.com/2017/05/04/entrenamiento-propioceptivo-estabilidad-abdominal-lumbar-y-pelvis/
+Botón de cookies no encontrada para la url https://www.fisioterapia-online.com/videos/reprogramacion-propioceptiva-para-lumbares-ejercicio-sencillo

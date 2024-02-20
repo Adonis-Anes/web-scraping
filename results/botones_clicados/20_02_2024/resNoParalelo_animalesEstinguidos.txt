@@ -1,0 +1,9 @@
+Elemento con xpath://*[contains(text(),'Acept')], encontrado y clicado para url https://www.sostenibilidad.com/medio-ambiente/top-10-animales-extintos/
+Botón de cookies no encontrada para la url https://www.studocu.com/cl/document/universidad-de-chile/anatomia/04-animales-extintos-en-los-ultimos-100-anos-autor-anonimo/25130400
+Botón de cookies no encontrada para la url https://www.esquire.com/es/ciencia/g38765319/animales-extincion-reciente/
+Botón de cookies no encontrada para la url https://www.bbc.com/mundo/noticias-50581981
+Botón de cookies no encontrada para la url https://www.mundodeportivo.com/urbantecno/ciencia/los-ultimos-animales-prehistoricos-en-extinguirse-hace-100-anos-aun-existian
+Botón de cookies no encontrada para la url https://www.artimalia.org/animales-extintos-siglo-xxi/
+Esta página https://www.youtube.com/watch?v=dw0ApJzYgrU no tiene cookies
+Botón de cookies no encontrada para la url https://es.scribd.com/document/408657452/10-Animales-Extintos-En-Los-Ultimos-100-Anos-docx
+Esta página https://es.wikipedia.org/wiki/Anexo:Especies_extintas_por_la_actividad_humana no tiene cookies

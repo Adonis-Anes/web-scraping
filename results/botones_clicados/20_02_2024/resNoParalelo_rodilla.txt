@@ -1,0 +1,7 @@
+Botón de cookies no encontrada para la url https://www.meds.cl/lesiones-rodilla-mas-comunes-futbol/
+Elemento con xpath://button[contains(text(),'Acept')], encontrado y clicado para url https://www.sanitas.es/biblioteca-de-salud/Lesiones/lesion-ligamentosa/lesiones-de-rodilla-futbol
+Botón de cookies no encontrada para la url https://kidshealth.org/es/teens/runners-knee.html
+Botón de cookies no encontrada para la url https://www.mayoclinic.org/es/diseases-conditions/knee-pain/symptoms-causes/syc-20350849
+Botón de cookies no encontrada para la url https://kidshealth.org/es/teens/jumpers-knee.html
+Elemento con xpath://*[contains(text(),'Acept')], encontrado y clicado para url https://cuidateplus.marca.com/ejercicio-fisico/2018/06/25/-duelen-rodillas-practicar-deporte-162907.html
+interrumpidoManual
