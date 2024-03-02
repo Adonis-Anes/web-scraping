@@ -16,7 +16,7 @@ def consulta_a_palabras_relevantes(consulta:str, id_consulta, guardar_archivos=F
     print('0.- Realizando la consulta y obteniendo links')
     urls = consulta_a_links(consulta=consulta)
     print('1.- Aceptando cookies y extrayendo html')
-    htmls = aceptar_cookies_y_extraer_htmls_concurrente(urls=urls)
+    htmls = aceptar_cookies_y_extraer_htmls_paralelizado(urls=urls)
     print('2.- Extrayendo texto limpio del html')
     textos = htmls_a_textos(htmls=htmls)
     print('3.- Creando la matriz tfidf')
