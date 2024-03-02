@@ -33,8 +33,6 @@ Estas líneas de código son equivalentes a llamar directamente a la función `c
 
 También podemos guardar los resultados de la ejecución de cada función. Véase el fichero example.ipynb
 
-DETALLES SOBRE LAS FUNCIONES
-
 Para aceptar las cookies se crea una función básica llamada `encontrar_elemento_y_clicar` que recibe como argumentos obligatorios una url y un xpath. Básicamente lo que hace es iniciar el driver, si no está pasado como parámetro, espera hasta un máximo de 3 segundos hasta encontrar un elemento clicable con el xpath pasado. Si lo encuentra lo clica.
 Sobre esta función se construyen las demás. 
 Dada una lista de candidatos a ser el botón de cookies de la página web, iteramos hasta que se alguno de estos coincida o agotemos la lista.
