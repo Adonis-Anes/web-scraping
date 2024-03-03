@@ -4,13 +4,21 @@ Este proyecto trata de obtener las palabras relevantes de una consulta de Google
 
 Web scraping program in Python using selenium library and SerApi for searches. Specifically focuses in accepting the cookies button in the websites, dowloading the html and finding the most relevant words across the websites using tfidf. These words will be used then for making a new search using SerApi.
 
+FICHEROS
+
+- cookies (carpeta)
+- results(carpeta): contiene los resultados de la ejecución de la(s) funcione(s).
+- test (carpeta): contiene datos que sirven para realizar los test de las funciones.
+- example (python notebook): contiene ejemplos de uso de las funciones.
+- functionsAccepCookies (archivo python): contiene el conjunto de funciones que se encargan de encontrar y aceptar el botón de cookies y además de descargar el html de la página web.
+- functionsNLP (archivo python): contiene el conjunto de funciones que se encargan de procesar el texto del html de las páginas web y extraer las palabras relevantes.
+- functionsReadWriteFiles (archivo python): contiene el conjunto de funciones que leen y crean archivos en el directorio de carpetas.
+- functionsSerApi (archivo python): contiene el conjunto de funciones encargadas de realizar consultas a SerApi y de conseguir el conjunto de links.
+- main (archivo python): contiene la función principal.
+- stopwords (archivo de texto): contiene el conjunto de stopwords utilizadas.
+- test (archivo python): realiza un test de algunas funciones.
+
 EJEMPLOS DE USO
-
-      driver = webdriver.Chrome()
-      url='https://cnnespanol.cnn.com/tag/nayib-bukele/'
-      aceptar_cookies(driver=driver, url=url, show_process=True)
-      driver.quit()
-
 
 Una de las funciones principales que se llama `consulta_a_palabras_relevantes` llama en su ejecución a un conjunto de funciones, que pueden ser invocadas por separado y dan el mismo resultado que llamar a esta función.
 Veámoslo en el siguiente ejemplo. 
