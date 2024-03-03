@@ -43,7 +43,8 @@ def crear_matriz_tfidf(text_files:list, max_df=0, min_df=0):
     Output: matriz en forma de Dataframe de la tfidf con las 20 palabras más relevantes."""
     text_titles = list(range(len(text_files)))
     # Cargar las stopwords
-    stop_words = txt_a_lista('stopwords.txt')
+    #stop_words = txt_a_lista('stopwords.txt')
+    stop_words = cargar_stopwords()
     # Llamar al objeto TfidfVectorizer
     if max_df == 0:
       max_df = len(text_files)
@@ -52,8 +53,8 @@ def crear_matriz_tfidf(text_files:list, max_df=0, min_df=0):
          min_df = (len(text_files)//2) + 1
       elif len(text_files) <= 6:
         min_df = (len(text_files)//2) + 2
-    tfidf_vectorizer = TfidfVectorizer(input='content', stop_words=stop_words, max_features=30, strip_accents = 'unicode',
-                                       min_df=min_df, max_df=max_df, token_pattern="[a-zA-Z]{2,}")
+    tfidf_vectorizer = TfidfVectorizer(input='content', stop_words=stop_words, max_features=30,
+                                       min_df=min_df, max_df=max_df, token_pattern="[a-záéíóúñ]{3,}")
     # Crear la matriz
     tfidf_vector = tfidf_vectorizer.fit_transform(text_files)
     # Convertir la matriz a un objeto tipo DataFrame
@@ -73,5 +74,4 @@ def top_n_palabras_rel_tdidf(tfidf:DataFrame, n=10):
         return f'Número n={n} incorrecto, debe estar entre 1 y 30'
     top_n_words = tfidf.index[0:n]
     top_n_words = ' '.join(top_n_words)
-    top_n_words = re.sub(' ano',' año', top_n_words)
     return top_n_words
