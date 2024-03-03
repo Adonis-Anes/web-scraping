@@ -1,14 +1,11 @@
 from functionsAcceptCookies import *
 from functionsNLP import *
 from functionsReadWriteFiles import *
+import time
 
-id_consultas = ["tortugas","animalesExtinguidos", "bolsa", "bolsa2", "cafeina", "cena",
-               "introversion", "lumbarPropiocepcion", "motor", "musicaClasica", "rascacielos", 
-               "rodilla", "rusiaHistoria", "tigres"]
-
-for id in id_consultas:
-    textos = cargar_textos(id_consulta=id)
-    matriz = crear_matriz_tfidf(text_files=textos)
-    guardar_tfidf(matriz, id_consulta=id)
-    palabras = top_n_palabras_rel_tdidf(matriz)
-    guardar_palabras_rel(palabras=palabras, id_consulta=id)
+id = 'cafeina'
+urls = cargar_urls(id_consulta=id)
+ini = time.time()
+aceptar_cookies_paralelizado(urls=urls)
+fin = time.time()
+print(fin-ini)

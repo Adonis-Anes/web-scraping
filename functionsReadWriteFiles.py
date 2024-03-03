@@ -36,8 +36,8 @@ def guardar_string_como_txt(string, dir_dest):
         f.write(string)
     f.close()
 
-def guardar_consulta(id_consulta):
-    guardar_string_como_txt(id_consulta, f'results/consultas/consulta_{id_consulta}.txt')
+def guardar_consulta(consulta, id_consulta):
+    guardar_string_como_txt(consulta, f'results/consultas/consulta_{id_consulta}.txt')
 
 def guardar_palabras_rel(palabras, id_consulta):
     guardar_string_como_txt(palabras, f"results/palabras_rel/palabrasRel_{id_consulta}.txt")

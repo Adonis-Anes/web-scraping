@@ -34,7 +34,7 @@ def consulta_a_palabras_relevantes(consulta:str, id_consulta, guardar_archivos=F
         crear_carpeta(f'results/textos/{id_consulta}/')
         guardar_textos(textos=textos, id_consulta=id_consulta)
         #guardar matriz tfidf
-        guardar_tfidf(id_consulta=id_consulta)
+        guardar_tfidf(tfidf=tfidf, id_consulta=id_consulta)
         #guardar palabras relevantes
         guardar_palabras_rel(palabras=top_10_words, id_consulta=id_consulta)
     return top_10_words

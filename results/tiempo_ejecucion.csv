@@ -1,4 +1,4 @@
-id_consulta,paralelo,tiempo_ejecucion(s),
+id_consulta,paralelo,tiempo_ejecucion
 rascacielos,si,72.171
 rascacielos,no,173.830
 animalesExtinguidos,no,356.2849
