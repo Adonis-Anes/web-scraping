@@ -1,0 +1,8 @@
+Elemento con xpath://*[contains(text(),'Acept')], encontrado y clicado para url https://www.micasarevista.com/plantas-flores/g20474/las-plantas-de-interior-mas-resistentes/
+Elemento con xpath://*[contains(text(),'Acept')], encontrado y clicado para url https://floresnavarro.com/es/blog/las-10-mejores-plantas-de-interior-faciles-de-cuidar-n37
+Botón de cookies no encontrada para la url https://www.elmueble.com/ideas/decoterapia/10-plantas-interior-resistentes-y-faciles-mantener_42392
+Botón de cookies no encontrada para la url https://www.infinityauto.com/es/centro-de-conocimiento/vida-diaria-y-familia/las-mejores-plantas-para-tu-casa
+Botón de cookies no encontrada para la url https://elcorreodelsol.com/articulo/abc-del-cuidado-sostenible-de-las-plantas-de-interior
+Botón de cookies no encontrada para la url https://www.aarp.org/espanol/hogar-familia/casa-jardin/info-2022/plantas-para-interiores-faciles-de-cuidar.html
+Botón de cookies no encontrada para la url https://www.clara.es/hogar/plantas-interior-resistentes_11731
+Botón de cookies no encontrada para la url https://www.elledecor.com/es/decoracion/g25292365/plantas-de-interior-resistentes/

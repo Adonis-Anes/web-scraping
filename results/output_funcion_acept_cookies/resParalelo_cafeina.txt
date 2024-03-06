@@ -1,0 +1,9 @@
+Elemento con xpath://*[contains(text(),'Acept')], encontrado y clicado para url https://psicoveritas.com/blog/como-afecta-la-cafeina-al-cerebro-2/
+Elemento con xpath://*[contains(text(),'Acept')], encontrado y clicado para url https://www.infobae.com/salud/2023/12/06/como-actua-la-cafeina-en-la-capacidad-del-cerebro-para-aprender/
+Elemento con xpath://span[contains(text(),'Acept')], encontrado y clicado para url https://www.cafetearte.es/blog/post/como-actua-la-cafeina-en-nuestro-cerebro.html
+Elemento con xpath://button[contains(text(),'Acept')], encontrado y clicado para url https://www.elsevier.es/es-revista-neurologia-295-articulo-cafeina-cefalea-consideraciones-especiales-S0213485315000158
+Botón de cookies no encontrada para la url https://medlineplus.gov/spanish/ency/article/002445.htm
+Botón de cookies no encontrada para la url https://www.cicas.es/noticias/efectos-de-la-cafeina-en-el-sistema-nervioso-central-snc
+Botón de cookies no encontrada para la url https://www.elespanol.com/ciencia/salud/20170803/236226418_0.html
+Botón de cookies no encontrada para la url https://www.lavanguardia.com/vivo/nutricion/20170828/43830263053/efectos-cafe-cerebro.html
+Botón de cookies no encontrada para la url https://www.healthline.com/health/es/cerebro-de-cafe

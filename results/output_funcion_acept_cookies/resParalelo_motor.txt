@@ -1,0 +1,8 @@
+Elemento con xpath://*[contains(text(),'Acept')], encontrado y clicado para url https://www.toyota.es/electrificacion/hidrogeno/diferencia-coche-hidrogeno-y-electrico-bateria
+Elemento con xpath://*[contains(text(),'Acept')], encontrado y clicado para url https://motor.elpais.com/coches-electricos/coche-electrico-coche-hidrogeno-ocu-da-la-respuesta-definitiva/
+Botón de cookies no encontrada para la url https://www.autobild.es/noticias/coches-hidrogeno-vs-coches-electricos-tres-ventajas-tres-desventajas-899501
+Botón de cookies no encontrada para la url https://computerhoy.com/motor/razones-coche-hidrogeno-no-puede-hacer-nada-frente-futuro-donde-sera-todo-coche-electrico-1164806
+Elemento con xpath://button[contains(text(),'Acept')], encontrado y clicado para url https://www.motor.es/noticias/coche-electrico-vs-hidrogeno-202179490.html
+Botón de cookies no encontrada para la url https://es.euronews.com/next/2022/09/21/son-los-coches-de-hidrogeno-mejor-opcion-que-los-vehiculos-electricos
+Botón de cookies no encontrada para la url https://www.businessinsider.es/coches-hidrogeno-vs-coches-electricos-1294152
+Botón de cookies no encontrada para la url https://www.xataka.com/movilidad/toyota-cree-que-alternativa-al-coche-electrico-hidrogeno-liquido-ahora-tiene-problemas

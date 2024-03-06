@@ -41,6 +41,36 @@ Estas líneas de código son equivalentes a llamar directamente a la función `c
 
 Véase el fichero example.ipynb
 
+# ANÁLISIS DE RESULTADOS
+
+             idConsulta botonesClicados botonesNoClicados noHayBoton htmlsDescargados totalUrls  tEjNoParalelo  tEjParalelo   speedup
+0           rascacielos               0                 7          2                9         9        173.830       72.171  2.408585
+1   animalesExtinguidos               3                 4          2                9         9        356.284       69.879  5.098585
+2                 bolsa               2                 5          0                7         7        125.259       28.600  4.379685
+3                bolsa2               5                 3          0                8         8         80.385       40.854  1.967616
+4               cafeina               4                 5          0                9         9        134.153       50.597  2.651402
+5                  cena               1                 7          0                8         8        178.739       80.846  2.210858
+6          introversion               3                 6          0                9         9        162.473       70.046  2.319519
+7   lumbarPropiocepcion               1                 4          4                9         9         90.177       59.184  1.523672
+8                 motor               3                 5          0                8         8        116.876       64.084  1.823794
+9         musicaClasica               2                 3          1                6         6        147.525       65.496  2.252428
+10         plantasHogar               2                 6          0                8         8        162.719      128.117  1.270081
+11                pollo               1                 3          5                9         9         84.837       65.587  1.293503
+12              rodilla               3                 7          0               10        10        164.980       65.234  2.529049
+13        rusiaHistoria               0                 6          2                8         8        132.287       55.951  2.364337
+14               tigres               2                 6          0                8         8        130.024       86.855  1.497024
+15             tortugas               2                 6          1                9         9        138.209       51.573  2.679871
+
+Porcentaje medio de htmls descargados 100.0 %
+
+Porcentaje medio de botones de cookies encontrados clicados 25.623 %
+
+Speedup medio conseguido con ejecución paralela de la función aceptar_cookies 2.392 segundos
+
+Nota: estos resultados se pueden ver al ejecutar el fichero métricas.py
+
+(SECCIÓN EN DESARROLLO)
+
 # COMENTARIOS ADICIONALES
 
 Para aceptar las cookies se crea una función básica llamada `encontrar_elemento_y_clicar` que recibe como argumentos obligatorios una url y un xpath. Básicamente lo que hace es iniciar el driver, si no está pasado como parámetro, espera hasta un máximo de 3 segundos hasta encontrar un elemento clicable con el xpath pasado. Si lo encuentra lo clica.
