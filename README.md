@@ -83,6 +83,10 @@ Véase el fichero example.ipynb
 
 *Nota:* estos resultados se pueden ver al ejecutar el fichero métricas.py
 
+Por otro lado, en cuanto a las palabras extraídas como relevantes (resultado de procesar el contenido html de las distintas páginas web extraídas dada una consulta) a primera vista algunas parecen no tener relación con la consulta original, pero su consulta en Google da un resultado que reproduce la consulta original en el 90% de las ocasiones.
+Es decir, si cogemos las palabras relevantes, lo copiamos en el buscador de Google y realizamos la consulta, el resultado es el mismo a la consulta original.
+Es cierto que los resultados pueden variar ligeramente dado al historial personal de cada uno.
+
 
 # EXPLICACIÓN DEL CÓDIGO
 
