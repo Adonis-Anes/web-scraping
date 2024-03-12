@@ -41,3 +41,5 @@ print('Porcentaje medio de htmls descargados', pct_htmls_no_descargados.mean()*1
 print('Porcentaje medio de botones de cookies encontrados clicados', round(pct_botones_clicados.mean()*100,3),'%')
 print('Speedup medio conseguido con ejecución paralela de la función aceptar_cookies', round(df['speedup'].mean(),3), 'segundos')
 df.to_csv("results/metricas.csv", index=False)
+
+cargar
