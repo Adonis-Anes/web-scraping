@@ -93,3 +93,8 @@ Dada una lista de candidatos a ser el botón de cookies de la página web, itera
 
 
 # POSIBLES MEJORAS Y LIMITACIONES
+## Limitaciones
+- El tiempo de ejecución de la función. Aunque se ha mejorado el doble y en algunos casos el triple el tiempo de ejecución gracias a la paralelización.
+## Mejoras
+ - Elevar el porcentaje de botones de cookies encontrados y clicados.
+ - Encontrar alguna forma de mejorar los tiempos de ejecución.
