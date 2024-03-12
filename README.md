@@ -8,6 +8,16 @@ Web scraping program in Python using selenium library and SerApi for searches. S
 
 - **cookies** (carpeta)
 - **results** (carpeta): contiene los resultados de la ejecución de la(s) funcione(s).
+    - **consultas** (carpeta): contiene el string de las consultas realizadas.
+    - **htmls** (carpeta): contiene carpetas, las cuales cada una contienen los htmls de las páginas consultadas.
+    - **matrices** (carpeta): contiene las matrices tfidf (guardados como .csv) generadas resultado de procesar el contenido de texto de los htmls de una consulta.
+    - **output_funcion_acept_cookies** (carpeta): contiene la salida de la función ``aceptar_cookies`` para un conjunto de urls dada una consulta.
+    - **palabras_rel** (carpeta): contiene las 10 palabras más relevantes según la matriz tfidf de cada consulta realizada.
+    - **textos** (carpeta): contiene carpetas, las cuales cada una contienen los textos de las páginas consultadas (tras haber limpiado el texto del html).
+    - **urls**: contiene ficheros de texto, las cuales contienen el conjunto de urls extraídas tras reallizar una consulta.
+    - **métricas** (archivo csv): una tabla que contiene información acerca del número de botones de cookies clicados correctamente, urls extraídas, htmls descargados y otra información.
+    - **tiempo_ejecución** (archivo csv): recoge el tiempo de ejecución de la función ``aceptar_cookies_sin_palalelizar`` y ``aceptar_cookies_paralelizado``.
+  
 - **test** (carpeta): contiene datos que sirven para realizar los test de las funciones.
 - **example** (python notebook): contiene ejemplos de uso de las funciones.
 - **functionsAccepCookies** (archivo python): contiene el conjunto de funciones que se encargan de encontrar y aceptar el botón de cookies y además de descargar el html de la página web.
@@ -61,19 +71,24 @@ Véase el fichero example.ipynb
 14               tigres               2                 6          0                8         8        130.024       86.855  1.497024
 15             tortugas               2                 6          1                9         9        138.209       51.573  2.679871
 
-Porcentaje medio de htmls descargados 100.0 %
 
-Porcentaje medio de botones de cookies encontrados clicados 25.623 %
 
-Speedup medio conseguido con ejecución paralela de la función aceptar_cookies 2.392 segundos
+## Resumen
+**Porcentaje medio de htmls descargados:** 100.0 %
 
-Nota: estos resultados se pueden ver al ejecutar el fichero métricas.py
+**Porcentaje medio de botones de cookies encontrados clicados:** 25.623 %
 
-(SECCIÓN EN DESARROLLO)
+**Speedup medio conseguido con ejecución paralela de la función aceptar_cookies:** 2.392 segundos
 
-# COMENTARIOS ADICIONALES
+*Nota:* estos resultados se pueden ver al ejecutar el fichero métricas.py
 
+
+# EXPLICACIÓN DEL CÓDIGO
+
+## Funciones para aceptar el botón de cookies
 Para aceptar las cookies se crea una función básica llamada `encontrar_elemento_y_clicar` que recibe como argumentos obligatorios una url y un xpath. Básicamente lo que hace es iniciar el driver, si no está pasado como parámetro, espera hasta un máximo de 3 segundos hasta encontrar un elemento clicable con el xpath pasado. Si lo encuentra lo clica.
 Sobre esta función se construyen las demás. 
 Dada una lista de candidatos a ser el botón de cookies de la página web, iteramos hasta que se alguno de estos coincida o agotemos la lista.
 
+
+# POSIBLES MEJORAS Y LIMITACIONES
