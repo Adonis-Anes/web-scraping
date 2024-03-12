@@ -102,3 +102,4 @@ Dada una lista de candidatos a ser el botón de cookies de la página web, itera
 ## Mejoras
  - Elevar el porcentaje de botones de cookies encontrados y clicados.
  - Encontrar alguna forma de mejorar los tiempos de ejecución.
+ - Sería interesante considerar en la búsqueda de urls los enlaces internos de una página web relevantes para la consulta y no quedarse sólamente en la página principal.
