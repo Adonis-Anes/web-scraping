@@ -55,7 +55,7 @@ def consulta_a_organic_results(consulta :str,
    - origen_busqueda: desde donde se realiza la búsqueda (opcional)
   SALIDA: organic results de SerApi
   """
-  secret_api_key = "b66c4dbf7f0c485013262a3bd99e0e971622380e46d6a97b201fe40b4663346e"
+  secret_api_key = SECRET_API_KEY
   params = {
     "engine": "google",
     "q": consulta,
